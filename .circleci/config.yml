@@ -3,7 +3,7 @@ jobs:
         docker:
             - image: cibuilds/base
         environment:
-            GITHUB_REPO_URL: https://github.com/ScelyM/ScelyM.github.io
+            GITHUB_REPO_URL: github.com/ScelyM/ScelyM.github.io
         steps:
             - attach_workspace:
                 at: blog
