@@ -179,9 +179,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    c-twitter = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
+    c-twitter = "https://twitter.com/Sceeely"
+    g-github = "https://github.com/ScelyM"
+    h-weibo = "https://weibo.com/u/2485089434"
     o-bilibili = "https://space.bilibili.com/550673"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
