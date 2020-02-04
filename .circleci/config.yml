@@ -16,7 +16,7 @@ jobs:
                     git config user.email "Scely694562@gmail.com"
                     git add .
                     git commit -m "Blog builds $CIRCLE_WORKFLOW_JOB_ID using Circle CI"
-                    git push --quiet --force "https://${GITHUB_ACCESS_TOKEN}@${GITHUB_REPO_URL}" master:master
+                    git push --quiet --force "https://$0c5807a9e3b0988a9fee09015d7d1f09d5103465@${GITHUB_REPO_URL}" master:master
 orbs:
     hugo: circleci/hugo@0.4.1
 version: 2.1
