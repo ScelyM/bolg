@@ -183,6 +183,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     g-github = "https://github.com/ScelyM"
     h-weibo = "https://weibo.com/u/2485089434"
     o-bilibili = "https://space.bilibili.com/550673"
+    s-steam = "Steamcommunity.com/ScelyM"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
