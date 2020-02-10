@@ -27,7 +27,11 @@ draft: false
 - 存储盘:Toshiba P300 3T
 - ~~游戏盘:WD SN720 512G~~
 - 机箱:Aigo T20
+- 键盘:Niz 66key@35g
+- 鼠标:ZOWIE EC1A
+- 耳机:HyperX Cloud II
 ### 随身电脑
+~~疫情原因，至今未发货~~
 MSI Alpha 15
 - 32G memory
 - Toshiba RC500 512G

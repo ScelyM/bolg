@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Even - A super concise theme for Hugo"
+title = "Scely's Site"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -59,9 +59,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Scely's Bolg."        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","even","BMS"]
-  description = "Scely's Bolg."
+  logoTitle = "Scely's Site."        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["CSGO", "Sabun","差分","BMS"]
+  description = "Scely's Site."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 10
