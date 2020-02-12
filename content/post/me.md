@@ -37,4 +37,5 @@ MSI Alpha 15
 - Toshiba RC500 512G
 - Gloway 1.5T 2.5"SATA
 ### talkshit
-还没想好 就这样吧
+- https://mixer.com/ScelyM
+- https://live.bilibili.com/12447
