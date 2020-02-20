@@ -4,8 +4,6 @@ date: 2020-02-09T16:25:20+08:00
 draft: False
 ---
 
-<!-- more -->
-
 - **Level=I guess**
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBFObj5zyI8uDtDBKZATfUZg?e=Wvyn0g)

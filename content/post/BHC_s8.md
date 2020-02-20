@@ -1,9 +1,8 @@
 ---
-title: "BHC_s8"
+title: "大汉杯season8"
 date: 2020-02-20T02:20:20+08:00
 draft: false
 ---
-<!-- more -->
 
 # 大汉杯 Season8 比赛页面
 
