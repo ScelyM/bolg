@@ -3,6 +3,7 @@ title: "我是Scely，他们都叫我大汉"
 date: 2020-02-09T13:08:03+08:00
 draft: false
 ---
+<!-- more -->
 
 ### 玩什么
 - BMS @ Beatoraja
@@ -27,8 +28,7 @@ draft: false
 - 存储盘:Toshiba P300 3T
 - ~~游戏盘:WD SN720 512G~~
 - 机箱:Aigo T20
-- 键盘:Niz 66key@35g
-- 鼠标:ZOWIE EC1A
+- 键盘:Niz 66key@35g- 鼠标:ZOWIE EC1A
 - 耳机:HyperX Cloud II
 ### 随身电脑
 ~~疫情原因，至今未发货~~
@@ -36,6 +36,12 @@ MSI Alpha 15
 - 32G memory
 - Toshiba RC500 512G
 - Gloway 1.5T 2.5"SATA
-### talkshit
-- https://mixer.com/ScelyM
-- https://live.bilibili.com/12447
+### 联系我
+- 1160638531
+- 邮箱
+  - Scely694562@gmail.com
+  - Scely@o2jamu.com (powered by QQmail)
+- 直播
+  - https://mixer.com/ScelyM
+  - https://live.bilibili.com/12447
+- [discord link](discord.gg/9mp6h6W)
