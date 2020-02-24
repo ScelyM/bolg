@@ -5,6 +5,7 @@ draft: False
 ---
 
 - **Level=I guess**
+- **Click Level to get preview,on Bilibili**
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 ## sabuns
@@ -12,19 +13,20 @@ draft: False
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
-☆12 | One Way Street [Season] | siqlo | BOFU2017 | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
-★3 | GLAZ [Where my bullet go?] | Yunosuke | G2R2018 | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
-★3 | Trancing 'Tempo'rary [Trace] | NASA | BOFU2017 | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
-★4 | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
-★6 | Brun [Beijing Burn Duck] | NecS | BOFXV2019 | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
-★8 | Door Nock [G] | BilliumMoto | BOFXV2019 | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
-★9 | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
-★12 | Breaching [Ki] | uet | BOFXV2019 | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
-★12 | CherryImpact [Siron] | kozato | BOFXV2019 | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
-★15 | WE ARE HARDCORE [gang] | lixound | G2R2018 | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
-★17 | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
-DP | Burn [Her grandma] | NecS | BOFXV2019 | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
-? | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
+☆12 | Blackorient [Step] | Sound souler | BOFXV | /
+[☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | BOFU2017 | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
+[★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | G2R2018 | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
+[★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | BOFU2017 | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
+[★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
+[★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019 | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+[★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019 | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
+[★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
+[★12](https://www.bilibili.com/video/av81409574?p=5) | Breaching [Ki] | uet | BOFXV2019 | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
+[★12](https://www.bilibili.com/video/av84389512) | CherryImpact [Siron] | kozato | BOFXV2019 | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
+[★15](https://www.bilibili.com/video/av35739704) | WE ARE HARDCORE [gang] | lixound | G2R2018 | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
+[★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
+[DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019 | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
+[★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
 
 ---  
 ## 同捆
@@ -32,8 +34,8 @@ DP | Burn [Her grandma] | NecS | BOFXV2019 | [03463](http://gnqg.rosx.net/upload
 
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
-★5 | ΣθИ - θ∀θ - | SEPHID | G2R2018
-☆12 | Corona [SP Another] | ProjectG | 无名战16
+[★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | G2R2018
+[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | 无名战16
 ★19 | 禁忌と緋色幻想 -The Primary Plasm- [SP Another] | ZUN Remixed by NoKANY | 东方音弹游戏8 | stella st0
 ☆12 | Theme [SP Another] | ProjectG | 众议院选2
 ☆8 | Theme [SP Hyper] | ProjectG | 众议院选2
@@ -51,7 +53,7 @@ Level | Song Name | Composer | Event | Table
 ☆11 | Metronome [SP Another] | 女藏 | BOFXV
 ☆8 | Metronome [SP Hyper] | 女藏 | BOFXV
 ☆5 | Metronome [SP Normal] | 女藏 | BOFXV
-★5 | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | BOFOONXV
+[★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | BOFOONXV
 
 ---
 ## non-keysound
@@ -64,37 +66,38 @@ Level | Song Name | Composer | Feature | From (Game)
 ☆10 | だれかの心臓になれたなら | GUMI,ユリイ・カノン | 4min | 
 ☆11 | Hyeonmu Seogtab | Maple Story | scratch | Maple Story
 ☆11 | DEPARTED (2GPS REMIX) | MINIKOMA☆ |  | Tone sphere
-☆12 | Dope DrowN DoLL | Dr.RcB |  | O2JAMU
+[☆12](https://www.bilibili.com/video/av58423461) | Dope DrowN DoLL | Dr.RcB |  | O2JAMU
 ☆12 | Milky Factory | Kobaryu |  | 
-★1 | dubai was lit | Asher Postman | total117 | 
+[★1](https://www.bilibili.com/video/av75598680) | dubai was lit | Asher Postman | total117 | 
 ★1 | Misplaced Shadow | SENEZ |  | O2JAMU
-★1 | AI[UE]OON | MYUKKE. |  | Arcaea
-★1 | NEXT LEVEL | lapix vs sky_delta |  | 
-★2 | 7th Sense | Sakuzyo |  | maimai
-★3 | Lance | Ras |  | maimai
-★4 | Death Scythe | SHIKI |  | maimai
-★4 | PANDORA PARADOXXX | Sakuzyo |  | maimai
+[★1](https://www.bilibili.com/video/av66636707) | AI[UE]OON | MYUKKE. |  | Arcaea
+[★1](https://www.bilibili.com/video/av10705369?p=10) | NEXT LEVEL | lapix vs sky_delta |  | 
+[★2](https://www.bilibili.com/video/av9975073) | 7th Sense | Sakuzyo |  | maimai
+[★3](https://www.bilibili.com/video/av9902337) | Lance | Ras |  | maimai
+[★4](https://www.bilibili.com/video/av9940269) | Death Scythe | SHIKI |  | maimai
+[★4](https://www.bilibili.com/video/av56817620) | PANDORA PARADOXXX | Sakuzyo |  | maimai
 ★4 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
 ★6 | swag | lapix |  | 
 ★6 | HERA | Luze |  | maimai
 ★6 | Rebellion | NAOKI underground |  | Cross X Beat
-★6 | slav squat scratch test | Ravine | 38s | 
+[★6](https://www.bilibili.com/video/av56843601) | slav squat scratch test | Ravine | 38s | 
 ★7 | 炯眼の絶対零度 | polysha |  | DYNAMIX
 ★8 | Panic holic | C-show |  | Sound Voltex
-★8 | CITRUS MONSTER | D-Cee |  | maimai
-★10 | Stage 5 | LV.4 |  | 
-★11 | SIDONIA | LV.4 |  | 
-★11 | Star Stream | r300k |  | O2JAMU
+[★8](https://www.bilibili.com/video/av23566816) | CITRUS MONSTER | D-Cee |  | maimai
+[★10](https://www.bilibili.com/video/av10705369?p=2) | Stage 5 | LV.4 |  | 
+[★11](https://www.bilibili.com/video/av18675341?p=14) | SIDONIA | LV.4 |  | 
+[★11](https://www.bilibili.com/video/av43398623) | Star Stream | r300k |  | O2JAMU
 ★12 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
 ★13 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
 ★13 | Midnight City Warfare | sky_delta |  | JUBEAT
-★15 | larva | ガリガリさむし |  | maimai
+[★15](https://www.bilibili.com/video/av48859406) | larva | ガリガリさむし |  | maimai
 ★16 | Rebellion | NAOKI underground |  | Cross X Beat
-★16 | cyanine | jioyi |  | lanota
-★16 | INFINITY | Lunatic Sound |  | EZ2AC
-★18 | HERA | Luze |  | maimai
-★20 | Tetelestai | Sibyle |  | 
+[★16](https://www.bilibili.com/video/av30178372) | cyanine | jioyi |  | lanota
+[★16](https://www.bilibili.com/video/av18675341?p=15) | INFINITY | Lunatic Sound |  | EZ2AC
+[★18](https://www.bilibili.com/video/av23566591) | HERA | Luze |  | maimai
+[★20](https://www.bilibili.com/video/av60274108) | Tetelestai | Sibyle |  | 
 ★23 | Seeker (Special Remix) | SouL | 4500notes | 
-/ | aaaa's BMS Medley | ああああ | 15min | 
-/ | PLANET//SHAPER | Camellia | stop/speed | 
-/ | ultra b+k | nora2r | stop/speed/mine | 
+[★?](https://www.bilibili.com/video/av59081516) | ああああ's BMS Medley | ああああ | 15min | 
+[★?](https://www.bilibili.com/video/av54978297) | lost found melody | 黑魔//百舌谷 | 横落注意
+★? | PLANET//SHAPER | Camellia | stop/speed | 
+[★?](https://www.bilibili.com/video/av13608735?p=3) | ultra b+k | nora2r | stop/speed/mine | 
