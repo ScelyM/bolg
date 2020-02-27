@@ -13,20 +13,20 @@ draft: False
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
-[☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | BOFXV | /
+[☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | BOFXV2019 | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 [☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | BOFU2017 | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 [★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | G2R2018 | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 [★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | BOFU2017 | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
-[★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | 無名戦10 | /
-[★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019 | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
-[★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019 | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
+[★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | 無名戦10 | [04074](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
+[★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019| [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+[★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019| [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 [★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
 [★12](https://www.bilibili.com/video/av81409574?p=5) | Breaching [Ki] | uet | BOFXV2019 | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
 [★12](https://www.bilibili.com/video/av84389512) | CherryImpact [Siron] | kozato | BOFXV2019 | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
 [★15](https://www.bilibili.com/video/av35739704) | WE ARE HARDCORE [gang] | lixound | G2R2018 | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
 [★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
-[DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019 | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
+[DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019  | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
 [★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
 
 ---  
