@@ -13,11 +13,12 @@ draft: False
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
-☆12 | Blackorient [Step] | Sound souler | BOFXV | /
+[☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | BOFXV | /
 [☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | BOFU2017 | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 [★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | G2R2018 | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 [★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | BOFU2017 | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
+[★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | 無名戦10 | /
 [★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019 | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
 [★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019 | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 [★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
@@ -35,7 +36,7 @@ Level | Song Name | Composer | Event | Download | Table
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
 [★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | G2R2018
-[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | 无名战16
+[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | 無名戦16
 ★19 | 禁忌と緋色幻想 -The Primary Plasm- [SP Another] | ZUN Remixed by NoKANY | 东方音弹游戏8 | stella st0
 ☆12 | Theme [SP Another] | ProjectG | 众议院选2
 ☆8 | Theme [SP Hyper] | ProjectG | 众议院选2
