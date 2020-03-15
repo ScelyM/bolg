@@ -4,13 +4,11 @@ date: 2020-02-20T02:20:20+08:00
 draft: false
 ---
 
-# 大汉杯 Season8 比赛页面
-
 ### 比赛主题
 _**Time=?**_
 
 **比赛已截止，[下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/EuLMmQegWOdDmjmj-LSwjHgBLwWRvfEyPOtnmyofufTZEQ?e=xqKYAJ)和[投票页面](https://tp.wjx.top/jq/64618629.aspx)已放出，点击进入。**
-
+<!--more-->
 
 ### 比赛规则
 - 选曲范围：无限制，禁止涉及国家法律法规所禁止的部分。
