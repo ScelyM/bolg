@@ -78,6 +78,7 @@ Level | Song Name | Composer | Feature | From (Game)
 [★4](https://www.bilibili.com/video/av9940269) | Death Scythe | SHIKI |  | maimai
 [★4](https://www.bilibili.com/video/av56817620) | PANDORA PARADOXXX | Sakuzyo |  | maimai
 ★4 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
+[★5](https://www.bilibili.com/video/av95196006/) | Libertas | Zekk | | Arcaea
 ★6 | swag | lapix |  | 
 ★6 | HERA | Luze |  | maimai
 ★6 | Rebellion | NAOKI underground |  | Cross X Beat

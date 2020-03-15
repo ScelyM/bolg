@@ -9,6 +9,9 @@ draft: false
 ### 比赛主题
 _**Time=?**_
 
+**比赛已截止，[下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/EuLMmQegWOdDmjmj-LSwjHgBLwWRvfEyPOtnmyofufTZEQ?e=xqKYAJ)和[投票页面](https://tp.wjx.top/jq/64618629.aspx)已放出，点击进入。**
+
+
 ### 比赛规则
 - 选曲范围：无限制，禁止涉及国家法律法规所禁止的部分。
 - 限制曲目在LR2/oraja游戏内的播放时间不得超过1分01秒，以beatoraja选曲界面的时间为准。~~尽量留余量~~
@@ -29,6 +32,7 @@ _**Time=?**_
 - 截止前自动向上补正到50的倍数。  
 - 前（总奖金/50）名每人得50，不限每人获奖数量。  
 - 前三名会额外赠送实体礼物，需要地址。  
+- 只有得分超过30%的谱面才能获奖。
 
 名义 | 金额 | 备注
 --- | --- | ---
