@@ -8,6 +8,8 @@ draft: false
 _**Time=?**_
 
 **比赛已截止，[下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/EuLMmQegWOdDmjmj-LSwjHgBLwWRvfEyPOtnmyofufTZEQ?e=xqKYAJ)和[投票页面](https://tp.wjx.top/jq/64618629.aspx)已放出，点击进入。**
+
+**增加[预览视频地址](https://www.bilibili.com/video/av96642028)**
 <!--more-->
 
 ### 比赛规则
