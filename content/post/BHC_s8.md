@@ -1,7 +1,7 @@
 ---
 title: "大汉杯season8"
 date: 2020-02-20T02:20:20+08:00
-draft: false
+draft: true
 ---
 
 ### 比赛主题
