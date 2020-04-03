@@ -8,12 +8,11 @@ draft: False
 - **Click Level to get preview,on Bilibili**
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
-## sabuns （List by Level）
 
 20.4.3 update: 
-- BLRINK
-- Song of Spirits
 - 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子
+
+## sabuns （List by Level）
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -28,6 +27,7 @@ Level | Song Name | Composer | Event | Download | Table
 [★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
 [★12](https://www.bilibili.com/video/av81409574?p=5) | Breaching [Ki] | uet | BOFXV2019 | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
 [★12](https://www.bilibili.com/video/av84389512) | CherryImpact [Siron] | kozato | BOFXV2019 | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
+[★13](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
 [★15](https://www.bilibili.com/video/av35739704) | WE ARE HARDCORE [gang] | lixound | G2R2018 | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
 [★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
 [DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019  | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
@@ -35,8 +35,7 @@ Level | Song Name | Composer | Event | Download | Table
 [★?](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
 
 ---  
-## 同捆
-- List by Event
+## 同捆 (List by Event)
 
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
@@ -62,10 +61,11 @@ Level | Song Name | Composer | Event | Table
 [★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | BOFOONXV
 
 ---
-## non-keysound
-- List by Level
-- I know that shit but still make it,don't at me
-- Download link top of the page
+## non-keysound (List by Level)
+
+20.4.3 update
+- BLRINK
+- Song of Spirits
 
 Level | Song Name | Composer | Feature | From (Game)
 --- | --- | --- | --- | ---
