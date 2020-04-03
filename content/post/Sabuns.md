@@ -8,8 +8,12 @@ draft: False
 - **Click Level to get preview,on Bilibili**
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
-## sabuns
-- List by Level
+## sabuns （List by Level）
+
+20.4.3 update: 
+- BLRINK
+- Song of Spirits
+- 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -28,6 +32,7 @@ Level | Song Name | Composer | Event | Download | Table
 [★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
 [DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019  | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
 [★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
+[★?](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
 
 ---  
 ## 同捆
@@ -75,6 +80,7 @@ Level | Song Name | Composer | Feature | From (Game)
 [★1](https://www.bilibili.com/video/av10705369?p=10) | NEXT LEVEL | lapix vs sky_delta |  | 
 [★2](https://www.bilibili.com/video/av9975073) | 7th Sense | Sakuzyo |  | maimai
 [★3](https://www.bilibili.com/video/av9902337) | Lance | Ras |  | maimai
+★4 | Song of Spirits | sta | |
 [★4](https://www.bilibili.com/video/av9940269) | Death Scythe | SHIKI |  | maimai
 [★4](https://www.bilibili.com/video/av56817620) | PANDORA PARADOXXX | Sakuzyo |  | maimai
 ★4 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
@@ -83,6 +89,7 @@ Level | Song Name | Composer | Feature | From (Game)
 ★6 | HERA | Luze |  | maimai
 ★6 | Rebellion | NAOKI underground |  | Cross X Beat
 [★6](https://www.bilibili.com/video/av56843601) | slav squat scratch test | Ravine | 38s | 
+[★7](https://www.bilibili.com/video/BV1C7411U7DK) | BLRINK | sta | | Arcaea
 ★7 | 炯眼の絶対零度 | polysha |  | DYNAMIX
 ★8 | Panic holic | C-show |  | Sound Voltex
 [★8](https://www.bilibili.com/video/av23566816) | CITRUS MONSTER | D-Cee |  | maimai
