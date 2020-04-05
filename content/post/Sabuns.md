@@ -67,20 +67,20 @@ Level | Song Name | Composer | Event | Table
 - BLRINK
 - Song of Spirits
 
-Level | Song Name | Composer | Feature | From (Game)
+Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
 ☆10 | だれかの心臓になれたなら | GUMI,ユリイ・カノン | 4min | 
 ☆11 | Hyeonmu Seogtab | Maple Story | scratch | Maple Story
-☆11 | DEPARTED (2GPS REMIX) | MINIKOMA☆ |  | Tone sphere
+[☆11](https://www.bilibili.com/video/BV1rt41187iu?p=4) | DEPARTED (2GPS REMIX) | MINIKOMA☆ |  | Tone sphere
 [☆12](https://www.bilibili.com/video/av58423461) | Dope DrowN DoLL | Dr.RcB |  | O2JAMU
 ☆12 | Milky Factory | Kobaryu |  | 
 [★1](https://www.bilibili.com/video/av75598680) | dubai was lit | Asher Postman | total117 | 
-★1 | Misplaced Shadow | SENEZ |  | O2JAMU
+[★1](https://www.bilibili.com/video/BV1rt41187iu?p=1) | Misplaced Shadow | SENEZ |  | O2JAMU
 [★1](https://www.bilibili.com/video/av66636707) | AI[UE]OON | MYUKKE. |  | Arcaea
 [★1](https://www.bilibili.com/video/av10705369?p=10) | NEXT LEVEL | lapix vs sky_delta |  | 
 [★2](https://www.bilibili.com/video/av9975073) | 7th Sense | Sakuzyo |  | maimai
 [★3](https://www.bilibili.com/video/av9902337) | Lance | Ras |  | maimai
-★4 | Song of Spirits | sta | |
+[★4](https://www.bilibili.com/video/BV1Kg4y187RH/) | Song of Spirits | sta | | 
 [★4](https://www.bilibili.com/video/av9940269) | Death Scythe | SHIKI |  | maimai
 [★4](https://www.bilibili.com/video/av56817620) | PANDORA PARADOXXX | Sakuzyo |  | maimai
 ★4 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
@@ -93,7 +93,7 @@ Level | Song Name | Composer | Feature | From (Game)
 ★7 | 炯眼の絶対零度 | polysha |  | DYNAMIX
 ★8 | Panic holic | C-show |  | Sound Voltex
 [★8](https://www.bilibili.com/video/av23566816) | CITRUS MONSTER | D-Cee |  | maimai
-[★10](https://www.bilibili.com/video/av10705369?p=2) | Stage 5 | LV.4 |  | 
+[★10](https://www.bilibili.com/video/av10705369?p=2) | Stage 5 | LV.4 |  | DYNAMIX
 [★11](https://www.bilibili.com/video/av18675341?p=14) | SIDONIA | LV.4 |  | 
 [★11](https://www.bilibili.com/video/av43398623) | Star Stream | r300k |  | O2JAMU
 ★12 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
@@ -107,6 +107,6 @@ Level | Song Name | Composer | Feature | From (Game)
 [★20](https://www.bilibili.com/video/av60274108) | Tetelestai | Sibyle |  | 
 ★23 | Seeker (Special Remix) | SouL | 4500notes | 
 [★?](https://www.bilibili.com/video/av59081516) | ああああ's BMS Medley | ああああ | 15min | 
-[★?](https://www.bilibili.com/video/av54978297) | lost found melody | 黑魔//百舌谷 | 横落注意
+[★?](https://www.bilibili.com/video/av54978297) | lost found melody | 黑魔//百舌谷 | →→→→
 ★? | PLANET//SHAPER | Camellia | stop/speed | 
 [★?](https://www.bilibili.com/video/av13608735?p=3) | ultra b+k | nora2r | stop/speed/mine | 
