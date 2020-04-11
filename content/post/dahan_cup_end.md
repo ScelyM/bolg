@@ -214,7 +214,7 @@ POODLE|2bxp.dll|133
 |Cillit Bang (Short edit)|14
 |Fate to Despair: BMS Edit|13
 
-## 感谢各位对我的支持与帮助
+# 感谢各位对我的支持与帮助
 - [Hakula](http://hakula.xyz)
 - anshi
 - udon

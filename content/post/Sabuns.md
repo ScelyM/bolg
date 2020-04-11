@@ -63,6 +63,9 @@ Level | Song Name | Composer | Event | Table
 ---
 ## non-keysound (List by Level)
 
+20.4.11 update
+- Hz
+
 20.4.3 update
 - BLRINK
 - Song of Spirits
@@ -73,6 +76,7 @@ Level | Song Name | Composer | Feature | Source (game)
 ☆11 | Hyeonmu Seogtab | Maple Story | scratch | Maple Story
 [☆11](https://www.bilibili.com/video/BV1rt41187iu?p=4) | DEPARTED (2GPS REMIX) | MINIKOMA☆ |  | Tone sphere
 [☆12](https://www.bilibili.com/video/av58423461) | Dope DrowN DoLL | Dr.RcB |  | O2JAMU
+☆12 | Hz | Zeryoone | | Tone Sphere
 ☆12 | Milky Factory | Kobaryu |  | 
 [★1](https://www.bilibili.com/video/av75598680) | dubai was lit | Asher Postman | total117 | 
 [★1](https://www.bilibili.com/video/BV1rt41187iu?p=1) | Misplaced Shadow | SENEZ |  | O2JAMU
