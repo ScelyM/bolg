@@ -32,7 +32,6 @@ Level | Song Name | Composer | Event | Download | Table
 [★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
 [DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019  | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
 [★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
-[★?](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
 
 ---  
 ## 同捆 (List by Event)
@@ -76,7 +75,7 @@ Level | Song Name | Composer | Feature | Source (game)
 ☆11 | Hyeonmu Seogtab | Maple Story | scratch | Maple Story
 [☆11](https://www.bilibili.com/video/BV1rt41187iu?p=4) | DEPARTED (2GPS REMIX) | MINIKOMA☆ |  | Tone sphere
 [☆12](https://www.bilibili.com/video/av58423461) | Dope DrowN DoLL | Dr.RcB |  | O2JAMU
-☆12 | Hz | Zeryoone | | Tone Sphere
+[☆12](https://www.bilibili.com/video/BV1zg4y187iF/) | Hz | Zeryoone | | Tone Sphere
 ☆12 | Milky Factory | Kobaryu |  | 
 [★1](https://www.bilibili.com/video/av75598680) | dubai was lit | Asher Postman | total117 | 
 [★1](https://www.bilibili.com/video/BV1rt41187iu?p=1) | Misplaced Shadow | SENEZ |  | O2JAMU

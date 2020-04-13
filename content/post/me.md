@@ -8,8 +8,9 @@ draft: false
 - BMS @ Beatoraja
 - Counter-Strike : Global Offensive
 - Apex Legends
-- Battlefield ~~1/5/3/4~~
-- 白猫Project
+- Tone Sphere
+- ~~Battlefield 1/5/3/4~~
+- ~~白猫Project~~
 ### 爱好
 - 音游
 - 写BMS
@@ -27,13 +28,14 @@ draft: false
 - 存储盘:Toshiba P300 3T
 - 游戏盘:Toshiba rc500 512G
 - 机箱:Aigo T20
-- 键盘:Niz 66key@35g
+- 键盘:Niz 87key@35g
 - 鼠标:ZOWIE EC1A
 - 耳机:HyperX Cloud II
+- 显示器:ZOWIE XL2411P
 ### Laptop
 HP 战66 AMD二代 15.6"
 - 3500U Vega8
-- 4+4G 2400
+- 8+8G 2400
 - WD SN720 1T
 ### 联系我
 - 1160638531
