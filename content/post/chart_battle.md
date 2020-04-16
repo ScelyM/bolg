@@ -22,15 +22,25 @@ draft: false
     - 每届仅有4人
     - 第五人选曲以及等级
     - 谱面完成后提交给抽签人，等全部提交后上传视频并公开
+    - 选曲决定后3天之内未提交谱面，则换人
 
-### 参赛者
-- Scely
-- liaoxingyao
-- tyrcs
-- AZVW_2
+- 参赛者
+    - Scely
+    - liaoxingyao
+    - tyrcs
+    - AZVW_2
 
-### 抽签人
-- JoeT
-    - Booouncing!! - 翡乃イスカ vs. Iriss
-    - BOFU2016
-    - ★8
+- 抽签人
+    - JoeT
+        - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
+        - ★8
+
+- 谱面视频
+    - [bilibili](https://www.bilibili.com/video/av540278434)
+    - ~~youtube~~
+
+- 投票
+    - https://www.wjx.cn/jq/71999015.aspx
+- 下载
+    - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
+    - [onedrive](https://savap-my.sharepoint.com/:f:/g/personal/w1h8goj_ceyl_top/EsEfqhniO2VBk4tj_CI4i58BPW41bizaJoSdo8Fzc7uL4w?e=doQhQc)
