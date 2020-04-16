@@ -12,9 +12,10 @@ draft: false
     - 指定难度（白11到黑9，允许谱面难度上下超出两级）
 - 投票
     - 无DDL，全部提交即开始投票
-    - 微博/QQ群/twitter同步开始投票
+    - 使用问卷星投票，在考虑twitter同步开启的可行性
     - 投票共3天（72小时）
 - 谱面
+    - sp(7key+1)格式，无其他限制
     - 谱面视频会上传到B站/youtube
     - 谱面会上传到避难所。
 - 人员
@@ -38,10 +39,9 @@ draft: false
 
 - 谱面视频
     - [bilibili](https://www.bilibili.com/video/av540278434)
-    - ~~youtube~~
-
+    - [youtube](https://www.youtube.com/watch?v=wCq7IZiZufM&list=PLoVkWZAryTbiEUG7NQ8fklcEZ0cFLxvby)
 - 投票
     - https://www.wjx.cn/jq/71999015.aspx
 - 下载
     - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
-    - [onedrive](https://savap-my.sharepoint.com/:f:/g/personal/w1h8goj_ceyl_top/EsEfqhniO2VBk4tj_CI4i58BPW41bizaJoSdo8Fzc7uL4w?e=doQhQc)
+    - [onedrive](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Erh1uQQ8-bpDrlkbjIJSNuIBlFtc18vJaC10-3kjbdQrCw?e=c3pzP8)
