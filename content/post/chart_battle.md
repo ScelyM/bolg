@@ -24,16 +24,17 @@ draft: false
     - 谱面完成后提交给抽签人，等全部提交后上传视频并公开
     - 选曲决定后3天之内未提交谱面，则换人
 
+进行中：Season1
+- 抽签人
+    - JoeT
+        - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
+        - ★8
+
 - 参赛者
     - Scely
     - liaoxingyao
     - tyrcs
     - AZVW_2
-
-- 抽签人
-    - JoeT
-        - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
-        - ★8
 
 - 谱面视频
     - [bilibili](https://www.bilibili.com/video/av540278434)
