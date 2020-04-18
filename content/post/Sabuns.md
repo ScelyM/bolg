@@ -10,7 +10,7 @@ draft: False
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
 20.4.15 update:
-- Booouncing!![IN]S
+- Booouncing!! [IN]
 
 20.4.3 update: 
 - 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子

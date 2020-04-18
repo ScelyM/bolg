@@ -11,37 +11,41 @@ draft: false
     - 指定曲目（BMS）
     - 指定难度（白11到黑9，允许谱面难度上下超出两级）
 - 投票
-    - 无DDL，全部提交即开始投票
+    - 提交时间过后放出视频即开始投票
     - 使用问卷星投票，在考虑twitter同步开启的可行性
-    - 投票共3天（72小时）
+    - 投票会在第三天之后的第一个21点结束
 - 谱面
     - sp(7key+1)格式，无其他限制
+    - 限制公布曲目的3天内提交
+    - 仅能提交.bms(.bme/.bml/etc.)格式的文件
     - 谱面视频会上传到B站/youtube
-    - 谱面会上传到避难所。
+    - 谱面会上传到避难所(gnqg.rosx.net/upload)。
 - 人员
     - 报名制
-    - 每届仅有4人
-    - 第五人选曲以及等级
-    - 谱面完成后提交给抽签人，等全部提交后上传视频并公开
-    - 选曲决定后3天之内未提交谱面，则换人
+    - 每届仅有4人参与谱面制作
+    - 不允许合作名义
+    - 指定人选曲以及等级，可以报名的时候直接报选曲人
+    - 谱面完成后提交给选曲人或者联系Scely，等全部提交后上传视频并公开
 
-进行中：Season1
+历届信息：https://scelym.github.io/post/chart_battle_result
+
+__进行中：Season2__
 - 抽签人
-    - JoeT
-        - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
-        - ★8
+    - Scely
+        - [BOFXV2019] Game Ride - ！すでのな
+        - ★6
 
 - 参赛者
-    - Scely
-    - liaoxingyao
-    - tyrcs
+    - Gengetsu
+    - Kaguya
+    - Offliner-
     - AZVW_2
 
 - 谱面视频
-    - [bilibili](https://www.bilibili.com/video/av540278434)
-    - [youtube](https://www.youtube.com/watch?v=wCq7IZiZufM&list=PLoVkWZAryTbiEUG7NQ8fklcEZ0cFLxvby)
+    - [bilibili]
+    - [youtube]
 - 投票
-    - https://www.wjx.cn/jq/71999015.aspx
+    - https://www.wjx.cn/jq/
 - 下载
-    - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
+    - []
     - [onedrive](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Erh1uQQ8-bpDrlkbjIJSNuIBlFtc18vJaC10-3kjbdQrCw?e=c3pzP8)

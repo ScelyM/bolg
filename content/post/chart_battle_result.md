@@ -1,7 +1,7 @@
 ---
 title: "Chart_battle_result"
 date: 2020-04-13T14:48:18+08:00
-draft: true
+draft: false
 ---
 
 # 谱王争霸赛历届信息
@@ -14,16 +14,16 @@ draft: true
 - JoeT
     - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
     - ★8
+    - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
 
-参赛人
-- Scely
-- liaoxingyao
-- tyrcs
-- AZVW_2
+- 参赛信息
 
-
-下载地址
-- [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
+    参赛人 | 差分名 | 得票
+    ---|---|---
+    Scely | [IN] | 3
+    liaoxingyao | [EX] | 8
+    tyrcs | [BADBOUNCE] | 1
+    AZVW_2 | [SP AZOTHER] | 6
 
 预览视频
 - [bilibili](https://www.bilibili.com/video/av540278434)
