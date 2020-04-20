@@ -10,7 +10,7 @@ draft: false
 - [onedrive](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Erh1uQQ8-bpDrlkbjIJSNuIBlFtc18vJaC10-3kjbdQrCw?e=c3pzP8)
 
 ## season1
-抽签人
+选曲人
 - JoeT
     - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
     - ★8
@@ -28,3 +28,20 @@ draft: false
 预览视频
 - [bilibili](https://www.bilibili.com/video/av540278434)
 - [youtube](https://www.youtube.com/watch?v=wCq7IZiZufM&list=PLoVkWZAryTbiEUG7NQ8fklcEZ0cFLxvby)
+
+<!--hide>
+## season2
+选曲人
+- Scely
+    - [BOFXV2019] Game Ride - ！すでのな
+    - ★6
+    - 
+
+- 参赛信息
+
+    参赛人 | 差分名 | 得票
+    ---|---|---
+    Gengetsu | | 
+    Kaguya | |
+    Offliner- | [ディスコード] |
+    AZVW_2 | | 
