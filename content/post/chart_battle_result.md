@@ -16,14 +16,14 @@ draft: false
     - ★8
     - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
 
-- 参赛信息
+参赛信息
 
-    参赛人 | 差分名 | 得票
-    ---|---|---
-    Scely | [IN] | 3
-    liaoxingyao | [EX] | 8
-    tyrcs | [BADBOUNCE] | 1
-    AZVW_2 | [SP AZOTHER] | 6
+参赛人 | 差分名 | 得票
+---|---|---
+Scely | [IN] | 3
+liaoxingyao | [EX] | 8
+tyrcs | [BADBOUNCE] | 1
+AZVW_2 | [SP AZOTHER] | 6
 
 预览视频
 - [bilibili](https://www.bilibili.com/video/av540278434)
@@ -35,13 +35,17 @@ draft: false
 - Scely
     - [BOFXV2019] Game Ride - ！すでのな
     - ★6
-    - 
+    - [04288](http://gnqg.rosx.net/upload/upload.cgi?get=04288)
 
-- 参赛信息
+参赛信息
 
-    参赛人 | 差分名 | 得票
-    ---|---|---
-    Gengetsu | | 
-    Kaguya | |
-    Offliner- | [ディスコード] |
-    AZVW_2 | | 
+参赛人 | 差分名 | 得票
+---|---|---
+Gengetsu | [RE:Dive] | 
+Kaguya | [EUY] |
+Offliner- | [ディスコード] |
+AZVW_2 | [SP AZOTHER] | 
+
+预览视频
+    - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
+    - [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)

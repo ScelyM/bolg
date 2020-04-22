@@ -44,12 +44,11 @@ __进行中：Season2__
     - Offliner-
     - AZVW_2
 
-<!--hide>
-- 谱面视频
-    - [bilibili]
-    - [youtube]
+- 预览视频
+    - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
+    - [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)
 - 投票
-    - https://www.wjx.cn/jq/
+    - https://www.wjx.cn/jq/73478959.aspx
 - 下载
-    - []
+    - [04288](http://gnqg.rosx.net/upload/upload.cgi?get=04288)
     - [onedrive](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Erh1uQQ8-bpDrlkbjIJSNuIBlFtc18vJaC10-3kjbdQrCw?e=c3pzP8)
