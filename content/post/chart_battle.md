@@ -30,19 +30,21 @@ draft: false
 
 历届信息：https://scelym.github.io/post/chart_battle_result
 
-__进行中：Season2__
+season3报名中 目前1/4
+<!--hide>
+__进行中：Season3__
 
-开始日期：2020.4.19
+开始日期：2020.
 - 选曲人
-    - Scely
-        - [BOFXV2019] Game Ride - ！すでのな
-        - ★6
+    - liaoxingyao
+      - [G2R2018] IoAV"inf"A Θ hgVoA - LUZE
+      - ★5
 
 - 参赛者
-    - Gengetsu
-    - Kaguya
-    - Offliner-
-    - AZVW_2
+    - tyrcs
+    - 
+    - 
+    - 
 
 - 预览视频
     - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)

@@ -29,7 +29,6 @@ AZVW_2 | [SP AZOTHER] | 6
 - [bilibili](https://www.bilibili.com/video/av540278434)
 - [youtube](https://www.youtube.com/watch?v=wCq7IZiZufM&list=PLoVkWZAryTbiEUG7NQ8fklcEZ0cFLxvby)
 
-<!--hide>
 ## season2
 选曲人
 - Scely
@@ -41,11 +40,24 @@ AZVW_2 | [SP AZOTHER] | 6
 
 参赛人 | 差分名 | 得票
 ---|---|---
-Gengetsu | [RE:Dive] | 
-Kaguya | [EUY] |
-Offliner- | [ディスコード] |
-AZVW_2 | [SP AZOTHER] | 
+Gengetsu | [RE:Dive] | 3
+Kaguya | [EUY] | 4
+Offliner- | [ディスコード] | 3
+AZVW_2 | [SP AZOTHER] | 3
 
 预览视频
-    - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
-    - [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)
+- [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
+- [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)
+
+<!--hide>
+## season3
+选曲人
+- liaoxingyao
+    - [G2R2018] IoAV"inf"A Θ hgVoA - LUZE
+    - ★5
+
+参赛信息
+
+参赛人 | 差分名 | 得票
+---|---|---
+tyrcs
