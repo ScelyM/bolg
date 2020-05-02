@@ -9,44 +9,33 @@ draft: false
 ### 规则
 - 选曲
     - 指定曲目（BMS）
-    - 指定难度（白11到黑9，允许谱面难度上下超出规定难度两级）
-- 投票
-    - 提交时间过后放出视频即开始投票
-    - 使用问卷星投票，在考虑twitter同步开启的可行性
-    - 在比赛规则公布的48小时后并全部提交时开始投票
-    - 投票会在开始48小时之后，下一届比赛的报名人员满员时截止
+    - 推荐难度：白10到黑20
 - 谱面
     - sp(7key+1)格式，无其他限制
     - 仅能提交.bms(.bme/.bml/etc.)格式的文件
-    - 原则上无deadline
     - 谱面视频会上传到B站/youtube
     - 谱面完成后提交给选曲人或者联系Scely，等全部提交后上传视频并公开
     - 谱面会上传到避难所(gnqg.rosx.net/upload)。
 - 人员
-    - 报名制
-    - 每届仅有4人参与谱面制作
-    - 不允许合作名义
-    - 指定人选曲以及等级，可以报名的时候直接报选曲人
+    - 每届不限人数
+    - 每个谱面的主要制作人员仅有一个
+- 投票
+    - 使用问卷星投票，在考虑twitter同步开启的可行性
+- 时间格式
+    - 每两周的周日8：00放出下一期的曲目
+    - 当天晚上20：00截止前一期的提交
+    - 投票时间与下一期的谱面提交时间相同
 
 
 历届信息：https://scelym.github.io/post/chart_battle_result
 
-season3报名中 目前1/4
-<!--hide>
 __进行中：Season3__
 
-开始日期：2020.
+开始日期：2020.5.3
 - 选曲人
     - liaoxingyao
       - [G2R2018] IoAV"inf"A Θ hgVoA - LUZE
-      - ★5
-
-- 参赛者
-    - tyrcs
-    - 
-    - 
-    - 
-
+<!--hide>
 - 预览视频
     - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
     - [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)

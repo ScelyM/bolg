@@ -14,7 +14,7 @@ draft: false
 - JoeT
     - [BOFU2016]Booouncing!! - 翡乃イスカ vs. Iriss
     - ★8
-    - [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
+    
 
 参赛信息
 
@@ -25,7 +25,8 @@ liaoxingyao | [EX] | 8
 tyrcs | [BADBOUNCE] | 1
 AZVW_2 | [SP AZOTHER] | 6
 
-预览视频
+视频与下载地址
+- [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267)
 - [bilibili](https://www.bilibili.com/video/av540278434)
 - [youtube](https://www.youtube.com/watch?v=wCq7IZiZufM&list=PLoVkWZAryTbiEUG7NQ8fklcEZ0cFLxvby)
 
@@ -34,7 +35,7 @@ AZVW_2 | [SP AZOTHER] | 6
 - Scely
     - [BOFXV2019] Game Ride - ！すでのな
     - ★6
-    - [04288](http://gnqg.rosx.net/upload/upload.cgi?get=04288)
+    
 
 参赛信息
 
@@ -45,7 +46,8 @@ Kaguya | [EUY] | 4
 Offliner- | [ディスコード] | 3
 AZVW_2 | [SP AZOTHER] | 3
 
-预览视频
+视频与下载地址
+- [04288](http://gnqg.rosx.net/upload/upload.cgi?get=04288)
 - [bilibili](https://www.bilibili.com/video/BV1FQ4y1N7bt/)
 - [youtube](https://www.youtube.com/watch?v=d4fqAumQwZ0&list=PLoVkWZAryTbh1b3ldbvZ80DLd6RbFaNdL)
 
