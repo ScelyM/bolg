@@ -1,7 +1,7 @@
 ---
 title: "Chart_battle"
 date: 2020-04-13T14:48:19+08:00
-draft: false
+draft: true
 ---
 
 # BMS谱王争霸赛

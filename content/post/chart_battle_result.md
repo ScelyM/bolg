@@ -1,7 +1,7 @@
 ---
 title: "Chart_battle_result"
 date: 2020-04-13T14:48:18+08:00
-draft: false
+draft: true
 ---
 
 # 谱王争霸赛历届信息
