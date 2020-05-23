@@ -4,45 +4,46 @@ date: 2020-02-09T13:08:03+08:00
 draft: false
 ---
 <!--more-->
-### 玩什么
+### playing
 - BMS @ Beatoraja
 - Counter-Strike : Global Offensive
 - Apex Legends
 - Tone Sphere
 - ~~Battlefield 1/5/3/4~~
-- ~~白猫Project~~
-### 爱好
-- 音游
-- 写BMS
+- 白猫Project
+### tags
+- music games
+- BMS chart make
 - FPS
-- 装机（！！！）
-- ~~闲聊 大概~~
-### 主力机
+- bulid the desktop PC
+- ~~talking shit~~
+### desktop
 - CPU:Ryzen 7 3700X
-- 主板:MSI MEG X570 Gaming Plus
-- 内存:G-Skill TridentZ 320016G-C16S 16-18-18-36
-- 显卡:Yeston 5700XT Game Ace
-- 散热:ThermalRight AS120 Plus
-- 电源:SuperFlower Leadex G 750
-- 系统盘:Intel 545s 256G 2.5"SATA
-- 存储盘:Toshiba P300 3T
-- 游戏盘:Toshiba rc500 512G
-- 机箱:Aigo T20
-- 键盘:Niz 87key@35g
-- 鼠标:ZOWIE EC1A
-- 耳机:HyperX Cloud II
-- 显示器:ZOWIE XL2411P
+- MB:MSI MEG X570 Gaming Plus
+- RAM:G-Skill TridentZ 320016G-C16S 16-18-18-36
+- GPU:Yeston 5700XT Game Ace
+- cooler:ThermalRight AS120 Plus
+- PSU:SuperFlower Leadex G 750
+- SSD:Intel 545s 256G 2.5"SATA
+- HDD:Toshiba P300 3T
+- SSD:Toshiba rc500 512G
+- case:Aigo T20
+- keyboard:Niz 87key@35g
+- mouse:ZOWIE EC1A
+- headset:HyperX Cloud II
+- monitar:ZOWIE XL2411P
 ### Laptop
-HP 战66 AMD二代 15.6"
-- 3500U Vega8
-- 8+8G 2400
-- WD SN720 1T
-### 联系我
+LENOVO LEGION R7000 15.6"
+- R5 4600H
+- GTX1650
+- 8+8G 3200
+- sumsang PM981 512G
+### how to find me
 - 1160638531
-- 邮箱
+- Email
   - Scely694562@gmail.com
   - Scely@o2jamu.com (powered by QQmail)
-- 直播
+- stream
   - ~~https://mixer.com/ScelyM~~
   - https://live.bilibili.com/12447
 - [discord link](discord.gg/9mp6h6W)
