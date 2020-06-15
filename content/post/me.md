@@ -10,7 +10,7 @@ draft: false
 - Apex Legends
 - Tone Sphere
 - ~~Battlefield 1/5/3/4~~
-- 白猫Project
+- 白猫Project @ Android
 ### tags
 - music games
 - BMS chart make
@@ -38,11 +38,16 @@ LENOVO LEGION R7000 15.6"
 - GTX1650
 - 8+8G 3200
 - sumsang PM981 512G
+
+**target： ASUS ROG Zephyrus G15/GA502IV**
+  - R7 4800HS
+  - 2060max-q
+  - 240hz display
+  - 16g ram+512g SSD
 ### how to find me
-- 1160638531
+- Tencent QQ:1160638531
 - Email
   - Scely694562@gmail.com
-  - Scely@o2jamu.com (powered by QQmail)
 - stream
   - ~~https://mixer.com/ScelyM~~
   - https://live.bilibili.com/12447
