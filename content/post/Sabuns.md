@@ -9,6 +9,9 @@ draft: False
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
+20.6.23 update:
+- YJC Ultrastyle [Rainbow Mask Man]
+
 20.4.15 update:
 - Booouncing!! [IN]
 
@@ -26,6 +29,7 @@ Level | Song Name | Composer | Event | Download | Table
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
 [★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | 無名戦10 | [04074](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
 [★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019| [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+[★7](https://www.bilibili.com/video/BV18T4y1J7q4/) | YJC Ultrastyle [Rainbow Mask Man] | SEPHID | A-1 ClimaX 10th | 
 [★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019| [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 [★8](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | Booouncing!![IN] | 翡乃イスカ vs. Iriss | BOFU2016 | [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 [★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
@@ -65,6 +69,9 @@ Level | Song Name | Composer | Event | Table
 
 ---
 ## non-keysound (List by Level)
+
+20.6.23 update
+- MEGALOVANIA (Camellia Remix)
 
 20.4.15 update
 - Conway's Child
@@ -116,6 +123,7 @@ Level | Song Name | Composer | Feature | Source (game)
 [★16](https://www.bilibili.com/video/av18675341?p=15) | INFINITY | Lunatic Sound |  | EZ2AC
 [★18](https://www.bilibili.com/video/av23566591) | HERA | Luze |  | maimai
 [★20](https://www.bilibili.com/video/av60274108) | Tetelestai | Sibyle |  | 
+[★22](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | MEGALOVANIA (Camellia Remix) | Camellia | 6min | Youtube
 ★23 | Seeker (Special Remix) | SouL | 4500notes | 
 [★?](https://www.bilibili.com/video/av59081516) | ああああ's BMS Medley | ああああ | 15min | 
 [★?](https://www.bilibili.com/video/av54978297) | lost found melody | 黑魔//百舌谷 | →→→→
