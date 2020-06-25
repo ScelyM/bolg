@@ -9,6 +9,9 @@ draft: False
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
+20.6.25 update:
+- Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
+
 20.6.23 update:
 - YJC Ultrastyle [Rainbow Mask Man]
 
@@ -22,50 +25,51 @@ draft: False
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
-[☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | BOFXV2019 | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
-[☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | BOFU2017 | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
-[★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | G2R2018 | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
-[★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | BOFU2017 | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
-[★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | G2R2018 | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
-[★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | 無名戦10 | [04074](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
-[★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | BOFXV2019| [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
-[★7](https://www.bilibili.com/video/BV18T4y1J7q4/) | YJC Ultrastyle [Rainbow Mask Man] | SEPHID | A-1 ClimaX 10th | 
-[★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | BOFXV2019| [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
-[★8](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | Booouncing!![IN] | 翡乃イスカ vs. Iriss | BOFU2016 | [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
-[★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | BOFU2017 | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
-[★12](https://www.bilibili.com/video/av81409574?p=5) | Breaching [Ki] | uet | BOFXV2019 | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
-[★12](https://www.bilibili.com/video/av84389512) | CherryImpact [Siron] | kozato | BOFXV2019 | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
+[☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
+[☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
+[★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
+[★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
+[★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
+[★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | [無名戦10](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=86) | [04074](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
+[★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+[★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
+[★8](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | Booouncing!![IN] | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
+[★9](https://www.bilibili.com/video/BV18T4y1J7q4/) | YJC Ultrastyle [Rainbow Mask Man] | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
+[★9](https://www.bilibili.com/video/av85014504) | カリオストロの穿孔 [Key] | 隣の庭は青い(庭師+Aoi) | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116) | [03957](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | satellite sl5
+[★12](https://www.bilibili.com/video/av81409574?p=5) | Breaching [Ki] | uet | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [03901](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
+[★12](https://www.bilibili.com/video/av84389512) | CherryImpact [Siron] | kozato | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=127) | [03902](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
+[★12](https://www.bilibili.com/video/BV1bi4y1G7hQ/) |  Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返] | Yosk! | [BMS衆議院選](https://venue.bmssearch.net/3/44) |  | 
 [★13](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
-[★15](https://www.bilibili.com/video/av35739704) | WE ARE HARDCORE [gang] | lixound | G2R2018 | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
-[★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | OLDSKOOL VS FUTURE | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
-[DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | BOFXV2019  | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
-[★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | BOFU2015 | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
+[★15](https://www.bilibili.com/video/av35739704) | WE ARE HARDCORE [gang] | lixound | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123) | [03964](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | satellite sl9
+[★17](https://www.bilibili.com/video/av79411193) | reverieland [Mirage] | void | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120) | [03745](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
+[DP](https://www.bilibili.com/video/av71098487) | Burn [Her grandma] | NecS | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [03463](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
+[★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | [BOFU2015](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
 
 ---  
 ## 同捆 (List by Event)
 
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
-[★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | G2R2018
-[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | 無名戦16
-★19 | 禁忌と緋色幻想 -The Primary Plasm- [SP Another] | ZUN Remixed by NoKANY | 东方音弹游戏8 | stella st0
-☆12 | Theme [SP Another] | ProjectG | 众议院选2
-☆8 | Theme [SP Hyper] | ProjectG | 众议院选2
-★17 | Subterranean Blastoff | SEPHID | BOFXV
-★13 | Mandragola [SP Another] | Columba (Daily vs Roon_kun) | BOFXV
-★2 | Mandragola [SP Hyper+] | Columba (Daily vs Roon_kun) | BOFXV
-☆11 | Mandragola [SP Hyper] | Columba (Daily vs Roon_kun) | BOFXV
-☆7 | Mandragola [SP Normal] | Columba (Daily vs Roon_kun) | BOFXV
+[★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
+[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
+★19 | 禁忌と緋色幻想 -The Primary Plasm- [SP Another] | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
+☆12 | Theme [SP Another] | ProjectG | [BMS衆議院選2]()
+☆8 | Theme [SP Hyper] | ProjectG | BMS衆議院選2
+★17 | Subterranean Blastoff | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
+★13 | Mandragora [SP Another] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
+★2 | Mandragora [SP Hyper+] | Columba (Daily vs Roon_kun) | BOFXV
+☆11 | Mandragora [SP Hyper] | Columba (Daily vs Roon_kun) | BOFXV
+☆7 | Mandragora [SP Normal] | Columba (Daily vs Roon_kun) | BOFXV
 ★7 | kadai [awsl] | 小鬼 | BOFXV
-★4 | kadai [SP Another] | 小鬼 | BOFXV
+★4 | kadai [SP Another] | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
 ☆10 | kadai [SP Hyper] | 小鬼 | BOFXV
 ☆5 | kadai [SP Normal] | 小鬼 | BOFXV
-☆11 | The Sundering [SP Another] | ProjectG as _(八重蔵)  | BOFXV
-★8 | Midnight Flux [SP Another] | ProjectG | BOFXV | satellite sl4
-☆11 | Metronome [SP Another] | 女藏 | BOFXV
+☆11 | The Sundering [SP Another] | ProjectG as _(八重蔵)  | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
+★8 | Midnight Flux [SP Another] | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
+☆11 | Metronome [SP Another] | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
 ☆8 | Metronome [SP Hyper] | 女藏 | BOFXV
 ☆5 | Metronome [SP Normal] | 女藏 | BOFXV
-[★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | BOFOONXV
+[★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | [BOFOONXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128)
 
 ---
 ## non-keysound (List by Level)
