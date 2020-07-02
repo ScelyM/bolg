@@ -20,8 +20,8 @@ draft: false
 ### desktop
 - CPU:Ryzen 7 3700X
 - MB:MSI MEG X570 Gaming Plus
-- RAM:G-Skill TridentZ 320016G-C16S 16-18-18-36
-- GPU:Yeston 5700XT Game Ace
+- RAM:X-star 3000 RGB 16G*2
+- GPU:Powercolor 5600XT Red Dragon
 - cooler:ThermalRight AS120 Plus
 - PSU:SuperFlower Leadex G 750
 - SSD:Intel 545s 256G 2.5"SATA
@@ -33,17 +33,12 @@ draft: false
 - headset:HyperX Cloud II
 - monitar:ZOWIE XL2411P
 ### Laptop
-LENOVO LEGION R7000 15.6"
-- R5 4600H
-- GTX1650
-- 8+8G 3200
-- sumsang PM981 512G
 
-**target： ASUS ROG Zephyrus G15/GA502IV**
-  - R7 4800HS
+ASUS ROG Zephyrus G15/GA502IV
+  - R7 4900HS
   - 2060max-q
   - 240hz display
-  - 16g ram+512g SSD
+  - 16G ram+1TB SSD
 ### how to find me
 - Tencent QQ:1160638531
 - Email
