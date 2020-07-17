@@ -9,6 +9,9 @@ draft: False
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
+20.7.17 update:
+- Silver Eater [Corn]
+
 20.6.25 update:
 - Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
 
@@ -32,6 +35,7 @@ Level | Song Name | Composer | Event | Download | Table
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
 [★5](https://www.bilibili.com/video/av92099085/) | わがままプリンセス [LEGO] | er | [無名戦10](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=86) | [04074](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
 [★6](https://www.bilibili.com/video/av71032918) | Brun [Beijing Burn Duck] | NecS | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [03462](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+[★6](https://www.bilibili.com/video/BV1gi4y137Hr) | Silver Eater [Corn] | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 [★8](https://www.bilibili.com/video/av81409574) | Door Nock [G] | BilliumMoto | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [03900](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 [★8](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | Booouncing!![IN] | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [04267](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 [★9](https://www.bilibili.com/video/BV18T4y1J7q4/) | YJC Ultrastyle [Rainbow Mask Man] | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
