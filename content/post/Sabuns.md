@@ -78,6 +78,9 @@ Level | Song Name | Composer | Event | Table
 ---
 ## non-keysound (List by Level)
 
+20.7.21 update
+- Haunted Dance
+
 20.6.23 update
 - MEGALOVANIA (Camellia Remix)
 
@@ -129,6 +132,7 @@ Level | Song Name | Composer | Feature | Source (game)
 ★16 | Rebellion | NAOKI underground |  | Cross X Beat
 [★16](https://www.bilibili.com/video/av30178372) | cyanine | jioyi |  | lanota
 [★16](https://www.bilibili.com/video/av18675341?p=15) | INFINITY | Lunatic Sound |  | EZ2AC
+[★18](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Haunted Dance | Mr.Asyu |  | Tone Sphere
 [★18](https://www.bilibili.com/video/av23566591) | HERA | Luze |  | maimai
 [★20](https://www.bilibili.com/video/av60274108) | Tetelestai | Sibyle |  | 
 [★22](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | MEGALOVANIA (Camellia Remix) | Camellia | 6min | Youtube
