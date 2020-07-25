@@ -10,19 +10,19 @@ draft: False
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
 20.7.17 update:
-- Silver Eater [Corn]
+- ★6 Silver Eater [Corn]
 
 20.6.25 update:
-- Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
+- ★12 Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
 
 20.6.23 update:
-- YJC Ultrastyle [Rainbow Mask Man]
+- ★9 YJC Ultrastyle [Rainbow Mask Man]
 
 20.4.15 update:
-- Booouncing!! [IN]
+- ★8 Booouncing!! [IN]
 
 20.4.3 update: 
-- 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子
+- ★13 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子
 
 ## sabuns （List by Level）
 
@@ -78,21 +78,20 @@ Level | Song Name | Composer | Event | Table
 ---
 ## non-keysound (List by Level)
 
+20.7.25 update
+- ★14 雷切-RAIKIRI-
+
 20.7.21 update
-- Haunted Dance
+- ★18 Haunted Dance
 
 20.6.23 update
-- MEGALOVANIA (Camellia Remix)
+- ★22 MEGALOVANIA (Camellia Remix)
 
 20.4.15 update
-- Conway's Child
+- ★16 Conway's Child
 
 20.4.11 update
-- Hz
-
-20.4.3 update
-- BLRINK
-- Song of Spirits
+- ☆12 Hz
 
 Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
@@ -127,6 +126,7 @@ Level | Song Name | Composer | Feature | Source (game)
 ★12 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
 ★13 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
 ★13 | Midnight City Warfare | sky_delta |  | JUBEAT
+[★14](https://www.bilibili.com/video/BV19Z4y1u7DM/) | 雷切-RAIKIRI- | kanone | | maimai
 [★15](https://www.bilibili.com/video/av48859406) | larva | ガリガリさむし |  | maimai
 [★16](https://www.bilibili.com/video/BV1PT4y1V7L3/) | Conway's Child | sta |  | Tone Sphere
 ★16 | Rebellion | NAOKI underground |  | Cross X Beat
