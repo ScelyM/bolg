@@ -78,20 +78,20 @@ Level | Song Name | Composer | Event | Table
 ---
 ## non-keysound (List by Level)
 
+20.8.9 update
+- ★20 Opium and Purple haze
+
 20.7.25 update
 - ★14 雷切-RAIKIRI-
 
 20.7.21 update
-- ★18 Haunted Dance
+- ★21 Haunted Dance
 
 20.6.23 update
-- ★22 MEGALOVANIA (Camellia Remix)
+- ★23 MEGALOVANIA (Camellia Remix)
 
 20.4.15 update
 - ★16 Conway's Child
-
-20.4.11 update
-- ☆12 Hz
 
 Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
@@ -132,10 +132,11 @@ Level | Song Name | Composer | Feature | Source (game)
 ★16 | Rebellion | NAOKI underground |  | Cross X Beat
 [★16](https://www.bilibili.com/video/av30178372) | cyanine | jioyi |  | lanota
 [★16](https://www.bilibili.com/video/av18675341?p=15) | INFINITY | Lunatic Sound |  | EZ2AC
-[★18](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Haunted Dance | Mr.Asyu |  | Tone Sphere
 [★18](https://www.bilibili.com/video/av23566591) | HERA | Luze |  | maimai
+[★20](https://www.bilibili.com/video/BV16t4y1D753) | Opium and Purple haze | D.Watt | 纵连打 | 
 [★20](https://www.bilibili.com/video/av60274108) | Tetelestai | Sibyle |  | 
-[★22](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | MEGALOVANIA (Camellia Remix) | Camellia | 6min | Youtube
+[★21](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Haunted Dance | Mr.Asyu |  | Tone Sphere
+[★23](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | MEGALOVANIA (Camellia Remix) | Camellia | 6min | Youtube
 ★23 | Seeker (Special Remix) | SouL | 4500notes | 
 [★?](https://www.bilibili.com/video/av59081516) | ああああ's BMS Medley | ああああ | 15min | 
 [★?](https://www.bilibili.com/video/av54978297) | lost found melody | 黑魔//百舌谷 | →→→→
