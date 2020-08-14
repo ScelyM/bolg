@@ -9,6 +9,10 @@ draft: False
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
+
+20.8.14 update
+- ★3 Dual Personality [Saki]
+
 20.7.17 update:
 - ★6 Silver Eater [Corn]
 
@@ -21,15 +25,13 @@ draft: False
 20.4.15 update:
 - ★8 Booouncing!! [IN]
 
-20.4.3 update: 
-- ★13 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子
-
 ## sabuns （List by Level）
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
 [☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 [☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
+[★3](https://www.bilibili.com/video/BV1d64y1F7ST/) | Dual Personality [Saki] | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [000287](https://stellabms.xyz/upload/287)
 [★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 [★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
