@@ -10,22 +10,15 @@ draft: False
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
 
 
-20.8.14 update
-- ★3 Dual Personality [Saki]
 
-20.7.17 update:
-- ★6 Silver Eater [Corn]
-
-20.6.25 update:
-- ★12 Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
-
-20.6.23 update:
-- ★9 YJC Ultrastyle [Rainbow Mask Man]
-
-20.4.15 update:
-- ★8 Booouncing!! [IN]
 
 ## sabuns （List by Level）
+
+    20.8.14 update:★3 Dual Personality [Saki]
+    20.7.17 update:★6 Silver Eater [Corn]
+    20.6.25 update:★12 Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
+    20.6.23 update:★9 YJC Ultrastyle [Rainbow Mask Man]
+    20.4.15 update:★8 Booouncing!! [IN]
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -52,48 +45,36 @@ Level | Song Name | Composer | Event | Download | Table
 [★?](https://www.bilibili.com/video/av13608735?p=1) | Snow White [Summer] | Puru | [BOFU2015](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [03963](http://gnqg.rosx.net/upload/upload.cgi?get=03963)
 
 ---  
+
 ## 同捆 (List by Event)
+     [A]=[SP Another]
+     [H]=[SP Hyper]
+     etc.
 
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
 [★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
-[☆12](https://www.bilibili.com/video/av56630404) | Corona [SP Another] | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
-★19 | 禁忌と緋色幻想 -The Primary Plasm- [SP Another] | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
-☆12 | Theme [SP Another] | ProjectG | [BMS衆議院選2]()
-☆8 | Theme [SP Hyper] | ProjectG | BMS衆議院選2
-★17 | Subterranean Blastoff | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
-★13 | Mandragora [SP Another] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
-★2 | Mandragora [SP Hyper+] | Columba (Daily vs Roon_kun) | BOFXV
-☆11 | Mandragora [SP Hyper] | Columba (Daily vs Roon_kun) | BOFXV
-☆7 | Mandragora [SP Normal] | Columba (Daily vs Roon_kun) | BOFXV
-★7 | kadai [awsl] | 小鬼 | BOFXV
-★4 | kadai [SP Another] | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
-☆10 | kadai [SP Hyper] | 小鬼 | BOFXV
-☆5 | kadai [SP Normal] | 小鬼 | BOFXV
-☆11 | The Sundering [SP Another] | ProjectG as _(八重蔵)  | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
-★8 | Midnight Flux [SP Another] | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
-☆11 | Metronome [SP Another] | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
-☆8 | Metronome [SP Hyper] | 女藏 | BOFXV
-☆5 | Metronome [SP Normal] | 女藏 | BOFXV
+[☆12](https://www.bilibili.com/video/av56630404) | Corona [A] | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
+★19 | 禁忌と緋色幻想 -The Primary Plasm- [A] | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
+☆8-12 | Theme [A]/[H] | ProjectG | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/99)
+★17 | Subterranean Blastoff [I] | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
+☆7-★13 | Mandragora [A]/[H+]/[H]/[N] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
+☆5-★7 | kadai [awsl]/[A]/[H]/[N] | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
+☆11 | The Sundering [A] | ProjectG as _(八重蔵)  | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
+★8 | Midnight Flux [A] | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
+☆5-11 | Metronome [A]/[H]/[N] | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
 [★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | [BOFOONXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128)
+[☆10-★2] | Aliens are BAD! | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) |
+
 
 ---
 ## non-keysound (List by Level)
 
-20.8.9 update
-- ★20 Opium and Purple haze
-
-20.7.25 update
-- ★14 雷切-RAIKIRI-
-
-20.7.21 update
-- ★21 Haunted Dance
-
-20.6.23 update
-- ★23 MEGALOVANIA (Camellia Remix)
-
-20.4.15 update
-- ★16 Conway's Child
+    20.8.9  update:★20 Opium and Purple haze
+    20.7.25 update:★14 雷切-RAIKIRI-
+    20.7.21 update:★21 Haunted Dance
+    20.6.23 update:★23 MEGALOVANIA (Camellia Remix)
+    20.4.15 update:★16 Conway's Child
 
 Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
