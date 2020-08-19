@@ -1,6 +1,6 @@
 ---
 title: "Sabuns"
-date: 2020-02-09T16:25:20+08:00
+date: 2020-08-20
 draft: False
 ---
 <!--more-->
@@ -48,8 +48,8 @@ Level | Song Name | Composer | Event | Download | Table
 
 ## 同捆 (List by Event)
     [A]=[SP Another]
-     [H]=[SP Hyper]
-     etc.
+    [H]=[SP Hyper]
+    etc.
 
 Level | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
@@ -70,10 +70,10 @@ Level | Song Name | Composer | Event | Table
 ## non-keysound (List by Level)
 
     20.8.9  update:★20 Opium and Purple haze
-     20.7.25 update:★14 雷切-RAIKIRI-
-     20.7.21 update:★21 Haunted Dance
-     20.6.23 update:★23 MEGALOVANIA (Camellia Remix)
-     20.4.15 update:★16 Conway's Child
+    20.7.25 update:★14 雷切-RAIKIRI-
+    20.7.21 update:★21 Haunted Dance
+    20.6.23 update:★23 MEGALOVANIA (Camellia Remix)
+    20.4.15 update:★16 Conway's Child
 
 Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
