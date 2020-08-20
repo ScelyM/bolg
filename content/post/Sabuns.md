@@ -61,7 +61,7 @@ Level | Song Name | Composer | Event | Table
 [★8](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615) | Midnight Flux [A] | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
 [☆11](https://www.bilibili.com/video/BV1WJ411Q7YP?t=0) | The Sundering [A] | ProjectG as _(八重蔵)  | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
 [☆5-★7](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | kadai [awsl]/[A]/[H]/[N] | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
-[☆7-★13](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Mandragora [A]/[H+]/[H]/[N] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
+[☆7-★9](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Mandragora [A]/[H+]/[H]/[N] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
 [★17](https://www.bilibili.com/video/BV1WJ411Q7YP?t=315) | Subterranean Blastoff -Stellar Overhaul- | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
 ☆8-12 | Theme [A]/[H] | ProjectG | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/99)
 ★19 | 禁忌と緋色幻想 -The Primary Plasm- [A] | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
