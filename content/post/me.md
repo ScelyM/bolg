@@ -33,7 +33,7 @@ HDD | Toshiba P300 3T
 SSD | Toshiba rc500 512G NVME
 case | MetallicGear MG410 V2
 keyboard | Niz 87key@35g
-mouse | ZOWIE EC1A / ROG Gladius II Wireless
+mouse | ZOWIE EC1A / Logitech G603
 headset | HyperX Cloud II / Audio Technika ATH-E40 / Edifer TWS5
 monitar | ZOWIE XL2411P
 ### Laptop
