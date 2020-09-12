@@ -1,12 +1,13 @@
 ---
-title: "BHC_s9"
+title: "大汉杯season9"
 date: 2020-08-26T22:09:27+08:00
 draft: false
 ---
 
 # 大汉杯season9：BOFXVI 会场限定
-仅限会场登录曲目的差分。
+    仅限会场登录曲目的差分。
 
+<!--more-->
 ## 提交
 - 推荐提交格式：[曲目在BOFXVI会场的编号]-[曲名]-[参赛者].zip
 - 举例：025-volcano sounds-Scely.zip
@@ -15,7 +16,9 @@ draft: false
 
 请确定写完差分之后会场不会出现新的BMS包版本，比如重新切音。
 
-<font color=red>**不要打IIDX擦边球，谢谢。**</font>
+任何能提交到我手里的方式都可以，具体可以看本站自我介绍那篇文章的结尾。
+
+**不要打IIDX擦边球，谢谢。**
 
 ## 投票
 

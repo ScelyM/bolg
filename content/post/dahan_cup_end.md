@@ -4,10 +4,10 @@ date: 2020-08-19
 draft: false
 ---
 
-# 大汉杯重启提上日程
-    谢谢你们的支持。
+# 大汉杯重启了
+    目前进行中：season9
 <!--more-->
-大汉杯是一个投票计分制的7+1key格式谱面比赛，有奖金池。根据各届的规则不同允许各种音乐参赛，截止第8届共提交了151份谱面。
+大汉杯是一个投票计分制的7+1key格式谱面比赛，有奖金池。各届的规则不同，截止第8届共提交了151份谱面。
 - [谱面预览](https://space.bilibili.com/550673/channel/detail?cid=81194) 建议使用电脑观看
 - [下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Eskbimo2MpxLuVocf9Y4mIAB7owNEAv1ilFUFiaevp7h-A?e=Xqhcqu) 感谢anshi提供的OneDrive以及hakula提供的方案
 # 各届比赛的基本信息
