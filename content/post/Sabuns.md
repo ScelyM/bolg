@@ -14,7 +14,7 @@ draft: False
 
 ## sabuns （List by Level）
 
-    only show 5 updates
+    only show 5 lastest updates
     20.8.14 update:★3 Dual Personality [Saki]
     20.7.17 update:★6 Silver Eater [Corn]
     20.6.25 update:★12 Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
@@ -53,25 +53,25 @@ Level | Song Name | Composer | Event | Download | Table
     [H]=[SP Hyper]
     etc.
 
-Level | Song Name | Composer | Event | Table
+Sabuns | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
-[☆10-★2](https://www.bilibili.com/video/BV1cA411n7x4) | Aliens are BAD! [We Kick Ass!]/[A]/[H] | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) |
-[★5](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) [ahhh] | NecS remix by Daliy | [BOFOONXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128)
-☆5-11 | Metronome [A]/[H]/[N] | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
-[★8](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615) | Midnight Flux [A] | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
-[☆11](https://www.bilibili.com/video/BV1WJ411Q7YP?t=0) | The Sundering [A] | ProjectG as _(八重蔵)  | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
-[☆5-★7](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | kadai [awsl]/[A]/[H]/[N] | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
-[☆7-★9](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Mandragora [A]/[H+]/[H]/[N] | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
-[★17](https://www.bilibili.com/video/BV1WJ411Q7YP?t=315) | Subterranean Blastoff -Stellar Overhaul- | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
-☆8-12 | Theme [A]/[H] | ProjectG | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/99)
-★19 | 禁忌と緋色幻想 -The Primary Plasm- [A] | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
-[☆12](https://www.bilibili.com/video/av56630404) | Corona [A] | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
-[★5](https://www.bilibili.com/video/av35219027) | ΣθИ - θ∀θ - | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
+[[We Kick Ass!]/[A]/[H]](https://www.bilibili.com/video/BV1cA411n7x4) | Aliens are BAD! | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) |
+[ahhh](https://www.bilibili.com/video/av78799662) | Burn (Haocore Remix) | NecS remix by Daliy | [BOFOONXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128)
+[A]/[H]/[N] | Metronome  | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
+[SPA](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615) | Midnight Flux  | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | satellite sl4
+[SPA](https://www.bilibili.com/video/BV1WJ411Q7YP?t=0) | The Sundering  | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
+[[awsl]/[A]/[H]/[N]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | kadai | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
+[[A]/[H+]/[H]/[N]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Mandragora | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
+[-Stellar Overhaul-](https://www.bilibili.com/video/BV1WJ411Q7YP?t=315) | Subterranean Blastoff | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
+[A]/[H] | Theme | ProjectG | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/99)
+[SPA] | 禁忌と緋色幻想 -The Primary Plasm-  | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | stella st0
+[SPA](https://www.bilibili.com/video/av56630404) | Corona | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
+[- θ∀θ -](https://www.bilibili.com/video/av35219027) | ΣθИ | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
 
 ---
 ## non-keysound (List by Level)
 
-    only show 5 updates
+    only show 5 lastest updates
     20.8.9  update:★20 Opium and Purple haze
     20.7.25 update:★14 雷切-RAIKIRI-
     20.7.21 update:★21 Haunted Dance
