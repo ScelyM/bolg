@@ -38,11 +38,12 @@ headset | HyperX Cloud II / Audio Technika ATH-E40 / Edifer TWS5
 monitar | ZOWIE XL2411P
 ### Laptop
 
-ASUS ROG Zephyrus G15/GA502IV
-  - R9 4900HS
-  - RTX 2060max-q
-  - 240hz display
-  - 16G 3200 ram + 1TB SSD (Intel 660P)
+Machrevo Code 01
+  - R7 4800H
+  - 91WH battery
+  - Vega7 Graphic in CPU
+  - 16G 3200 ram + 1TB SSD (ADATA SX8200pro)
+  - 1.47kg 16.8mm thin
 ### how to find me
 - Tencent QQ:1160638531
 - Email
