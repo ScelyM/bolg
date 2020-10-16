@@ -25,7 +25,7 @@ type|Hardware
 CPU | Ryzen 7 3700X
 MotherBoard | MSI B550M MORTAR
 RAM | Crucial Ballistix 3200 8G*2
-GPU  |Powercolor 5600XT Red Dragon
+GPU  | MSI RX 5500XT Gaming X
 cooler | ThermalRight Assassin Spirit 120
 PSU | SuperFlower Leadex G 750
 SSD | Intel 545s 256G 2.5"SATA
