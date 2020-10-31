@@ -8,11 +8,8 @@ draft: false
 
 ### Playing
 - BMS @ Beatoraja @ SP Genoside2018★10
-- Counter-Strike : Global Offensive @ Legendery Eagle
+- Counter-Strike : Global Offensive
 - Apex Legends
-- ~~Tone Sphere~~
-- ~~Battlefield 1/5/3/4~~
-- 白猫Project
 ### Tags
 - music games
 - BMS chart make
@@ -24,17 +21,17 @@ type|Hardware
 ---|---
 CPU | Ryzen 7 3700X
 MotherBoard | MSI B550M MORTAR
-RAM | Crucial Ballistix 3200 8G*2
+RAM | MATSE C9BKV 8G*2 @3733 16-18-18-36
 GPU  | MSI RX 5500XT Gaming X
-cooler | ThermalRight Assassin Spirit 120
+Cooler | ThermalRight Assassin Spirit 120
 PSU | SuperFlower Leadex G 750
-SSD | Intel 545s 256G 2.5"SATA
+SSD | ZhiTai PC005 512G
 HDD | Toshiba P300 3T
 SSD | Toshiba rc500 512G NVME
 case | MetallicGear MG410 V2
 keyboard | Niz 87key@35g
 mouse | ZOWIE EC1A / Logitech G603
-headset | HyperX Cloud II / Audio Technika ATH-E40 / Edifer TWS5
+headset | HyperX Cloud II / Audio Technika LS50is / Edifer TWS5
 monitar | ZOWIE XL2411P
 ### Laptop
 

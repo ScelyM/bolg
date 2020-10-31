@@ -16,14 +16,14 @@ draft: False
 
     only show 5 lastest updates
     20.10.16 update:☆11 The Sundering [Yard]
-    20.10.16 update:★1 PSYBARMISSO [Xend]
-    20.8.14  update:★3 Dual Personality [Saki]
-    20.7.17  update:★6 Silver Eater [Corn]
+    20.10.16 update:★1  PSYBARMISSO [Xend]
+    20.8.14  update:★3  Dual Personality [Saki]
+    20.7.17  update:★6  Silver Eater [Corn]
     20.6.25  update:★12 Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
-[☆12]() | The Sundering [Yard] | ProjectG as _(八重蔵) | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
+[☆11](https://www.bilibili.com/video/BV1iK4y1h7ye/) | The Sundering [Yard] | ProjectG as _(八重蔵) | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
 [☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 [☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 [★1](https://www.bilibili.com/video/BV1xK411A7Gz) | PSYBARMISSO [Xend] | cybermiso | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
