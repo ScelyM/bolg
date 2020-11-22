@@ -27,7 +27,8 @@ Level | Song Name | Composer | Event | Download | Table
 [☆12](https://www.bilibili.com/video/av91497615) | Blackorient [Step] | Sound souler | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [04073](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 [☆12](https://www.bilibili.com/video/av13608735) | One Way Street [Season] | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [03962](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 [★1](https://www.bilibili.com/video/BV1xK411A7Gz) | PSYBARMISSO [Xend] | cybermiso | [BOFXV2019](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
-[★3](https://www.bilibili.com/video/BV1d64y1F7ST/) | Dual Personality [Saki] | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [000287](https://stellabms.xyz/upload/287)
+[★3](https://www.bilibili.com/video/BV1VV411a7pY) | crush BETA [final11123321] | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | [000287](https://stellabms.xyz/upload/287)
+[★3](https://www.bilibili.com/video/BV1d64y1F7ST) | Dual Personality [Saki] | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [000287](https://stellabms.xyz/upload/287)
 [★3](https://www.bilibili.com/video/av78799959) | GLAZ [Where my bullet go?] | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [03740](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 [★3](https://www.bilibili.com/video/av86536101) | Trancing 'Tempo'rary [Trace] | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [03983](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
 [★4](https://www.bilibili.com/video/av86386276) | Atlantis Hawk [Falcon] | kanone | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [03979](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
@@ -57,6 +58,8 @@ Level | Song Name | Composer | Event | Download | Table
 
 Sabuns | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
+[A]/[H] | [The Observer](https://www.bilibili.com/video/BV1VA411x7Hb) | Zris Feat.Kri | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=493&event=133)
+[SPA] | [Can't it be true](https://www.bilibili.com/video/BV1ki4y1L7ef) | Zris Feat.Kri | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133)
 [SPA] | [FAKE LIFE](https://www.bilibili.com/video/BV16a411c7nQ) | ProjectG | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133)
 [A]/[H]/[N] | [Muspelheim](https://www.bilibili.com/video/BV1Pa411w7QT) | Columba(Daily vs. Roon_kun) | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=133)
 [A]/[H]/[N] | [Shore in the Rain](https://www.bilibili.com/video/BV1fK4y1Z7EW) | Antistar | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=133)
