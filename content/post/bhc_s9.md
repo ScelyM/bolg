@@ -20,6 +20,26 @@ draft: false
 
 **本届比赛规则最终解释权在举办方。**
 
+## 参赛谱面列表
+
+- Nothing But Seven [SP AZOTHER]
+- Angel's Salad [Existence]
+- enchanted love [colors]
+- NightTheater [Gao's ANOTHER]
+- Hi-Fi-Story [INSANE FOLDER]
+- #DoomeyTunes [SP (√5-1)/2]
+- Sunset Toybox [Sweet]
+- The Crack of Dawn [Skyline]
+- タマモッチ
+- FAKE LIFE [SP SP]
+- SUDDEN IMPACT [GUILTY]
+- 竹 [竹取]
+- Never a Good Fate [SP AZOTHER]
+- Heart Beat [SP AZOTHER]
+- Abendo [Trioxide]
+- 爆音峠岬 [音爆]
+- Human Observer [終ノ空]
+
 ## 投票
 
 1-10分制，无小数。无其他限制，
