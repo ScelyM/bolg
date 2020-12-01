@@ -14,7 +14,7 @@ draft: false
 - 预览视频见[bilibili](https://www.bilibili.com/video/BV19541137CJ/)
 
 - 下载地址
-    - [OneDrive](https://cosmiccat-my.sharepoint.com/personal/hakula_cosmiccat_net/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhakula%5Fcosmiccat%5Fnet%2FDocuments%2FBMS%2F%E5%A4%A7%E6%B1%89%E6%9D%AF%2Fseason9) 感谢hakula！
+    - [OneDrive](https://bms.hakula.xyz)>大汉杯>season9 感谢hakula！
     - [OneDrive镜像](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season9/) 感谢anshi！
     - [百度盘](https://pan.baidu.com/s/1juWQGKhLJjoQnRjR9pgc2g) 提取码：ssn9
 
