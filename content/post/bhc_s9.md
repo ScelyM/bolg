@@ -5,24 +5,18 @@ draft: false
 ---
 
 # 大汉杯season9：BOFXVI 会场限定
-    仅限会场登录曲目的差分。
+    已截止提交，开始投票阶段。
 
 <!--more-->
-## 提交
-- 推荐提交格式：[曲目在BOFXVI会场的编号]-[曲名]-[参赛者].zip
-- 举例：382-GREMLIN-Scely.zip
-- 压缩包内只需要有差分用BMS文件，不建议在压缩包内添加其他文件。
-- 仅限7Keys格式。
-- 不允许同捆谱面提交。
-- 不允许先于比赛谱面集中公开之前私自公开谱面。
-- **理论上无每人提交限制。**
-- **提交后不得修改**
+## 相关
+- 投票链接见[问卷星](https://tp.wjx.top/jq/99502219.aspx)
 
-请确定写完差分之后会场不会出现新的BMS包版本，比如重新切音。
+- 预览视频见[bilibili](https://www.bilibili.com/video/BV19541137CJ/)
 
-任何能提交到我手里的方式都可以，具体可以看本站自我介绍那篇文章的结尾。
-
-**不要打IIDX擦边球，谢谢。**
+- 下载地址
+    - [OneDrive](https://cosmiccat-my.sharepoint.com/personal/hakula_cosmiccat_net/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhakula%5Fcosmiccat%5Fnet%2FDocuments%2FBMS%2F%E5%A4%A7%E6%B1%89%E6%9D%AF%2Fseason9) 感谢hakula！
+    - [OneDrive镜像](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season9/) 感谢anshi！
+    - [百度盘](https://pan.baidu.com/s/1juWQGKhLJjoQnRjR9pgc2g) 提取码：ssn9
 
 **本届比赛规则最终解释权在举办方。**
 
@@ -41,7 +35,7 @@ draft: false
 
 ## 奖金
 
-前5名按照3:2:2:2:1分配，无其他说明。
+前5名按照3:2:2:2:1分配，如弃权则顺延至下一位，不限每人获奖次数。
 
 奖金池如下表格
 
