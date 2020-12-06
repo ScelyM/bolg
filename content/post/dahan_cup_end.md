@@ -7,10 +7,22 @@ draft: false
 # 大汉杯重启了
     目前进行中：season9
 <!--more-->
-大汉杯是一个投票计分制的7+1key格式谱面比赛，有奖金池。各届的规则不同，截止第8届共提交了151份谱面。
+## 基本介绍
+大汉杯是一个7+1key格式谱面比赛，仅针对谱面制作，有奖金池，除season8外为打分制。各届的规则不同，截止第8届共提交了151份谱面。
 - [谱面预览](https://space.bilibili.com/550673/channel/detail?cid=81194) 建议使用电脑观看
 - [下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Eskbimo2MpxLuVocf9Y4mIAB7owNEAv1ilFUFiaevp7h-A?e=Xqhcqu) 感谢anshi提供的OneDrive以及hakula提供的方案
-# 各届比赛的基本信息
+
+## English sub
+
+"Dahan Cup(大汉杯)" is a sabun making event in Chinese BMS community, organised by Scely and has now been held for 9 times. This event doesn't evaluate the music and the BG, only charts. 
+
+The event aims to improve the chart making skills of Chinese BMS community, so comments and suggestions from players and chart makers are needed. We welcome suggestions by BMS players and chart makers from all over the world.
+
+Every season has a song restrictions. For example: season9 "BOFXVI only". The event is divided into two parts, the registration period and the evaluation period.
+
+For evaluation, every people just can sumbit once. So you should confirm your numbers and suggestions are correct. Not all of the chart should been evaluation, you can choose anyone you want.
+
+## 各届比赛的基本信息
 赛季 |参赛谱面数|参赛人数|投票人数
 ---|---|---|---
 season1|19|16|15
@@ -21,8 +33,11 @@ season5|18|15|28
 season6|16|22|31
 season7|21|16|20
 season8|12|8|18
+season9|17|12|
+
 # 各届比赛的结果
-- season1 无限制
+
+## season1 无选曲限制 投票计总分
 
 参赛谱面|参赛人|得分
 ---|---|---
@@ -46,7 +61,7 @@ cherry merry cherry|ZGMZA|141
 S. O. S. -Sound of SoupCurry-|ZGMZA|135
 POODLE|2bxp.dll|133
 
-- season2 特技谱
+## season2 特技谱 投票计总分
 
 |参赛谱面|参赛人|得分
 |---|---|---
@@ -69,7 +84,7 @@ POODLE|2bxp.dll|133
 |L9|star|75
 |IMI|TecentQQ|66
 
-- season3 无key限定
+## season3 无key限定 投票计总分
 
 |参赛谱面|参赛人|得分
 |---|---|---
@@ -109,7 +124,7 @@ POODLE|2bxp.dll|133
 |Dreamy Flight|SYW feat. OSU!|126
 |Hg shoujo|NoKANY|92
 
-- season4 有key限定
+## season4 有key限定 投票计总分
 
 |参赛谱面|参赛人|得分
 |---|---|---
@@ -126,7 +141,7 @@ POODLE|2bxp.dll|133
 |Re/Im|FrozenFog|151
 |Shanoon's Theorem|ZGMZA|117
 
-- season5 手游限定
+## season5 手游限定 投票计总分
 
 |参赛谱面|参赛人|得分
 |---|---|---
@@ -149,7 +164,7 @@ POODLE|2bxp.dll|133
 |lethaeus|cc|109
 |Bookmaker|kimi|38
 
-- season6 合作
+## season6 合作 投票计平均分
 
 |参赛谱面|参赛人|平均分
 |---|---|---
@@ -170,7 +185,7 @@ POODLE|2bxp.dll|133
 |grass add|nky/solende|2.81 
 |Fracture Ray|_MHDmyt/Lolicon|2.52 
 
-- season7 特定曲目 不计参赛人
+## season7 特定曲目 不计参赛人 投票为是/否制
 
 |参赛谱面|得票
 |---|---
@@ -197,7 +212,7 @@ POODLE|2bxp.dll|133
 |PSYBARMISSO [YUE]|6
 |PSYBARMISSO [Kns0]|1
 
-- season8 FOON
+## season8 FOON 投票为是/否制
 
 |参赛谱面|得票
 |---|---
@@ -223,5 +238,6 @@ POODLE|2bxp.dll|133
 - Phizer
 - nood13
 - Ramen
+- hakosh
 
 以及感谢各位对比赛的赞助，部分数据丢失无法详细统计，谢谢各位的支持。
