@@ -4,10 +4,12 @@ date: 2020-08-19
 draft: false
 ---
 
-# 大汉杯重启了
-    目前进行中：season9
+# 大汉杯全部信息
+    目前进行中：无
 <!--more-->
+
 ## 基本介绍
+
 大汉杯是一个7+1key格式谱面比赛，仅针对谱面制作，有奖金池，除season8外为打分制。各届的规则不同，截止第8届共提交了151份谱面。
 - [谱面预览](https://space.bilibili.com/550673/channel/detail?cid=81194) 建议使用电脑观看
 - [下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Eskbimo2MpxLuVocf9Y4mIAB7owNEAv1ilFUFiaevp7h-A?e=Xqhcqu) 感谢anshi提供的OneDrive以及hakula提供的方案
@@ -33,7 +35,7 @@ season5|18|15|28
 season6|16|22|31
 season7|21|16|20
 season8|12|8|18
-season9|17|12|
+season9|17|12|32
 
 # 各届比赛的结果
 
@@ -228,6 +230,28 @@ POODLE|2bxp.dll|133
 |雀魂楽しい|14
 |Cillit Bang (Short edit)|14
 |Fate to Despair: BMS Edit|13
+
+## season9 BOFXVI限定 投票不限数量
+
+谱面  | 平均分 | 投票比例
+---  | --- | ---
+enchanted love [colors]  | 8.56  | 84%
+Abendo [Trioxide]  | 8.24  | 78%
+Hi-Fi-Story [INSANE FOLDER]  | 8.12  | 81%
+Sunset Toybox [Sweet]  | 8.08  | 75%
+#DoomeyTunes [SP (√5-1)/2]  | 7.85  | 81%
+Heart Beat [SP AZOTHER]  | 7.75  | 75%
+Nothing But Seven [SP AZOTHER]  | 7.62  | 91%
+NightTheater [Gao's ANOTHER]  | 7.44  | 84%
+SUDDEN IMPACT [GUILTY]  | 7.44  | 78%
+タマモッチ  | 7.37  | 84%
+Never a Good Fate [SP AZOTHER]  | 7.32  | 78%
+Angel's Salad [Existence]  | 7.24  | 78%
+FAKE LIFE [SP SP]  | 7.00  | 81%
+竹 [竹取]  | 6.96  | 81%
+The Crack of Dawn [Skyline]  | 6.84  | 78%
+爆音峠岬 [音爆]  | 6.05  | 59%
+Human Observer [終ノ空]  | 5.13  | 72%
 
 # 感谢各位对我的支持与帮助
 - [Hakula](http://hakula.xyz)
