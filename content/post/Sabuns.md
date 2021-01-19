@@ -15,20 +15,21 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
-    21.01.12 update:☆11 爆音峠岬 [inst.]
+    21.01.19 update:☆12 Chamomile [Ki]
+    21.01.12 update:☆11 爆音峠岬 [Inst.]
     20.12.02 update:☆11 enchanted love [colors]
     20.12.02 update:☆12 Abendo [Trioxide]
     20.12.02 update:☆12 Sunset Toybox [Sweet]
-    20.11.22 update:★3  crush BETA [final11123321]
 
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
 ☆11 | [enchanted love [colors]](https://www.bilibili.com/video/BV19541137CJ/?p=3) | linear ring | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133) | [stella](https://stellabms.xyz/upload/542)
 ☆11 | [The Sundering [Yard]](https://www.bilibili.com/video/BV1iK4y1h7ye/) | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
-☆11 | [爆音峠岬 [inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
+☆11 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
 ☆12 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
 ☆12 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
+☆12 | Chamomile [Ki]](https://www.bilibili.com/video/BV1vK4y1W7WX/) | shirosuke | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=133) | [stella](https://stellabms.xyz/upload/598)
 ☆12 | [One Way Street [Season]](https://www.bilibili.com/video/av13608735) | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 ☆12 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
 ★1 | [PSYBARMISSO [Xend]](https://www.bilibili.com/video/BV1xK411A7Gz) | cybermiso | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
