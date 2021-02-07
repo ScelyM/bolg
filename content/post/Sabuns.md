@@ -4,7 +4,7 @@ date: 2020-11-11T11:11:11+08:00
 draft: False
 ---
 <!--more-->
-- **Level:I Personly think the chart was that level**
+- **Level:Based on Hard Clear**
 - **Click _Song name_ to get preview,on Bilibili**
 - __Download link__
 [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
@@ -64,9 +64,10 @@ DP | [Burn [Her grandma]](https://www.bilibili.com/video/av71098487) | NecS | [B
 
 Sabuns | Song Name | Composer | Event | Table
 --- | --- | --- | --- | ---
+[SPA] | [G-Bass](https://www.bilibili.com/video/BV1Py4y1Y7Ha/) | Theme | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/111) | 
 [A]/[H] | [The Observer](https://www.bilibili.com/video/BV1VA411x7Hb) | absurd crossbreed | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=493&event=133)
 [SPA] | [Can't it be true](https://www.bilibili.com/video/BV1ki4y1L7ef) | Zris Feat.Kri | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133)
-[SPA] | [FAKE LIFE](https://www.bilibili.com/video/BV16a411c7nQ) | ProjectG | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133)
+[A]/[Kill] | [FAKE LIFE](https://www.bilibili.com/video/BV16a411c7nQ) | ProjectG | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133) | [A]sl0
 [A]/[H]/[N] | [Muspelheim](https://www.bilibili.com/video/BV1Pa411w7QT) | Columba(Daily vs. Roon_kun) | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=133)
 [A]/[H]/[N] | [Shore in the Rain](https://www.bilibili.com/video/BV1fK4y1Z7EW) | Antistar | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=133) | [A]sl1
 [A]/[H]/[It's A trap!] | [The Public Parallel](https://www.bilibili.com/video/BV1Z5411V7sj) | Sephid Substream | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=133)
