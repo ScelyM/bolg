@@ -7,7 +7,7 @@ draft: false
   I'm tring my best to use English
 
 ## Playing
-- BMS @ Beatoraja @ SP Genoside2018★10
+- BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
 - Apex Legends
 
@@ -16,14 +16,14 @@ draft: false
 - BMS chart make
 - FPS
 - Hardware
-- ~~talking shit~~
+- ~~Secret Stuff~~
 
 ## Desktop
 type|Hardware
 ---|---
 CPU | Ryzen 5 5600X
 MotherBoard | MSI B550M MORTAR
-RAM | MATSE C9BKV 8G*2 @3733 16-18-18-36
+RAM | MATSE C9BKV 8G*2 @4000 18-20-20-42
 GPU  | MSI RX 5500XT Gaming X
 Cooler | ThermalRight Ture Spirit 120
 PSU | SuperFlower Leadex G 750
