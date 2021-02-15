@@ -15,11 +15,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    21.02.15 update:★6  紅鏡アレセイア -The Last of Contract Stories- [Illuminar]
     21.02.08 update:★12 Experience of Ecstasy [Ki]
     21.01.19 update:☆12 Chamomile [Ki]
     21.01.12 update:☆11 爆音峠岬 [Inst.]
     20.12.02 update:☆11 enchanted love [colors]
-    20.12.02 update:☆12 Abendo [Trioxide]
 
 
 Level | Song Name | Composer | Event | Download | Table
@@ -41,6 +41,7 @@ Level | Song Name | Composer | Event | Download | Table
 ★5 | [わがままプリンセス [LEGO]](https://www.bilibili.com/video/av92099085/) | er | [無名戦10](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=86) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
 ★6 | [Brun [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
 ★6 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
+★6 | [紅鏡アレセイア -The Last of Contract Stories- [Illuminar]](https://www.bilibili.com/video/BV11X4y157WV/) | kanoryo&Orphex | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=120) | [stella](https://stellabms.xyz/upload/662)
 ★8 | [Door Nock [G]](https://www.bilibili.com/video/av81409574) | BilliumMoto | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 ★8 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 ★9 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
