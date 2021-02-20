@@ -103,6 +103,8 @@ MAX FPS设置为500。
 
 选项卡切到Resource栏。
 
+![resource](https://ftp.bmp.ovh/imgs/2021/02/65c14c68d8515640.png)
+
 BMS Path为曲包目录，Table URL为难度表链接。
 
 曲包导入方法：点击BMS path框右侧的加号，选择*.bms文件所在文件夹的上级目录，确定即可。
@@ -132,6 +134,8 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 ### 2.4 皮肤设置
 
 选项卡切到Skin栏。
+
+![skin](https://ftp.bmp.ovh/imgs/2021/02/48509713b7cc00f4.png)
 
 Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为7keys。
 
@@ -198,20 +202,28 @@ A|S|D|F| [Space] | J|K|L|;
 
 按住start键菜单中可以调整目标分数/随机选项/血条选项。
 
+![start](https://ftp.bmp.ovh/imgs/2021/02/1bc996ccaa4e17e4.png)
+
 - 不在此对随机选项/血条选项做说明。
 - 此菜单中通常会有一个Main BPM选项，建议打开。绝大多数的谱面中此选项有效。
 
 按住select键菜单中不建议调整任何选项。
 
+![select](https://ftp.bmp.ovh/imgs/2021/02/59034188b21df59d.png)
+
 - 此菜单中的选项会对游戏有较大影响，建议进阶使用。
 
 同时按住start和select键菜单中可以调整延迟/下落速度/BGA开关/同步切换血条功能。
+
+![start+select](https://ftp.bmp.ovh/imgs/2021/02/0e122ec7327468f5.png)
 
 在此额外对best clear功能做一个解释，开了这个选项后游戏中会同步跑所有血条：EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。
 
 - Mocha IR在开了此选项后如果Hard未能通过则直接切换到Easy。
 
 挡板在LITONE5内要打开谱面之后在载入时间双击start调整。有些皮肤的start菜单会有Sudden+设置，打开后也在载入时间内调整。调整逻辑和IIDX街机一致。
+
+lift即判定线升高在大部分皮肤中仅能在configuration中的play option选项卡中选择，由于大多数人并不会使用这个功能所以不做解释。
 
 ### 2.8 游玩
 
