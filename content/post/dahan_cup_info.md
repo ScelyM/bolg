@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：[season10](https://scelym.github.io/post/bhc_s10/)
+    目前进行中：season10
 <!--more-->
 
 ## 基本介绍
