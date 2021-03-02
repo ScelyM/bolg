@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：无
+    目前进行中：[season10](https://scelym.github.io/post/bhc_s10/)
 <!--more-->
 
 ## 基本介绍
@@ -25,6 +25,7 @@ Every season has a song restrictions. For example: season9 "BOFXVI only". The ev
 For evaluation, every people just can sumbit once. So you should confirm your numbers and suggestions are correct. Not all of the chart should been evaluation, you can choose anyone you want.
 
 ## 各届比赛的基本信息
+
 赛季 |参赛谱面数|参赛人数|投票人数
 ---|---|---|---
 season1|19|16|15

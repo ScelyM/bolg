@@ -23,8 +23,8 @@ type|Hardware
 ---|---
 CPU | Ryzen 5 5600X
 MotherBoard | MSI B550M MORTAR
-RAM | MATSE C9BKV 8G*2 @4000 18-20-20-42
-GPU  | MSI RX 5500XT Gaming X
+RAM | MATSE C9BKV 8G*2 @4066 18-20-20-38
+GPU  | Sapphire RX5500XT 
 Cooler | ThermalRight Ture Spirit 120
 PSU | SuperFlower Leadex G 750
 SSD | ZhiTai PC005 512G
