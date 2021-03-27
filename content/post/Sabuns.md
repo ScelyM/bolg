@@ -15,11 +15,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
-    21.03.02 update:★1  Always Feel the Same [Float]
+    21.03.27 update:★2  Gimme All The Cocaine [Weeb]
+    21.03.02 update:☆12 Always Feel the Same [Float]
     21.02.15 update:★6  紅鏡アレセイア -The Last of Contract Stories- [Illuminar]
     21.02.08 update:★12 Experience of Ecstasy [Ki]
     21.01.19 update:☆12 Chamomile [Ki]
-    21.01.12 update:☆11 爆音峠岬 [Inst.]
 
 
 Level | Song Name | Composer | Event | Download | Table
@@ -28,12 +28,13 @@ Level | Song Name | Composer | Event | Download | Table
 ☆11 | [The Sundering [Yard]](https://www.bilibili.com/video/BV1iK4y1h7ye/) | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
 ☆11 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
 ☆12 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
+☆12 | [Always Feel the Same [Float]](https://www.bilibili.com/video/BV1g5411K7wj/) | Gsus x VJ PONDELION x Alnilam | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/17) | [stella](https://stellabms.xyz/upload/709)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05087)
 ☆12 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 ☆12 | [Chamomile [Ki]](https://www.bilibili.com/video/BV1vK4y1W7WX/) | shirosuke | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=133) | [stella](https://stellabms.xyz/upload/598)
 ☆12 | [One Way Street [Season]](https://www.bilibili.com/video/av13608735) | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 ☆12 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
-★1 | [Always Feel the Same [Float]](https://www.bilibili.com/video/BV1g5411K7wj/) | Gsus x VJ PONDELION x Alnilam | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/17) | [stella](https://stellabms.xyz/upload/709)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05087)
 ★1 | [PSYBARMISSO [Xend]](https://www.bilibili.com/video/BV1xK411A7Gz) | cybermiso | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
+★2 | [Gimme All The Cocaine[Weeb]]() | Futami | [無名戦17](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131)
 ★3 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 ★3 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)
 ★3 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
@@ -72,7 +73,7 @@ Sabuns | Song Name | Composer | Event | Table
 [SPA] | [Can't it be true](https://www.bilibili.com/video/BV1ki4y1L7ef) | Zris Feat.Kri | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133)
 [A]/[Kill] | [FAKE LIFE](https://www.bilibili.com/video/BV16a411c7nQ) | ProjectG | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133) | [A]sl0
 [A]/[H]/[N] | [Muspelheim](https://www.bilibili.com/video/BV1Pa411w7QT) | Columba(Daily vs. Roon_kun) | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=133)
-[A]/[H]/[N] | [Shore in the Rain](https://www.bilibili.com/video/BV1fK4y1Z7EW) | Antistar | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=133) | [A]sl1
+[A]/[H]/[N] | [Shore in the Rain](https://www.bilibili.com/video/BV1fK4y1Z7EW) | Antistar | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=133) | [A]sl2
 [A]/[H]/[It's A trap!] | [The Public Parallel](https://www.bilibili.com/video/BV1Z5411V7sj) | Sephid Substream | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=133)
 [A]/[H]/[I] | [After ZABANIYA](https://www.bilibili.com/video/BV1hy4y1z7TQ) | Daily天利 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133)
 [We Kick Ass!]/[A]/[H] | [Aliens are BAD!](https://www.bilibili.com/video/BV1cA411n7x4) | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) | [A]sl0
