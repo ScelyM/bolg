@@ -15,11 +15,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    21.04.22 update:★9  Neutrφn Reaper [Drop]
     21.03.27 update:★4  Gimme All The Cocaine [Weeb]
     21.03.02 update:☆12 Always Feel the Same [Float]
     21.02.15 update:★6  紅鏡アレセイア -The Last of Contract Stories- [Illuminar]
     21.02.08 update:★12 Experience of Ecstasy [Ki]
-    21.01.19 update:☆12 Chamomile [Ki]
 
 
 Level | Song Name | Composer | Event | Download | Table
@@ -46,6 +46,7 @@ Level | Song Name | Composer | Event | Download | Table
 ★6 | [紅鏡アレセイア -The Last of Contract Stories- [Illuminar]](https://www.bilibili.com/video/BV11X4y157WV/) | kanoryo&Orphex | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=120) | [stella](https://stellabms.xyz/upload/662)
 ★8 | [Door Nock [G]](https://www.bilibili.com/video/av81409574) | BilliumMoto | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 ★8 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
+★9 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | 
 ★9 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
 ★9 | [カリオストロの穿孔 [Key]](https://www.bilibili.com/video/av85014504) | 隣の庭は青い(庭師+Aoi) | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | sl5
 ★12 | [Breaching [Ki]](https://www.bilibili.com/video/av81409574?p=5) | uet | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
@@ -79,15 +80,15 @@ Sabuns | Song Name | Composer | Event | Table
 [We Kick Ass!]/[A]/[H] | [Aliens are BAD!](https://www.bilibili.com/video/BV1cA411n7x4) | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) | [A]sl0
 [ahhh] | [Burn (Haocore Remix)](https://www.bilibili.com/video/av78799662) | NecS remix by Daliy | [BOFOONXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128)
 [A]/[H]/[N] | Metronome  | 女藏 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127)
-[SPA] | [Midnight Flux]((https://www.bilibili.com/video/BV1WJ411Q7YP?t=615))  | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | sl4
+[SPA] | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | sl4
 [SPA] | [The Sundering](https://www.bilibili.com/video/BV1WJ411Q7YP?t=0)  | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127)
 [[awsl]/[A]/[H]/[N]] | [kadai](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127)
 [[A]/[H+]/[H]/[N]] | [Mandragora](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127)
 [-Stellar Overhaul-] | [Subterranean Blastoff](https://www.bilibili.com/video/BV1WJ411Q7YP?t=315) | SEPHID | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | 
 [A]/[H] | Theme | ProjectG | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/99)
 [SPA] | 禁忌と緋色幻想 -The Primary Plasm-  | ZUN Remixed by NoKANY | [東方音弾遊戯8](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118) | st0
-[SPA] | [Corona]((https://www.bilibili.com/video/av56630404)) | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
-[- θ∀θ -] | [ΣθИ]((https://www.bilibili.com/video/av35219027)) | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
+[SPA] | [Corona](https://www.bilibili.com/video/av56630404) | ProjectG | [無名戦16](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126)
+[- θ∀θ -] | [ΣθИ](https://www.bilibili.com/video/av35219027) | SEPHID | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123)
 
 ---
 ## non-keysound (List by Level)
