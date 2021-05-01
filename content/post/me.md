@@ -19,18 +19,20 @@ draft: false
 - ~~Secret Stuff~~
 
 ## Desktop
+
 type|Hardware
 ---|---
-CPU | Ryzen 5 5600X
+CPU | Ryzen 5 5600X @PBO2 curve-15 @all core 4.5Ghz 75W
 MotherBoard | MSI B550M MORTAR
-RAM | MATSE C9BKV 8G*2 @4066 18-20-20-38
+RAM | MATSE C9BKV 8G*2 @3600 16-18-18-38
 GPU  | MSI RX6700XT GamingX 
-Cooler | ThermalRight Ture Spirit 120
+Cooler | ProArtist Basic 3 @Arctic P12
 PSU | SuperFlower Leadex G 750
 SSD | ZhiTai PC005 512G
 HDD | Toshiba P300 3T
-SSD | Toshiba rc500 512G NVME
-case | MetallicGear MG410 V2
+SSD | ADATA SX8200pro 1T
+Case | MSI MPG GUNGNIR 110L
+Case Fan | Arctic P14 *2 (In) / Arctic F12 (Out)
 keyboard | Niz 87key@35g
 mouse | ZOWIE EC1A / Logitech G603
 headset | HyperX Cloud II / Sony WI-1000XM2
@@ -38,12 +40,12 @@ monitar | ZOWIE XL2411P
 
 ## Laptop
 
-Intel Whitebook LAPQC71A
-- I7 9750H
-- 93WH battery
-- GTX 1660TI
-- 144Hz Monitor with 99%sRGB
-- 16G 2666 ram + 1TB SSD (ADATA SX8200pro)
+LENOVO R7000P 2021
+- R7 5800H
+- RTX 3060
+- 16G 3200Mhz RAM from Sunsumg
+- SN730 512G
+- 1080P 165Hz
 
 ## how to find me
 
