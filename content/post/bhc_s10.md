@@ -6,15 +6,22 @@ draft: false
 
 # 大汉杯season10：refresh
 
+    已截止提交，开始投票阶段
+
 <!--more-->
 
 ## 前言
 
-    一部分奖金是我闲时挖矿的收益。
-    希望下届的时候混乱的情况能有改观。
-    包括说闲话的。
+    现在的心理状态比之前要好了很多，生活还得继续，对吧
+    不要让无关的事情影响到你的生活
 
-## 规则
+## 投票阶段相关
+
+- [预览视频地址](https://www.bilibili.com/video/BV1Y64y1U7NE/)
+- [谱面下载地址](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season10/)
+- [投票地址](https://tp.wjx.top/jq/99808658.aspx)
+
+## 比赛规则
 
 **本届比赛规则最终解释权在举办方。**
 
