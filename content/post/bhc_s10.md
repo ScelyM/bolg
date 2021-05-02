@@ -17,9 +17,28 @@ draft: false
 
 ## 投票阶段相关
 
-- [预览视频地址](https://www.bilibili.com/video/BV1Y64y1U7NE/)
 - [谱面下载地址](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season10/)
 - [投票地址](https://tp.wjx.top/jq/99808658.aspx)
+
+投票截止时间：2021年5月30日23:59
+
+## 参赛谱面列表
+
+如果点击视频后出现视频消失提示，刷新即可
+
+- [marchendreams.(BMS edit) [T-]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=1)
+- [Scarlet Extra [永醒夢]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=2)
+- [YUGAMINAI LOVE [アニキ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=3)
+- [Bosh [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=4)
+- [Lotus Life [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=5)
+- [プラネット [Satella]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=6)
+- [Muspelheim ~黙示録~](https://www.bilibili.com/video/BV1Y64y1U7NE?p=7)
+- [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8)
+- [タマモッチ [ぇ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=9)
+- [天空の城ヴェリエル [階段教室]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=10)
+- [rough [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=11)
+- [ENERGY SYNERGY MATRIX [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=12)
+
 
 ## 比赛规则
 
