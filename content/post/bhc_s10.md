@@ -26,18 +26,29 @@ draft: false
 
 如果点击视频后出现视频消失提示，刷新即可
 
-- [marchendreams.(BMS edit) [T-]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=1)
-- [Scarlet Extra [永醒夢]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=2)
-- [YUGAMINAI LOVE [アニキ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=3)
-- [Bosh [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=4)
-- [Lotus Life [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=5)
-- [プラネット [Satella]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=6)
-- [Muspelheim ~黙示録~](https://www.bilibili.com/video/BV1Y64y1U7NE?p=7)
-- [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8)
-- [タマモッチ [ぇ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=9)
-- [天空の城ヴェリエル [階段教室]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=10)
-- [rough [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=11)
-- [ENERGY SYNERGY MATRIX [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=12)
+### [marchendreams.(BMS edit) [T-]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=1)
+
+### [Scarlet Extra [永醒夢]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=2)
+
+### [YUGAMINAI LOVE [アニキ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=3)
+
+### [Bosh [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=4)
+
+### [Lotus Life [SP AZOTHER]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=5)
+
+### [プラネット [Satella]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=6)
+
+### [Muspelheim ~黙示録~](https://www.bilibili.com/video/BV1Y64y1U7NE?p=7)
+
+### [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8)
+
+### [タマモッチ [ぇ]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=9)
+
+### [天空の城ヴェリエル [階段教室]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=10)
+
+### [rough [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=11)
+
+### [ENERGY SYNERGY MATRIX [KMMM Another]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=12)
 
 
 ## 比赛规则

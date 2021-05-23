@@ -15,27 +15,29 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    21.05.23 update:☆12 プラネット [Satella]
+    21.05.23 update:☆12 Brace for muddy terrain. [SS]
+    21.05.23 update:★7  Exploration the Giotto [R]
     21.04.28 update:☆10 Dove [chill.]
     21.04.22 update:★4  Neutrφn Reaper [Drop]
-    21.03.27 update:★4  Gimme All The Cocaine [Weeb]
-    21.03.02 update:☆12 Always Feel the Same [Float]
-    21.02.15 update:★6  紅鏡アレセイア -The Last of Contract Stories- [Illuminar]
 
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
+☆10 | [Chamomile [Ki]](https://www.bilibili.com/video/BV1vK4y1W7WX/) | shirosuke | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=133) | [stella](https://stellabms.xyz/upload/598)
 ☆10 | [Dove [chill.]](https://www.bilibili.com/video/BV1bK411c7Ff/) | Sound piercer & Puru feat.Emma J. | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116) | [stella](https://stellabms.xyz/upload/828)
+☆11 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
 ☆11 | [enchanted love [colors]](https://www.bilibili.com/video/BV19541137CJ/?p=3) | linear ring | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133) | [stella](https://stellabms.xyz/upload/542)
+☆11 | [PSYBARMISSO [Xend]](https://www.bilibili.com/video/BV1xK411A7Gz) | cybermiso | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
 ☆11 | [The Sundering [Yard]](https://www.bilibili.com/video/BV1iK4y1h7ye/) | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
 ☆11 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
-☆12 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
 ☆12 | [Always Feel the Same [Float]](https://www.bilibili.com/video/BV1g5411K7wj/) | Gsus x VJ PONDELION x Alnilam | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/17) | [stella](https://stellabms.xyz/upload/709)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05087)
 ☆12 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
-☆12 | [Chamomile [Ki]](https://www.bilibili.com/video/BV1vK4y1W7WX/) | shirosuke | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=133) | [stella](https://stellabms.xyz/upload/598)
+☆12 | [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8) | Hyperpax | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
+☆12 | [プラネット [Satella]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=6) | あまつち探検隊 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/80) | [stella](https://stellabms.xyz/upload/891)
 ☆12 | [One Way Street [Season]](https://www.bilibili.com/video/av13608735) | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
-☆12 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
-★1 | [PSYBARMISSO [Xend]](https://www.bilibili.com/video/BV1xK411A7Gz) | cybermiso | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=127) | 
-★3 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
+★1 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
+★2 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
 ★3 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)
 ★3 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 ★3 | [Trancing 'Tempo'rary [Trace]](https://www.bilibili.com/video/av86536101) | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
@@ -43,16 +45,17 @@ Level | Song Name | Composer | Event | Download | Table
 ★4 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 ★4 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)
 ★5 | [わがままプリンセス [LEGO]](https://www.bilibili.com/video/av92099085/) | er | [無名戦10](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=86) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04074)
-★6 | [Brun [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+★6 | [Door Nock [G]](https://www.bilibili.com/video/av81409574) | BilliumMoto | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
 ★6 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 ★6 | [紅鏡アレセイア -The Last of Contract Stories- [Illuminar]](https://www.bilibili.com/video/BV11X4y157WV/) | kanoryo&Orphex | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=120) | [stella](https://stellabms.xyz/upload/662)
-★8 | [Door Nock [G]](https://www.bilibili.com/video/av81409574) | BilliumMoto | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03900)
+★7 | [Exploration the Giotto [R]](https://www.bilibili.com/video/BV1gv411L7nX) | kunzite + BBBB | [Mutual Faith 3](https://venue.bmssearch.net/mutualfaith3/16) | [stella](https://stellabms.xyz/upload/889)
+★8 | [Brun [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
 ★8 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 ★9 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
 ★9 | [カリオストロの穿孔 [Key]](https://www.bilibili.com/video/av85014504) | 隣の庭は青い(庭師+Aoi) | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03957) | sl5
+★11 | [CherryImpact [Siron]](https://www.bilibili.com/video/av84389512) | kozato | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
+★11 | [Experience of Ecstasy [Ki]](https://www.bilibili.com/video/BV1oN41197ww/) | sukuramu42 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/106) | [stella](https://stellabms.xyz/upload/641)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04989)
 ★12 | [Breaching [Ki]](https://www.bilibili.com/video/av81409574?p=5) | uet | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03901)
-★12 | [CherryImpact [Siron]](https://www.bilibili.com/video/av84389512) | kozato | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03902)
-★12 | [Experience of Ecstasy [Ki]](https://www.bilibili.com/video/BV1oN41197ww/) | sukuramu42 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/106) | [stella](https://stellabms.xyz/upload/641)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04989)
 ★12 | [Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]](https://www.bilibili.com/video/BV1bi4y1G7hQ/) | Yosk! | [BMS衆議院選](https://venue.bmssearch.net/3/44) |  | 
 ★13 | [恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 村下エレクトリッヴマッダシスイバー | ? | /
 ★15 | [WE ARE HARDCORE [gang]](https://www.bilibili.com/video/av35739704) | lixound | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | sl9
@@ -103,9 +106,9 @@ Sabuns | Song Name | Composer | Event | Table
 
 Level | Song Name | Composer | Feature | Source (game)
 --- | --- | --- | --- | ---
+☆10 | [DEPARTED (2GPS REMIX)](https://www.bilibili.com/video/BV1rt41187iu?p=4) | MINIKOMA☆ |  | Tone sphere
 ☆10 | だれかの心臓になれたなら | GUMI,ユリイ・カノン | 4min | 
 ☆11 | Hyeonmu Seogtab | Maple Story | scratch | Maple Story
-☆11 | [DEPARTED (2GPS REMIX)](https://www.bilibili.com/video/BV1rt41187iu?p=4) | MINIKOMA☆ |  | Tone sphere
 ☆12 | [Dope DrowN DoLL](https://www.bilibili.com/video/av58423461) | Dr.RcB |  | O2JAMU
 ☆12 | [Hz](https://www.bilibili.com/video/BV1zg4y187iF/) | Zeryoone | | Tone Sphere
 ☆12 | Milky Factory | Kobaryu |  | 
