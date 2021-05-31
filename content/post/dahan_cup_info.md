@@ -5,12 +5,12 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：season10
+    目前进行中：无
 <!--more-->
 
 ## 基本介绍
 
-大汉杯是一个7+1key格式谱面比赛，仅针对谱面制作，有奖金池，除season8外为打分制。各届的规则不同，截止第8届共提交了151份谱面。
+大汉杯是一个7+1key格式谱面比赛，仅针对谱面制作，有奖金池，除season8外为打分制。各届的规则不同，截止第10届共提交了180份谱面。
 - [谱面预览](https://space.bilibili.com/550673/channel/detail?cid=81194) 建议使用电脑观看
 - [下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Eskbimo2MpxLuVocf9Y4mIAB7owNEAv1ilFUFiaevp7h-A?e=Xqhcqu) 感谢anshi提供的OneDrive以及hakula提供的方案
 
@@ -37,6 +37,7 @@ season6|16|22|31
 season7|21|16|20
 season8|12|8|18
 season9|17|12|32
+season10|12|9|28
 
 # 各届比赛的结果
 
@@ -253,6 +254,24 @@ FAKE LIFE [SP SP]  | 7.00  | 81%
 The Crack of Dawn [Skyline]  | 6.84  | 78%
 爆音峠岬 [音爆]  | 6.05  | 59%
 Human Observer [終ノ空]  | 5.13  | 72%
+
+## season10 必须出自活动，限制12份提交
+
+谱面|平均分
+---|---
+Bosh [SP AZOTHER] | 8.70 
+プラネット [Satella] | 8.27 
+Lotus Life [SP AZOTHER] | 7.93 
+Brace for muddy terrain [SS] | 7.92 
+marchendreams.(BMS edit) [T-] | 7.48 
+rough [KMMM Another] | 7.30 
+YUGAMINAI LOVE [アニキ] | 7.29 
+Scarlet Extra [永醒夢] | 7.22 
+タマモッチ [ぇ] | 7.08 
+Muspelheim ~黙示録~ | 7.00 
+天空の城ヴェリエル [階段教室] | 6.69 
+ENERGY SYNERGY MATRIX [KMMM Another] | 5.64 
+
 
 # 感谢各位对我的支持与帮助
 - [Hakula](http://hakula.xyz)
