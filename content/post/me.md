@@ -4,7 +4,7 @@ date: 2020-02-09T13:08:03+08:00
 draft: false
 ---
 <!--more-->
-  I'm trying my best to use English
+  I'm tring my best to use English
 
 ## Playing
 - BMS @ Beatoraja @ Genoside2018 SP★10
@@ -15,24 +15,25 @@ draft: false
 - music games
 - BMS chart make
 - FPS
-- Hardware
+- PC Hardware
 - ~~Secret Stuff~~
 
 ## Desktop
 
 type|Hardware
 ---|---
-CPU | Ryzen 5 5600X @PBO2 curve-15 @all core 4.6Ghz 80W 
-MotherBoard | ROG strix B550-XE 
+CPU | Ryzen 5 5600X @PBO2 curve-15
+MotherBoard | MSI B550 Carbon
 RAM | Crucial Ballistix 8G*2 @3200 16-18-18-38 
 GPU  | MSI RX6700XT Gaming X 
-Cooler | ProArtist Basic 3 @ThermalRight B12 
+Cooler | ThermalRight AS120 @ThermalRight B12 
 PSU | SuperFlower Leadex G 750
 SSD | ZhiTai PC005 512G
 HDD | Toshiba P300 3T
 SSD | ADATA SX8200pro 1T
 Case | MSI MPG GUNGNIR 110L
-Case Fan | Arctic P14 *2 (In) / Arctic P12 (Out) 
+Intake Fan | Arctic P14 *2
+Output Fan | ThermalRight C12B
 keyboard | Niz 87key@35g
 mouse | ZOWIE EC1A / Logitech G603
 headset | HyperX Cloud II / Sony WI-1000XM2
@@ -40,12 +41,12 @@ monitar | ZOWIE XL2411P
 
 ## Laptop
 
-LENOVO R7000P 2021
-- R7 5800H
-- RTX 3060 (VRAM from Micron)
-- 16G 3200Mhz RAM from Sunsumg
-- SN730 512G
-- 1080P 165Hz
+MECHREVO F1
+- I5 11300H
+- 16G 3200Mhz RAM from Crucial
+- Zhitai PC005 512G (add-in)
+- ADATA IM2P33F8 512G
+- 2880*1800 90Hz
 
 ## how to find me
 
