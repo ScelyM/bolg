@@ -22,10 +22,10 @@ draft: false
 
 type | Brand | Info
 ---|---|---
-CPU | AMD | Ryzen 5 5600X @PBO2 curve-15
+CPU | AMD | Ryzen 5 5600X @PBO2 curve-18
 MotherBoard | MSI | B550 Carbon
-RAM | Crucial Ballistix | 8G*2 @3200 16-18-18-38 
-GPU  | MSI | RX6700XT Gaming X 
+RAM | Crucial Ballistix | 8G*2 @3600 18-20-20-38 
+GPU  | MSI | RX6700XT Mech OC
 Cooler | ThermalRight | AS120 @ThermalRight B12 
 PSU | SuperFlower | Leadex G 750
 SSD | ZhiTai | PC005 512G
@@ -39,34 +39,6 @@ mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
 monitar | ZOWIE | XL2411P
 
-Used | Brand | Info
----|---|---
-CPU | Intel | I7 7700K
-CPU | AMD | R7 2700X
-CPU | AMD | R7 3700X
-CPU | AMD | R5 3400G
-Motherboard | ASUS | B250M
-Motherboard | MSI | B450M MORTAR Titanium
-Motherboard | MSI | X570 Gaming Plus
-Motherboard | MSI | B550M MORTAR
-Motherboard | ASUS ROG | Strix B550-XE
-Motherboard | Asrock | B450M-ITX
-GPU | MSI | GTX1080 Armor 8G
-GPU | Yeston | RX5700XT 8G
-GPU | Powercolor | RX5600XT 6G
-GPU | MSI | RX5500XT 8G
-SSD | Intel | 545S 256G
-SSD | Gloway | 骁将 1T
-SSD | Gloway | 悍将 720G/1.5T
-SSD | TOSHIBA | RC500 500G
-SSD | TOSHIBA | XG3 256G
-Case | Aigo | T20
-Case | MetallicGear | MG410
-Cooler | ThermalRight | TS120
-Cooler | ThermalRight | AXP100
-Cooler | ProArtist | Basic3
-Cooler | ID-Cooling | IS40X
-RAM&CaseFan | Too much...
 
 
 ## Laptop
@@ -78,30 +50,6 @@ MECHREVO F1
 - ADATA IM2P33F8 512G
 - 2880*1800 90Hz
 
-~~Lenovo R7000P 2021~~
-- R7 5800H
-- RTX3060
-- 1080p 165Hz
-
-~~Intel Whitebook QC71A~~
-- I7 9750H
-- GTX1660ti
-- 1080p 144Hz
-
-~~MECHREVO Code01~~ 
-- R7 4800H
-
-~~ROG Strix GA502IV~~
-- R9 4900HS
-- RTX2060mq
-- 1080p 240Hz
-
-~~Lenovo R7000~~
-- R5 4600H
-- GTX1650
-
-~~HP ZHAN 66~~
-- R5 3500U
 
 ## how to find me
 

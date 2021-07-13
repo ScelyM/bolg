@@ -91,7 +91,7 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 Display Mode中有三个选项：FullScreen/Borderless/Window，分别对应全屏/无边框窗口/窗口化。
 
-Resolution意为分辨率，建议保持1280*720不变。
+Resolution意为分辨率，**建议**保持1280*720不变。
 
 Vsync开关是垂直同步开关，对于音乐游戏来说不建议打开，仅在游戏界面画面撕裂严重的情况下建议打开。
 
@@ -245,6 +245,10 @@ lift即判定线升高在大部分皮肤中仅能在configuration中的play opti
 {{< admonition info warning success "Tips" false >}}无意义的寻找认同感并不会对你的水平有实际改善。{{< /admonition >}}
 
 ## 3. 疑难解答
+
+Q：双击bat文件，cmd窗口闪退该如何处理？
+
+A：检查本机安装的Java版本。近期出现了不止一位的安装了Java15并忘记的用户，通过检查卸载Java8以外版本即可解决。另一种解决办法是挂载javafx包，不做解答。
 
 Q：点击play弹出如下界面该如何处理？
 
