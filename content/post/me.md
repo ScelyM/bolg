@@ -22,9 +22,9 @@ draft: false
 
 type | Brand | Info
 ---|---|---
-CPU | AMD | Ryzen 5 5600X @PBO2 curve-18
+CPU | AMD | Ryzen 5 5600X @PBO2 +200MHz curve-18
 MotherBoard | MSI | B550 Carbon
-RAM | Crucial Ballistix | 8G*2 @3600 18-20-20-38 
+RAM | TeamGroup | Creator 8G*2 @3800 18-22-22-42
 GPU  | MSI | RX6700XT Mech OC
 Cooler | ThermalRight | AS120 @ThermalRight B12 
 PSU | SuperFlower | Leadex G 750
@@ -32,7 +32,7 @@ SSD | ZhiTai | PC005 512G
 HDD | Toshiba | P300 3T
 SSD | ADATA | SX8200pro 1T
 Case | MSI | MPG GUNGNIR 110L
-Intake Fan | Arctic | P14 *2
+Intake Fan | PHANTEKS | F140MP*2
 Output Fan | ThermalRight | C12B
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
