@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：无
+    目前进行中：Season11：underdogs
 <!--more-->
 
 ## 基本介绍
@@ -16,7 +16,7 @@ draft: false
 
 ## English sub
 
-"Dahan Cup(大汉杯)" is a sabun making event in Chinese BMS community, organised by Scely and has now been held for 9 times. This event doesn't evaluate the music and the BG, only charts. 
+"Dahan Cup(大汉杯)" is a sabun making event in Chinese BMS community, organised by Scely and has now been held for 11 times. This event doesn't evaluate the music and the BG, only charts. 
 
 The event aims to improve the chart making skills of Chinese BMS community, so comments and suggestions from players and chart makers are needed. We welcome suggestions by BMS players and chart makers from all over the world.
 

@@ -24,7 +24,7 @@ type | Brand | Info
 ---|---|---
 CPU | AMD | Ryzen 5 5600X @PBO2 +200MHz curve-18
 MotherBoard | MSI | B550 Carbon
-RAM | TeamGroup | Creator 8G*2 @3800 18-22-22-42
+RAM | TeamGroup | Create 8G*2 @3800 18-22-22-42
 GPU  | MSI | RX6700XT Mech OC
 Cooler | ThermalRight | AS120 @ThermalRight B12 
 PSU | SuperFlower | Leadex G 750

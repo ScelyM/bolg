@@ -5,7 +5,6 @@ draft: false
 ---
 
 # 大汉杯season9：BOFXVI 会场限定
-    已结束。
 
 <!--more-->
 ## 比赛结果

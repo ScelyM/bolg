@@ -6,8 +6,6 @@ draft: false
 
 # 大汉杯season10：refresh
 
-    已截止。
-
 <!--more-->
 
 - [谱面下载地址](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season10/)
