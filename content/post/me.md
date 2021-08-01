@@ -16,7 +16,7 @@ draft: false
 - BMS chart make
 - FPS
 - PC Hardware
-- ~~Secret Stuff~~
+- ~~empty~~
 
 ## Desktop
 
