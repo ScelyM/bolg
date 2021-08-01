@@ -27,7 +27,7 @@ MotherBoard | MSI | B550 Carbon
 RAM | TeamGroup | Create 8G*2 @3800 18-22-22-42
 GPU  | MSI | RX6700XT Mech OC
 Cooler | ThermalRight | AS120 @ThermalRight B12 
-PSU | SuperFlower | Leadex G 750
+PSU | ADATA | Core Reactor 750G
 SSD | ZhiTai | PC005 512G
 HDD | Toshiba | P300 3T
 SSD | ADATA | SX8200pro 1T
