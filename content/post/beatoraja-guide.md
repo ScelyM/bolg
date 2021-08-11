@@ -150,7 +150,9 @@ Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为
 
 每个皮肤的设置不相同，仅对大部分皮肤都会有的设置做说明。
 
-{{< admonition tip "Tips" false >}}我所用的是LITONE5，这个皮肤的设置界面绝大多数都有英文，直接读英文就好。绝大部分的设置和IIDX的设置思路通用。{{< /admonition >}}
+- (0.8.3) beatoraja同捆了Zris的modernchic中文翻译版本。
+
+{{< admonition tip "Tips" false >}}【日文】[beatoraja皮肤集合](https://mirais-station.hatenablog.com/entry/2021/01/21/180000)。需要一定阅读能力，不对此博客做详细介绍{{< /admonition >}}
 
 - Score Graph是柱状图，实时显示与目标分数/自己最好成绩的差距。
 - Judge Timing中打开Fast/Slow显示。
