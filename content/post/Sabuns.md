@@ -15,7 +15,7 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
-    21.08.23 update:★14 Amplifying Effect - SP Ryzen -
+    21.08.23 update:★16 Amplifying Effect - SP Ryzen -
     21.05.23 update:☆12 プラネット [Satella]
     21.05.23 update:☆12 Brace for muddy terrain. [SS]
     21.05.23 update:★7  Exploration the Giotto [R]
@@ -58,8 +58,8 @@ Level | Song Name | Composer | Event | Download | Table
 ★12 | [Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]](https://www.bilibili.com/video/BV1bi4y1G7hQ/) | Yosk! | [BMS衆議院選](https://venue.bmssearch.net/3/44) |  | 
 ★13 | [Experience of Ecstasy [Ki]](https://www.bilibili.com/video/BV1oN41197ww/) | sukuramu42 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/106) | [stella](https://stellabms.xyz/upload/641)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04989)
 ★13 | [恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子](https://www.bilibili.com/video/BV1X7411f7aV?p=8) | 村下エレクトリッヴマッダシスイバー | ? | /
-★14 | [Amplifying Effect - SP Ryzen -](https://www.bilibili.com/video/BV1Xg41157Ti/) | Is-m | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/31) | [stella](https://stellabms.xyz/upload/1136)
 ★15 | [WE ARE HARDCORE [gang]](https://www.bilibili.com/video/av35739704) | lixound | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03964) | sl9
+★16 | [Amplifying Effect - SP Ryzen -](https://www.bilibili.com/video/BV1Xg41157Ti/) | Is-m | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/31) | [stella](https://stellabms.xyz/upload/1136)
 ★17 | [reverieland [Mirage]](https://www.bilibili.com/video/av79411193) | void | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
 DP | [Burn [Her grandma]](https://www.bilibili.com/video/av71098487) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
 ★? | [Snow White [Summer]](https://www.bilibili.com/video/av13608735?p=1) | Puru | [BOFU2015](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03963) | 癖9
