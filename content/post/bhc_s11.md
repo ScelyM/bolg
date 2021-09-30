@@ -10,6 +10,44 @@ draft: false
 
 <!--more-->
 
+## 投票部分
+
+投票地址[问卷星](https://tp.wjx.top/vj/mLQSDz1.aspx)
+
+## 参赛谱面
+
+预览视频[B站](https://www.bilibili.com/video/BV1oL411W7eP/)
+
+下载地址见[OneDrive](https://bms.hakula.xyz)/[镜像](https://bms.cosmiccat.top/bms/%E5%A4%A7%E6%B1%89%E6%9D%AF/season11/)
+
+注：由于OneDrive会生成临时链接，需要进入后手动选择大汉杯season11文件夹下载。
+
+注2：镜像站的同步时间是第二天，也就是不会实时上架。如果链接无效请耐心等待。
+
+注3：本届比赛不再提供纯差分包下载。
+
+谱面以note数量为编号
+
+- 1082	SCCCQ [Free]
+- 1142	before cold sleep[Andy's Hyper]
+- 1220	osmosis [Cell]
+- 1321	地外桃源 [Other Side of World]
+- 1395	faraway faraway [farewell]
+- 1509	黄昏のメロディア [Fanta Sea]
+- 1515	Lonely Overnight [SP AZOTHER]
+- 1604	Restaurant ''Little Garden'' [Andy's Another]
+- 1655	CYNiCAL V!RTUE [SP AZOTHER]
+- 1694	Lunatic Rave [LRHBody.exe Stopped Working]
+- 1745	not 桜 [ok]
+- 1793	U-NI [Re-spect]
+- 1831	Hypertext Transfer Protocol [=] 
+- 2198	音楽（なんでも吸い込むピンク色のための）[sbother]
+- 2210	Winter_Night_Fantom[Tears]
+- 2220	ephemera [S-Another]
+- 2222	Schwerkraft [colo]
+
+
+
 ## 选曲范围
 
 历届BMS活动的后70%排名作品，仅计算个人总分排名，ace补正或其他补正项目不包含在内。
