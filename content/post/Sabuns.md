@@ -15,12 +15,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    21.10.02 update:★?  魂姫～たまひめ～ [≡]
+    21.10.02 update:★7  U-NI [Re-spect]
     21.08.23 update:★16 Amplifying Effect - SP Ryzen -
     21.05.23 update:☆12 プラネット [Satella]
     21.05.23 update:☆12 Brace for muddy terrain. [SS]
-    21.05.23 update:★7  Exploration the Giotto [R]
-    21.04.28 update:☆10 Dove [chill.]
-
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -49,6 +48,7 @@ Level | Song Name | Composer | Event | Download | Table
 ★6 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 ★6 | [紅鏡アレセイア -The Last of Contract Stories- [Illuminar]](https://www.bilibili.com/video/BV11X4y157WV/) | kanoryo&Orphex | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=120) | [stella](https://stellabms.xyz/upload/662)
 ★7 | [Exploration the Giotto [R]](https://www.bilibili.com/video/BV1gv411L7nX) | kunzite + BBBB | [Mutual Faith 3](https://venue.bmssearch.net/mutualfaith3/16) | [stella](https://stellabms.xyz/upload/889)
+★7 | [U-NI [Re-spect]](https://www.bilibili.com/video/BV1oL411W7eP?p=12) | r | [BOFXV](https://www.bilibili.com/video/BV1oL411W7eP?p=12)
 ★8 | [Brun [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
 ★8 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 ★9 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
@@ -63,6 +63,7 @@ Level | Song Name | Composer | Event | Download | Table
 ★17 | [reverieland [Mirage]](https://www.bilibili.com/video/av79411193) | void | [OLDSKOOL VS FUTURE](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03745)
 DP | [Burn [Her grandma]](https://www.bilibili.com/video/av71098487) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03463)
 ★? | [Snow White [Summer]](https://www.bilibili.com/video/av13608735?p=1) | Puru | [BOFU2015](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03963) | 癖9
+★? | [魂姫～たまひめ～ [≡]](https://www.bilibili.com/video/BV13g411F7ve/) | うまるつふり | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/7)
 
 ---  
 
