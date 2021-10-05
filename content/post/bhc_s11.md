@@ -14,6 +14,8 @@ draft: false
 
 投票地址[问卷星](https://tp.wjx.top/vj/mLQSDz1.aspx)
 
+规则见投票页面。
+
 ## 参赛谱面
 
 预览视频[B站](https://www.bilibili.com/video/BV1oL411W7eP/)
