@@ -35,8 +35,9 @@ __此教程为免费教程，如果在任何地方发现收费行为，请立即
 
 __本教程不保证游戏水平的提升。__
 
-
 ## 1. 游戏前
+
+---
 
 ### 1.1 硬件配置
 
@@ -57,6 +58,8 @@ CPU性能 | 酷睿初代以后的Intel | 酷睿4代以后的Intel/锐龙以后�
 
 也就是说，目前大部分的电脑都可以流畅运行Beatoraja。极少数的配置不足玩家建议游玩需求配置更低的Lunatic Rave 2。[LR2教程](https://hakula.xyz/tutorial/lr2.html)by Hakula。
 
+---
+
 ### 1.2 软件配置
 
 Beatoraja需要有Java8以上环境才可以运行。
@@ -71,6 +74,8 @@ Beatoraja需要有Java8以上环境才可以运行。
 [国内镜像地址](https://bms.cosmiccat.top/bms/BMS%20Player/) (感谢anshi和Hakula！)
 
 - (0.8.1)文件夹内两个压缩包对应官方地址内两个包。
+
+---
 
 ## 2. 游戏设置
 
@@ -87,12 +92,16 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 ![configuration界面](https://ftp.bmp.ovh/imgs/2021/01/a17e0a4d67e7779a.png)
 
+---
+
 ### 2.1 用户名
 
 在界面的最上面一行，Player ID后面有个输入框，输入你的名字。
 
 - 有些皮肤会读取你的这个名字显示在某些界面上，比如选歌界面。
 - 此选项和Internet ranking无关。
+
+---
 
 ### 2.2 视频设置
 
@@ -110,9 +119,11 @@ MAX FPS设置为500。
 
 下面是BGA开关/miss层显示时间/BGA大小。不建议调整。
 
+---
+
 ### 2.3 导入曲包及难度表
 
-**曲包可以在[https://bms.cosmiccat.top/](https://bms.cosmiccat.top/)下载。**
+**曲包可以在[https://bms.cosmiccat.top/](https://bms.cosmiccat.top/)下载。** 推荐下载“Satellite+通常难易度+发狂难易度”曲包，注意更新日期。
 
 选项卡切到Resource栏。
 
@@ -146,6 +157,8 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 
 下方的Update Song Database When Starting按钮建议打开。
 
+---
+
 ### 2.4 皮肤设置
 
 选项卡切到Skin栏。
@@ -171,6 +184,8 @@ Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为
 
 {{< admonition info warning success "Tips" false >}}设置完毕后点击右上角update按钮才会更新。在游戏中对皮肤做出的更改切换场景后才会显示。{{< /admonition >}}
 
+---
+
 ### 2.5 其他设置
 
 Other选项卡中Enable automatic download of BMS by IPFS按钮关闭。
@@ -186,6 +201,8 @@ IR选项卡可以连接Internet Ranking。一般来说有两个网可以连：Mo
 - 其余功能自行选择，看不懂的单词可以查字典。
 
 至此，可以点击Play开始游戏了。
+
+---
 
 ### 2.6 按键设置
 
@@ -219,6 +236,8 @@ A|S|D|F|J|[Space]|K|L|;
 {{< admonition tip "Tips" false >}}不在此教程中对游戏键位做推荐，适合别人的不一定适合自己。{{< /admonition >}}
 
 设置完毕后ESC返回选歌界面。
+
+---
 
 ### 2.7 速度/挡板/血条等设置
 
@@ -256,11 +275,15 @@ lift即判定线升高在大部分皮肤中仅能在configuration中的play opti
 - HCN mode为一个长条分割为很多小note，可以中间续接。
 - 在含有长条的谱面中3种mode分别计分，如谱面无长条则任意切换不会受到影响。
 
+---
+
 ### 2.8 游玩
 
 游戏中的谱面标级并无依据可循，做谱人想写什么就写什么。所以请参照难度表游戏。
 
 {{< admonition info warning success "Tips" false >}}无意义的寻找认同感并不会对你的水平有实际改善。{{< /admonition >}}
+
+---
 
 ## 3. 疑难解答
 
@@ -290,16 +313,11 @@ A：联网需要一点时间，一般是1分钟左右。如果长时间卡死或
 
 {{< admonition tip "Tips" false >}}以上情况不代表所有可能会发生的情况。如果发生了不能解决的情况可以通过各种方式联系我。{{< /admonition >}}
 
-## 4. 如何提问
+Q：打开程序后无响应。
 
-- 首先确定你所发生的状况能否复现。
-- 然后详细的描述出什么情况下可以复现。
-- 举例：
-    - 每次选到某一首歌就会闪退
-    - 每次点进某一个文件夹就会闪退
-    - 点击play卡死
+A：麻烦说的详细一点，谢谢。或者可以找我详细询问。
 
-详细的描述有助于别人帮你解决问题。
+---
 
 ## 5. 结语
 
@@ -309,16 +327,17 @@ A：联网需要一点时间，一般是1分钟左右。如果长时间卡死或
 
 写了一大堆，删了。教程中不应该出现个人情绪浓重的语言，即使是这种教程也是。
 
-只留下一句，我的生命之火。
+只留下一句，我的罪恶，我的生命之火。
 
 感谢各位的帮助：
 
     为什么这个格式首行一定要有缩进
     Ramen
     Kaguya
+    Mahua
     BMS群的各位（群号176763307）
 
-by Scely 2021.1.30
+by Scely 2021.1.30 update 2021.10.07
 
 如果你觉得教程对你有帮助的话，可以通过以下二维码向我表示支持。仅支持支付宝。
 
