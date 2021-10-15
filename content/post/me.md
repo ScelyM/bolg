@@ -22,7 +22,7 @@ draft: false
 
 type | Brand | Info
 ---|---|---
-CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-12
+CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 MotherBoard | MSI | B550 Unify
 RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.45v
 GPU  | Powercolor | RX6600XT Red Devil

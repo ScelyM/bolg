@@ -38,6 +38,7 @@ season7|21|16|20
 season8|12|8|18
 season9|17|12|32
 season10|12|9|28
+season11|17|13|18
 
 # 各届比赛的结果
 
@@ -271,6 +272,29 @@ Scarlet Extra [永醒夢] | 7.22
 Muspelheim ~黙示録~ | 7.00 
 天空の城ヴェリエル [階段教室] | 6.69 
 ENERGY SYNERGY MATRIX [KMMM Another] | 5.64 
+
+## season11 选曲不得在活动前30%
+
+参赛者 | 物量 | 参赛差分 | 平均分
+---|---|---|---
+xz-st | 1082 | SCCCQ [Free] | 5.44 
+Mr.OhC | 1142 | before cold sleep[Andy's Hyper] | 6.47 
+古峠さん | 1220 | osmosis [Cell] | 6.88 
+Rosa1100 | 1321 | 地外桃源 [Other Side of World] | 4.44 
+SkyTenin | 1395 | faraway faraway [farewell] | 7.31 
+Air Condition | 1509 | 黄昏のメロディア [Fanta Sea] | 8.07 
+AZVW_2 | 1515 | Lonely Overnight [SP AZOTHER] | 7.65 
+Mr.OhC | 1604 | Restaurant ''Little Garden'' [Andy's Another] | 5.50 
+AZVW_2 | 1655 | CYNiCAL V!RTUE [SP AZOTHER] | 7.65 
+AFLeartLey | 1694 | Lunatic Rave [LRHBody.exe Stopped Working] | 5.44 
+ok man | 1745 | not 桜 [ok] | 5.93 
+Scely | 1793 | U-NI [Re-spect] | 8.43 
+udon | 1831 | Hypertext Transfer Protocol [=]  | 5.57 
+sb250 | 2198 | 音楽（なんでも吸い込むピンク色のための）[sbother] | 6.43 
+1999.12.15 | 2210 | Winter_Night_Fantom[Tears] | 5.29 
+26M2A | 2220 | ephemera [S-Another] | 6.92 
+tyrcs | 2222 | Schwerkraft [colo] | 5.29 
+
 
 
 # 感谢各位对我的支持与帮助
