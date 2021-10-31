@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：Season11：underdogs
+    目前进行中：无
 <!--more-->
 
 ## 基本介绍

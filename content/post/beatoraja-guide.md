@@ -350,4 +350,4 @@ by Scely 2021.1.30 update 2021.10.07
 
 如果你觉得教程对你有帮助的话，可以通过以下二维码向我表示支持。仅支持支付宝。
 
-![支付宝](https://ftp.bmp.ovh/imgs/2021/07/3983d6766e6158f6.jpg)
+![支付宝](https://s3.bmp.ovh/imgs/2021/10/e48b31e3eb72de8d.jpg)
