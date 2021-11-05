@@ -74,6 +74,9 @@ DP | [Burn [Her grandma]](https://www.bilibili.com/video/av71098487) | NecS | [B
 
 Level | Sabun Name | Composer | Event | Table
 --- | --- | --- | --- | ---
+0- | [Regain [Hyper]](https://www.bilibili.com/video/BV1RR4y177u7?p=2) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137)
+1 | [Regain [Another]](https://www.bilibili.com/video/BV1RR4y177u7/) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137)
+3 | [Regain [EGO DEATH]](https://www.bilibili.com/video/BV1RR4y177u7?p=3) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137)
 0- | [epilogue [SP Hyper]](https://www.bilibili.com/video/BV1yv411T7F2/) | VeetaCrush | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137)
 2 | [epilogue [terrfiction]](https://www.bilibili.com/video/BV1yv411T7F2/) | VeetaCrush | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137)
 2 | [Poppy [SP Hyper]](https://www.bilibili.com/video/BV1Lq4y1V7YR?p=2) | Columba(Daily vs. Roon_kun) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137)
