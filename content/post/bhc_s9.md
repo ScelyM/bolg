@@ -1,7 +1,7 @@
 ---
 title: "大汉杯season9"
 date: 2020-08-26T22:09:27+08:00
-draft: false
+draft: true
 ---
 
 # 大汉杯season9：BOFXVI 会场限定

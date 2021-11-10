@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 大汉杯全部信息
-    目前进行中：无
+
 <!--more-->
 
 ## 基本介绍
@@ -66,6 +66,8 @@ cherry merry cherry|ZGMZA|141
 S. O. S. -Sound of SoupCurry-|ZGMZA|135
 POODLE|2bxp.dll|133
 
+---
+
 ## season2 特技谱 投票计总分
 
 |参赛谱面|参赛人|得分
@@ -88,6 +90,8 @@ POODLE|2bxp.dll|133
 |Altale Z-Version|ZGMZA|84
 |L9|star|75
 |IMI|TecentQQ|66
+
+---
 
 ## season3 无key限定 投票计总分
 
@@ -129,6 +133,8 @@ POODLE|2bxp.dll|133
 |Dreamy Flight|SYW feat. OSU!|126
 |Hg shoujo|NoKANY|92
 
+---
+
 ## season4 有key限定 投票计总分
 
 |参赛谱面|参赛人|得分
@@ -145,6 +151,8 @@ POODLE|2bxp.dll|133
 |Lyrith -迷宮リリス-|liaoxingyao|144
 |Re/Im|FrozenFog|151
 |Shanoon's Theorem|ZGMZA|117
+
+---
 
 ## season5 手游限定 投票计总分
 
@@ -169,6 +177,8 @@ POODLE|2bxp.dll|133
 |lethaeus|cc|109
 |Bookmaker|kimi|38
 
+---
+
 ## season6 合作 投票计平均分
 
 |参赛谱面|参赛人|平均分
@@ -189,6 +199,8 @@ POODLE|2bxp.dll|133
 |FINAL RENDA AUDITION|Specter 7/TATscope|3.00 
 |grass add|nky/solende|2.81 
 |Fracture Ray|_MHDmyt/Lolicon|2.52 
+
+---
 
 ## season7 特定曲目 不计参赛人 投票为是/否制
 
@@ -217,6 +229,8 @@ POODLE|2bxp.dll|133
 |PSYBARMISSO [YUE]|6
 |PSYBARMISSO [Kns0]|1
 
+---
+
 ## season8 FOON 投票为是/否制
 
 |参赛谱面|得票
@@ -233,6 +247,8 @@ POODLE|2bxp.dll|133
 |雀魂楽しい|14
 |Cillit Bang (Short edit)|14
 |Fate to Despair: BMS Edit|13
+
+---
 
 ## season9 BOFXVI限定 投票不限数量
 
@@ -256,6 +272,8 @@ The Crack of Dawn [Skyline]  | 6.84  | 78%
 爆音峠岬 [音爆]  | 6.05  | 59%
 Human Observer [終ノ空]  | 5.13  | 72%
 
+---
+
 ## season10 必须出自活动，限制12份提交
 
 谱面|平均分
@@ -272,6 +290,8 @@ Scarlet Extra [永醒夢] | 7.22
 Muspelheim ~黙示録~ | 7.00 
 天空の城ヴェリエル [階段教室] | 6.69 
 ENERGY SYNERGY MATRIX [KMMM Another] | 5.64 
+
+---
 
 ## season11 选曲不得在活动前30%
 
