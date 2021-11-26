@@ -96,7 +96,7 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 没什么意外情况的话，来到了标题为 “Beatoraja *版本号* configuration” 的窗口。
 
-![configuration界面](https://i0.hdslb.com/bfs/album/cf7f651b767294ffb2c8080432f2e541a274543d.png)
+![configuration界面](https://ftp.bmp.ovh/imgs/2021/01/a17e0a4d67e7779a.png)
 
 ---
 
@@ -133,7 +133,7 @@ MAX FPS设置为500。
 
 选项卡切到Resource栏。
 
-![resource](https://i0.hdslb.com/bfs/album/1b4adad79e75e4a655c147b51d18c680813f05da.png)
+![resource](https://ftp.bmp.ovh/imgs/2021/02/65c14c68d8515640.png)
 
 BMS Path为曲包目录，Table URL为难度表链接。
 
@@ -169,7 +169,7 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 
 选项卡切到Skin栏。
 
-![skin](https://i0.hdslb.com/bfs/album/570ff8bc02f0db840c5c1deb6eeffdc3358f3fbf.png)
+![skin](https://ftp.bmp.ovh/imgs/2021/02/48509713b7cc00f4.png)
 
 Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为7keys。
 
@@ -216,7 +216,7 @@ IR选项卡可以连接Internet Ranking。一般来说有两个网可以连：Mo
 
 默认的界面是5keys设置，需要按键盘的方向键右切到7keys。
 
-![按键设置](https://i0.hdslb.com/bfs/album/31c31b4131d8451f0b5403459637c301ab0cef7e.png)
+![按键设置](https://ftp.bmp.ovh/imgs/2021/01/cf47aea314596fb8.png)
 
 设置方法为回车高亮对应光标后点击对应按键。
 
@@ -251,20 +251,20 @@ A|S|D|F|J|[Space]|K|L|;
 
 按住start键菜单中可以调整目标分数/随机选项/血条选项。
 
-![start](https://i0.hdslb.com/bfs/album/521b49db760e2f0012e45378292c9590363cea0d.png)
+![start](https://ftp.bmp.ovh/imgs/2021/02/1bc996ccaa4e17e4.png)
 
 - 不在此对随机选项/血条选项做说明。
 - 此菜单中通常会有一个Main BPM选项，建议打开。绝大多数的谱面中此选项有效。
 
 按住select键菜单中不建议调整任何选项。
 
-![select](https://i0.hdslb.com/bfs/album/ea3c76674a0cdd98646e331aa733da92b1d498c1.png)
+![select](https://ftp.bmp.ovh/imgs/2021/02/59034188b21df59d.png)
 
 - 此菜单中的选项会对游戏有较大影响，建议进阶使用。
 
 同时按住start和select键菜单中可以调整延迟/下落速度/BGA开关/同步切换血条功能。
 
-![start+select](https://i0.hdslb.com/bfs/album/fa7d42c29d5a95edabcfdca920bfc8569697dd70.png)
+![start+select](https://ftp.bmp.ovh/imgs/2021/02/0e122ec7327468f5.png)
 
 在此额外对best clear功能做一个解释，开了这个选项后游戏中会同步跑所有血条：EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。
 
@@ -299,7 +299,7 @@ A：检查本机安装的Java版本。近期出现了不止一位的安装了Jav
 
 Q：点击play弹出如下界面该如何处理？
 
-![you are busted!](https://i0.hdslb.com/bfs/album/1de439de635127273c8602b04abf844b86c7040c.png)
+![you are busted!](https://ftp.bmp.ovh/imgs/2021/01/bf114ce93778956d.png)
 
 A：制作方并不想让Beatoraja成为IIDX或者DJMAX等商业游戏的模拟器，一旦检测到有商业解析BMS的导入就会强制不能运行。解决办法为窗口中所说：移除含有商业解析BMS的目录并点击Rebulid BMS Database。
 
@@ -350,4 +350,4 @@ by Scely 2021.1.30 update 2021.10.07
 
 如果你觉得教程对你有帮助的话，可以通过以下二维码向我表示支持。仅支持支付宝。
 
-![支付宝](https://i0.hdslb.com/bfs/album/4467de17831f7f22728d45600131f8524cb414b9.jpg)
+![支付宝](https://s3.bmp.ovh/imgs/2021/11/3983d6766e6158f6.jpg)
