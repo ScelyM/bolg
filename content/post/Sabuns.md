@@ -5,7 +5,7 @@ draft: False
 ---
 <!--more-->
 - **Click _Song name_ to get preview,on Bilibili**
-- __Download link__ [*Onedrive*](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Ekk2jS3iwv1Ct3jaIwj0-_QBBJAL4NO0OWfTGU_R1ZU5RA?e=fy5FRk)
+- __Download link__ [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
 - New Level System **Based on Hard Clear**:
 
 ![](https://s3.bmp.ovh/imgs/2021/10/3c64964f9bc28684.png)
