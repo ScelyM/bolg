@@ -137,11 +137,11 @@ Level | Sabun Name | Composer | Event | Table
 ## non-keysound (List by Level)
 
     only show 5 lastest updates
+    21.12.03 update: Gargoyle (2009 version)
     21.10.16 update: Apocalypse collapse
     21.10.7  update: ピアノ練習曲第13番 "幻惑"
     21.8.17  update: BeetleJuice
     20.8.9   update: Opium and Purple haze
-    20.7.25  update: 雷切-RAIKIRI-
 
 Level | Song Name | Composer | Feature | Source
 --- | --- | --- | --- | ---
@@ -168,6 +168,7 @@ Level | Song Name | Composer | Feature | Source
 3 | swag | lapix |  | 
 3 | Rebellion | NAOKI underground |  | Cross X Beat
 4 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
+4 | Gargoyle (2009 version) | Sanxion7 |  | O2JAM
 4 | [slav squat scratch test](https://www.bilibili.com/video/av56843601) | Ravine | 38s | 
 4 | 炯眼の絶対零度 | polysha |  | DYNAMIX
 5 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
