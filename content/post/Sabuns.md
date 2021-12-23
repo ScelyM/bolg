@@ -16,11 +16,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    21.12.23 update: IMPULSE [Schizophrenia]
+    21.12.23 update: ネコノテ・カリタガール [Virtual]
     21.11.04 update: Crush Alcohol [Jar]
     21.10.02 update: 魂姫～たまひめ～ [≡]
     21.10.02 update: U-NI [Re-spect]
-    21.08.23 update: Amplifying Effect - SP Ryzen -
-    21.05.23 update: プラネット [Satella]
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -31,6 +31,7 @@ Level | Song Name | Composer | Event | Download | Table
 0 | [The Sundering [Yard]](https://www.bilibili.com/video/BV1iK4y1h7ye/) | ProjectG as _(八重蔵) | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
 1 | [Always Feel the Same [Float]](https://www.bilibili.com/video/BV1g5411K7wj/) | Gsus x VJ PONDELION x Alnilam | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/17) | [stella](https://stellabms.xyz/upload/709)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05087)
 1 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
+1 | [IMPULSE [Schizophrenia]](https://www.bilibili.com/video/BV1Bb4y1v7H7/) | Riya | [BOFXVII](https://www.bilibili.com/video/BV1Bb4y1v7H7/)
 1 | [One Way Street [Season]](https://www.bilibili.com/video/av13608735) | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
 1 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
 2 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543) | sl1
@@ -39,6 +40,7 @@ Level | Song Name | Composer | Event | Download | Table
 2 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
 2 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 2 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
+2 | [ネコノテ・カリタガール [Virtual]](https://www.bilibili.com/video/BV1tZ4y1X7J2) | Ino(chronoize) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=137)
 2 | [プラネット [Satella]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=6) | あまつち探検隊 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/80) | [stella](https://stellabms.xyz/upload/891)
 3 | [Atlantis Hawk [Falcon]](https://www.bilibili.com/video/av86386276) | kanone | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03979)
 3 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)
@@ -168,7 +170,7 @@ Level | Song Name | Composer | Feature | Source
 3 | swag | lapix |  | 
 3 | Rebellion | NAOKI underground |  | Cross X Beat
 4 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
-4 | Gargoyle (2009 version) | Sanxion7 |  | O2JAM
+4 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
 4 | [slav squat scratch test](https://www.bilibili.com/video/av56843601) | Ravine | 38s | 
 4 | 炯眼の絶対零度 | polysha |  | DYNAMIX
 5 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
