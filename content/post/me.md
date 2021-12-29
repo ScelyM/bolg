@@ -44,12 +44,12 @@ monitar | ZOWIE | XL2411P
 
 ## Laptop
 
-MECHREVO KC7
-- I9 10980HK ES
-- RTX2070super Max-Q
+MECHREVO F6
+- I5 11320H
+- Iris Xe 96EU
 - 16G 3200Mhz RAM
 - Zhitai PC005 1T
-- 1920*1080 144Hz
+- 2880*1800 120Hz
 
 
 ## how to find me
@@ -59,8 +59,9 @@ MECHREVO KC7
   - Scely694562@gmail.com
 - stream
   - https://live.bilibili.com/12447
-- [discord link](discord.gg/9mp6h6W)
+- [discord channel](discord.gg/9mp6h6W)
 - [Twitter](https://twitter.com/ScelyM)
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[Weibo](https://weibo.com/2485089434/profile)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
+- [爱发电](https://afdian.net/@Scely)
