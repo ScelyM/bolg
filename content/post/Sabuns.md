@@ -6,6 +6,8 @@ draft: False
 <!--more-->
 - **Click _Song name_ to get preview,on Bilibili**
 - __Download link__ [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
+- [donate](https://afdian.net/@Scely) via 爱发电 (chinese only)
+
 - New Level System **Based on Hard Clear**:
 
 ![](https://s3.bmp.ovh/imgs/2021/10/3c64964f9bc28684.png)
@@ -16,11 +18,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
+    22.01.03 update: 
     21.12.23 update: IMPULSE [Schizophrenia]
     21.12.23 update: ネコノテ・カリタガール [Virtual]
     21.11.04 update: Crush Alcohol [Jar]
     21.10.02 update: 魂姫～たまひめ～ [≡]
-    21.10.02 update: U-NI [Re-spect]
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -38,6 +40,7 @@ Level | Song Name | Composer | Event | Download | Table
 2 | [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8) | Hyperpax | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
 2 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 2 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
+2 | [Outernoid [Tier-K]](https://www.bilibili.com/video/BV1yS4y1T7bH/) | Aoi feat. Airi | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137)
 2 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 2 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
 2 | [ネコノテ・カリタガール [Virtual]](https://www.bilibili.com/video/BV1tZ4y1X7J2) | Ino(chronoize) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=137)
