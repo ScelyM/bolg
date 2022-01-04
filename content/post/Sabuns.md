@@ -18,11 +18,11 @@ draft: False
 ## sabuns （List by Level）
 
     only show 5 lastest updates
-    22.01.03 update: 
+    22.01.04 update: BASS KICK YAKUZA [Zethiwo v2]
+    22.01.03 update: Outernoid [Tier-K]
     21.12.23 update: IMPULSE [Schizophrenia]
     21.12.23 update: ネコノテ・カリタガール [Virtual]
     21.11.04 update: Crush Alcohol [Jar]
-    21.10.02 update: 魂姫～たまひめ～ [≡]
 
 Level | Song Name | Composer | Event | Download | Table
 --- | --- | --- | --- | --- | ---
@@ -35,12 +35,12 @@ Level | Song Name | Composer | Event | Download | Table
 1 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
 1 | [IMPULSE [Schizophrenia]](https://www.bilibili.com/video/BV1Bb4y1v7H7/) | Riya | [BOFXVII](https://www.bilibili.com/video/BV1Bb4y1v7H7/)
 1 | [One Way Street [Season]](https://www.bilibili.com/video/av13608735) | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
+1 | [Outernoid [Tier-K]](https://www.bilibili.com/video/BV1yS4y1T7bH/) | Aoi feat. Airi | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137)
 1 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
 2 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543) | sl1
 2 | [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1Y64y1U7NE?p=8) | Hyperpax | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
 2 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 2 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03470)
-2 | [Outernoid [Tier-K]](https://www.bilibili.com/video/BV1yS4y1T7bH/) | Aoi feat. Airi | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137)
 2 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 2 | [Sunset Toybox [Sweet]](https://www.bilibili.com/video/BV19541137CJ/?p=12) | テヅカ x Aoi feat.桃雛なの | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133) | [stella](https://stellabms.xyz/upload/544)
 2 | [ネコノテ・カリタガール [Virtual]](https://www.bilibili.com/video/BV1tZ4y1X7J2) | Ino(chronoize) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=137)
@@ -51,7 +51,8 @@ Level | Song Name | Composer | Event | Download | Table
 3 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 3 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)
 3 | [Trancing 'Tempo'rary [Trace]](https://www.bilibili.com/video/av86536101) | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
-4 | [Brun [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
+4 | [BASS KICK YAKUZA [Zethiwo v2]](https://www.bilibili.com/video/BV1ob4y1e7ws/) | DARKSIDE APPROACH | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137)
+4 | [Burn [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
 4 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 4 | [Exploration the Giotto [R]](https://www.bilibili.com/video/BV1gv411L7nX) | kunzite + BBBB | [Mutual Faith 3](https://venue.bmssearch.net/mutualfaith3/16) | [stella](https://stellabms.xyz/upload/889)
 4 | [U-NI [Re-spect]](https://www.bilibili.com/video/BV1oL411W7eP?p=12) | r | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=127) | [stella](https://stellabms.xyz/upload/1256)
