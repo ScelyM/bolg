@@ -143,11 +143,11 @@ Level | Sabun Name | Composer | Event | Table
 ## non-keysound (List by Level)
 
     only show 5 lastest updates
+    22.01.10 updage: Revival On (Feat. Yisun)
     21.12.03 update: Gargoyle (2009 version)
     21.10.16 update: Apocalypse collapse
     21.10.7  update: ピアノ練習曲第13番 "幻惑"
     21.8.17  update: BeetleJuice
-    20.8.9   update: Opium and Purple haze
 
 Level | Song Name | Composer | Feature | Source
 --- | --- | --- | --- | ---
@@ -161,10 +161,11 @@ Level | Song Name | Composer | Feature | Source
 1 | Milky Factory | Kobaryu |  |  
 1 | [Misplaced Shadow](https://www.bilibili.com/video/BV1rt41187iu?p=1) | SENEZ |  | O2JAMU
 1 | [NEXT LEVEL](https://www.bilibili.com/video/av10705369?p=10) | lapix vs sky_delta |  | 
+1 | [PANDORA PARADOXXX](https://www.bilibili.com/video/av56817620) | Sakuzyo |  | maimai
+1 | [Revival On (Feat. Yisun)](https://www.bilibili.com/video/BV1b34y1B7Qd/) | Warak |  | Pop Stage
 2 | [Death Scythe](https://www.bilibili.com/video/av9940269) | SHIKI |  | maimai
 2 | [dubai was lit](https://www.bilibili.com/video/av75598680) | Asher Postman | total117 |
 2 | [Lance](https://www.bilibili.com/video/av9902337) | Ras |  | maimai
-2 | [PANDORA PARADOXXX](https://www.bilibili.com/video/av56817620) | Sakuzyo |  | maimai
 2 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
 2 | [Song of Spirits](https://www.bilibili.com/video/BV1Kg4y187RH/) | sta | | 
 3 | [Apocalypse collapse](https://www.bilibili.com/video/BV1rQ4y1X7rF) | RhukiΛ vs kuro | | Chainbeet
