@@ -14,6 +14,7 @@ draft: False
 ---
 
     only show 7 lastest updates
+    22.01.24 update: sabun: 幻影 [Reflection]
     22.01.12 update: non-key: Blackout
                      table tag has been removed.
     22.01.10 update: non-key: Revival On (Feat. Yisun)
@@ -21,7 +22,6 @@ draft: False
     22.01.03 update: sabun: Outernoid [Tier-K]
     21.12.23 update: sabun: IMPULSE [Schizophrenia]
     21.12.23 update: sabun: ネコノテ・カリタガール [Virtual]
-    21.12.03 update: non-key: Gargoyle (2009 version)
 
 ## sabuns （List by Level）
 
@@ -52,6 +52,7 @@ Level | Song Name | Composer | Event | Download
 3 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 3 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05887)
 3 | [Trancing 'Tempo'rary [Trace]](https://www.bilibili.com/video/av86536101) | NASA | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03983)
+3 | [幻影 [Reflection]](https://www.bilibili.com/video/BV14r4y1e7Hx/) | Pica | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=137) | [stella](https://stellabms.xyz/upload/1508)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05911)
 4 | [BASS KICK YAKUZA [Zethiwo v2]](https://www.bilibili.com/video/BV1ob4y1e7ws/) | DARKSIDE APPROACH | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05884)
 4 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1ii4y187LL?p=2) | 翡乃イスカ vs. Iriss | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 4 | [Burn [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03462)
@@ -177,7 +178,7 @@ Level | Song Name | Composer | Feature | Source
 5 | [SIDONIA](https://www.bilibili.com/video/av18675341?p=14) | LV.4 |  | 
 5 | [Stage 5](https://www.bilibili.com/video/av10705369?p=2) | LV.4 |  | DYNAMIX
 5 | [Star Stream](https://www.bilibili.com/video/av43398623) | r300k |  | O2JAMU
-6 | Blackout | r300k | 纵连打 | O2JAMU
+6 | [Blackout](https://www.bilibili.com/video/BV1kR4y1g7JT/) | r300k | 纵连打 | O2JAMU
 6 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
 6 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
 6 | Midnight City Warfare | sky_delta |  | JUBEAT

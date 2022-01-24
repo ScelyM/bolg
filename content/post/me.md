@@ -24,7 +24,7 @@ type | Brand | Info
 ---|---|---
 CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 MotherBoard | MSI | B550 Unify
-RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.45v
+RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.4v
 GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
 PSU | ADATA | Core Reactor 750G
@@ -33,8 +33,8 @@ HDD | Toshiba | HDWD130 3T
 SSD | ADATA | SX8200pro 1T
 HDD | Hitachi | HUS724030ALE641 3T
 Case | MSI | MPG GUNGNIR 110L
-Intake Fan | ThermalRight | C12B *2
-Output Fan | ThermalRight | B12
+Intake Fan | ThermalRight | B12 *2
+Output Fan | ThermalRight | C12pro
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
