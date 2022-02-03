@@ -11,7 +11,7 @@ draft: false
 ## 基本介绍
 
 大汉杯是一个7+1key格式谱面比赛，仅针对谱面制作，有奖金池，除season8外为打分制。各届的规则不同，截止第11届共有54人参与。提交了197份谱面。
-- [谱面预览](https://space.bilibili.com/550673/channel/detail?cid=81194) 建议使用电脑观看
+- 谱面预览已被删除
 - [下载地址](https://cosmiccat-my.sharepoint.com/:f:/g/personal/hakula_cosmiccat_net/Eskbimo2MpxLuVocf9Y4mIAB7owNEAv1ilFUFiaevp7h-A?e=Xqhcqu) 感谢anshi提供的OneDrive以及hakula提供的方案
 
 ## English sub
