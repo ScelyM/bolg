@@ -1,6 +1,6 @@
 ---
 title: "Sabuns"
-date: 2020-03-02T02:11:11+08:00
+date: 2022-02-04T22:11:11+08:00
 draft: False
 ---
 <!--more-->
@@ -174,13 +174,13 @@ Level | Song Name | Composer | Feature | Source
 7 | SIDONIA | LV.4 |  | 
 7 | Stage 5 | LV.4 |  | DYNAMIX
 7 | [Star Stream](https://www.bilibili.com/video/av43398623) | r300k |  | O2JAMU
-7 | 炯眼の絶対零度 | polysha |  | DYNAMIX
-8 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
+7 | [炯眼の絶対零度](https://www.bilibili.com/video/BV1D3411E7hf/) | polysha |  | DYNAMIX
+8 | [Conway's Child](https://www.bilibili.com/video/BV1PT4y1V7L3/) | sta |  | Tone Sphere
 8 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
-9 | [Conway's Child](https://www.bilibili.com/video/BV1PT4y1V7L3/) | sta |  | Tone Sphere
 9 | [cyanine](https://www.bilibili.com/video/av30178372) | jioyi |  | lanota
 9 | Midnight City Warfare | sky_delta |  | JUBEAT
 9 | [雷切-RAIKIRI-](https://www.bilibili.com/video/BV19Z4y1u7DM/) | kanone | | maimai
+10 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
 10 | INFINITY | Lunatic Sound |  | EZ2AC
 10 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
 10 | Rebellion | NAOKI underground |  | Cross X Beat
