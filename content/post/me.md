@@ -1,6 +1,6 @@
 ---
 title: "我是Scely，他们都叫我大汉"
-date: 2020-02-09T13:08:03+08:00
+date: 2020-02-09
 draft: false
 ---
 <!--more-->
@@ -59,7 +59,7 @@ MECHREVO F6
   - Scely694562@gmail.com
 - stream
   - https://live.bilibili.com/12447
-- [discord channel](discord.gg/9mp6h6W)
+- [Discord channel](discord.gg/9mp6h6W)
 - [Twitter](https://twitter.com/ScelyM)
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[Weibo](https://weibo.com/2485089434/profile)~~

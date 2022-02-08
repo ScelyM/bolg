@@ -1,18 +1,36 @@
 ---
 title: "Sabuns"
-date: 2022-02-04T22:11:11+08:00
+date: 2022-02-04
 draft: False
 ---
+
 <!--more-->
-- **Click _Song name_ to get preview,on Bilibili**
-- __Download link__ [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
+
+- **please use "open on new tab" to click any link.**
+- Click _Song name_ to get preview,on Bilibili.
+- You can find all of the list on this link [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
 - [donate](https://afdian.net/@Scely) via 爱发电 (chinese only)
+- Contact me [here](https://scelym.github.io/post/me/#how-to-find-me)
+
+---
+
+**Notification:**
+
+I will not participate the upcoming BOF events in/as a team while still willing to making some Sabuns for the excellent BOF tracks.
+
+Because this Impression still exists.
+
+![](https://s3.bmp.ovh/imgs/2022/02/582d99db6412fb63.png)
+
+from BOFXVII, Regain.
+
+Unless we can get rid of such ridiculous vote comment by upgrading or remaking of the whole BOF scoring system.
+
+---
 
 - New Level System **Based on Hard Clear**:
 
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
-
----
 
     only show 7 lastest updates
     22.02.04 update: new "level system"
@@ -80,7 +98,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 4 | [After ZABANIYA [SP Another]](https://www.bilibili.com/video/BV1hy4y1z7TQ) | Daily天利 | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
 同捆 | 4 | [Aliens are BAD! [We Kick Ass!]](https://www.bilibili.com/video/BV1cA411n7x4?p=2) | ProjectG | [WorldWar](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) | /
 差分 | 4 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [stella](https://stellabms.xyz/upload/1478)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=04073)
-差分 | 4 | Brace for muddy terrain [SS] | Hyperpax | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
+差分 | 4 | Brace for muddy terrain [SS] | Hyparpax | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
 同捆 | 4 | [Crush Alcohol [SP Another]](https://www.bilibili.com/video/BV1RR4y177Kq) | shadow_bling | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137) | /
 差分 | 4 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 差分 | 4 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05886)

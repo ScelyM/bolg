@@ -1,6 +1,6 @@
 ---
 title: "Beatoraja Guide"
-date: 2021-07-19
+date: 2022-02-08
 draft: false
 ---
 
@@ -16,7 +16,7 @@ draft: false
 
 这是一份Beatoraja的使用教程，我会尽量涵盖所有相关的东西。如果发现有歧义的地方或者需要补充的地方，欢迎通过[以下联系方式](https://scelym.github.io/post/me/#how-to-find-me)来提醒我补充或者更改。
 
-本教程的宗旨是，在不影响游戏的前提下尽量少的修改游戏本身的设置。大部分的设置与正常游戏无关，这些功能可熟悉游戏之后自行摸索。
+本教程的宗旨是，**在不影响游戏的前提下尽量少的修改游戏本身的设置**。大部分的设置与正常游戏无关，可熟悉游戏之后自行摸索。
 
 __对于初次配置Beatoraja进行游戏的用户，不建议跳过教程的任何一个步骤。__
 
@@ -30,6 +30,7 @@ __此教程为免费教程，如果在任何地方发现收费行为，请立即
 
 __此教程为免费教程，如果在任何地方发现收费行为，请立即骂街。__
 
+请在点击链接时使用“在新标签页中打开”功能。
 
 本教程有很多张图片，如果没有见到图片可以尝试关闭广告屏蔽工具。
 
@@ -87,7 +88,7 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 ## 2. 游戏设置
 
-{{< admonition tip "Tips" false >}}此处两个版本会出现很小的分歧点。不用担心，不是每个版本都会有对应的exe版本。{{< /admonition >}}
+{{< admonition tip "Tips" false >}}此处游戏内演示用的皮肤为Type-M，不提供下载方式。{{< /admonition >}}
 
 - exe版打开Beatoraja.exe文件
 
@@ -98,7 +99,7 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 没什么意外情况的话，来到了标题为 “Beatoraja *版本号* configuration” 的窗口。
 
-![configuration界面](https://ftp.bmp.ovh/imgs/2021/01/a17e0a4d67e7779a.png)
+![configuration界面](https://s3.bmp.ovh/imgs/2022/02/ca99354c22acdee0.png)
 
 ---
 
@@ -119,13 +120,13 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 Display Mode中有三个选项：FullScreen/Borderless/Window，分别对应全屏/无边框窗口/窗口化。
 
-Resolution意为分辨率，**建议**保持1280*720不变。
+Resolution意为分辨率，我个人的设置是720p窗口化，对于大部分针对1080p所作的皮肤来说会产生不对等缩放的问题。
 
-Vsync开关是垂直同步开关，对于音乐游戏来说不建议打开，仅在游戏界面画面撕裂严重的情况下建议打开。
+Vsync开关是垂直同步开关，不建议打开。
 
-MAX FPS设置为500。
+MAX FPS**建议**设置为500。
 
-下面是BGA开关/miss层显示时间/BGA大小。不建议调整。
+下面是BGA开关/miss层显示时间/BGA大小。不建议在此处调整miss层显示时间以外的设置。
 
 ---
 
@@ -135,7 +136,7 @@ MAX FPS设置为500。
 
 选项卡切到Resource栏。
 
-![resource](https://ftp.bmp.ovh/imgs/2021/02/65c14c68d8515640.png)
+![resource](https://s3.bmp.ovh/imgs/2022/02/d418eea65deb0be8.png)
 
 BMS Path为曲包目录，Table URL为难度表链接。
 
@@ -161,6 +162,7 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 如果想添加新的难度表或者段位认证，只需要把链接粘贴到上方仅有一行的输入框内，再点击右侧加号即可。
 
 - 部分用户会提示下载失败，据统计大部分是由于运营商的DNS污染或者网络环境导致，需要用到特殊方法或者同难度表的别的链接。
+- [BMS难度表集合站](http://www.ribbit.xyz/bms/tables/table_list.html)，部分国内网络可能打不开，内含部分垃圾表。
 - [Zris的难度表镜像](http://zris.work/bmstable.htm)，内含使用方法。
 
 下方的Update Song Database When Starting按钮建议打开。
@@ -171,9 +173,11 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 
 选项卡切到Skin栏。
 
-![skin](https://ftp.bmp.ovh/imgs/2021/02/48509713b7cc00f4.png)
+![skin](https://s3.bmp.ovh/imgs/2022/02/94e4088fdc0213f2.png)
 
 Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为7keys。
+
+选曲界面为Music Select，结算界面为Result。麻烦英语课的时候好好听课。
 
 右侧Skin下拉菜单选择皮肤，选择后下面会有具体设置。
 
@@ -181,12 +185,13 @@ Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为
 
 - (0.8.3) beatoraja同捆了Zris的modernchic中文翻译版本。
 
-{{< admonition tip "Tips" false >}}【日文】[beatoraja皮肤集合](https://mirais-station.hatenablog.com/entry/2021/01/21/180000)。需要一定阅读能力，不对此博客做详细介绍{{< /admonition >}}
+{{< admonition tip "Tips" false >}}【日文】[beatoraja皮肤集合](https://mirais-station.hatenablog.com/entry/2021/01/21/180000)。需要一定的日语阅读能力，不对此博客做详细介绍{{< /admonition >}}
 
 - Score Graph是柱状图，实时显示与目标分数/自己最好成绩的差距。
-- Judge Timing中打开Fast/Slow显示。
+- Judge Detail中可以切换fast/slow显示或是偏差毫秒显示。
 - Notes和Keybeam为note样式和爆炸效果。
-- Line亮度为轨道分割线亮度，在LITONE5皮肤设置中这条没有英文翻译。
+- Line darkness为轨道分割线亮度，255时为不显示。
+- Key Beam Offset为按键光柱调整，h为负时缩短光条高度。
 
 其他界面的皮肤切换思路相同，对应名字为Select-选歌界面/Decide-点击谱面后的过渡界面/Result-结算界面。
 
@@ -253,28 +258,28 @@ A|S|D|F|J|[Space]|K|L|;
 
 按住start键菜单中可以调整目标分数/随机选项/血条选项。
 
-![start](https://ftp.bmp.ovh/imgs/2021/02/1bc996ccaa4e17e4.png)
+![start](https://s3.bmp.ovh/imgs/2022/02/2e18cb175c87bf10.png)
 
 - 不在此对随机选项/血条选项做说明。
 - 此菜单中通常会有一个Main BPM选项，建议打开。绝大多数的谱面中此选项有效。
 
 按住select键菜单中不建议调整任何选项。
 
-![select](https://ftp.bmp.ovh/imgs/2021/02/59034188b21df59d.png)
+![select](https://s3.bmp.ovh/imgs/2022/02/09c25060600229e3.png)
 
 - 此菜单中的选项会对游戏有较大影响，建议进阶使用。
 
 同时按住start和select键菜单中可以调整延迟/下落速度/BGA开关/同步切换血条功能。
 
-![start+select](https://ftp.bmp.ovh/imgs/2021/02/0e122ec7327468f5.png)
+![start+select](https://s3.bmp.ovh/imgs/2022/02/ce49732e6eb105b8.png)
 
-在此额外对best clear功能做一个解释，开了这个选项后游戏中会同步跑所有血条：EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。
+在此解释一下对best clear功能，开了这个选项后游戏中会同步跑所有血条：EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。演示皮肤中可以调整最低下到哪个血条。
 
-- Mocha IR在开了此选项后如果Hard未能通过则直接切换到Easy。
+- 本人并不使用IR功能，所以打开best clear会对某个网上传成绩的影响并不知情。
 
-挡板在LITONE5内要打开谱面之后在载入时间双击start调整。有些皮肤的start菜单会有Sudden+设置，打开后也在载入时间内调整。调整逻辑和IIDX街机一致。
+(0.8.4)Beatoraja更新了和LR2类似的自动调整延迟功能，此皮肤可以在start+select界面中开关此选项。如果使用的是其他皮肤，则可以在Configuration界面中的Play Option选项卡中找到“Notes Display Timing Auto Adjust”开关。
 
-lift即判定线升高在大部分皮肤中仅能在configuration中的play option选项卡中选择，由于大多数人并不会使用这个功能所以不做解释。
+挡板和lift及判定线升高功能在此皮肤中可以通过在start+select界面中使用鼠标开关，具体调整逻辑与IIDX相同。如果使用的皮肤没有这个开关则要去Configuration界面中的Play Option选项卡找到开关并打开，此处不做讲解。
 
 关于LN mode：
 
@@ -346,9 +351,9 @@ BMS交流群：176763307
     Kaguya
     Mahua
 
-by Scely 2021.1.30 update 2021.10.07
+by Scely 2021.1.30 update 2022.02.09
 
-2021.10.15 暂停更新
+2021.10.15 我退出了所谓的“LR2群”，群内发生的事与我无关。
 
 如果你觉得教程对你有帮助的话，可以通过爱发电向我表示支持。
 
