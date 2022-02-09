@@ -160,8 +160,8 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 如果想添加新的难度表或者段位认证，只需要把链接粘贴到上方仅有一行的输入框内，再点击右侧加号即可。
 
 - 部分用户会提示下载失败，据统计大部分是由于运营商的DNS污染或者网络环境导致，需要用到特殊方法或者同难度表的别的链接。
-- [BMS难度表集合站](http://www.ribbit.xyz/bms/tables/table_list.html)，部分国内网络可能打不开，内含部分垃圾表。
-- [Zris的难度表镜像](http://zris.work/bmstable.htm)，内含使用方法。
+- [BMS难度表集合站](https://www.ribbit.xyz/bms/tables/table_list.html)，部分国内网络可能打不开，内含部分垃圾表。
+- [Zris的难度表镜像](https://zris.work/bmstable.htm)，内含使用方法。
 
 下方的Update Song Database When Starting按钮建议打开。
 
