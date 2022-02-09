@@ -9,7 +9,7 @@ draft: False
 - **please use "open on new tab" to click any link.**
 - Click _Song name_ to get preview,on Bilibili.
 - You can find all of the list on this link [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
-- [donate](https://afdian.net/@Scely) via 爱发电 (chinese only)
+- [donate](https://afdian.net/@Scely "target=_blank") via 爱发电 (chinese only)
 - Contact me [here](https://scelym.github.io/post/me/#how-to-find-me)
 
 ---
@@ -84,7 +84,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 3 | [IMPULSE [Schizophrenia]](https://www.bilibili.com/video/BV1Bb4y1v7H7/) | Riya | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=137) | [stella](https://stellabms.xyz/upload/1479)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05882)
 同捆 | 3 | [kadai [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | 小鬼 | [BOFXV](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127) | /
 差分 | 3 | One Way Street [Season] | siqlo | [BOFU2017](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116) | [gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=03962) 
-差分 | 3 | Outernoid [Tier-K] | Aoi feat. Airi | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137) | [stella](https://stellabms.xyz/upload/1480)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05883)
+差分 | 3 | [Outernoid [Tier-K]](https://www.bilibili.com/video/BV1yS4y1T7bH) | Aoi feat. Airi | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137) | [stella](https://stellabms.xyz/upload/1480)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05883)
 同捆 | 3 | [Regain [Another]](https://www.bilibili.com/video/BV1RR4y177u7/) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137) | /
 差分 | 3 | [Silver Eater [Corn]](https://www.bilibili.com/video/BV1gi4y137Hr) | daph | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110) | 
 同捆 | 3 | [Solar Warspark [SP Hyper]](https://www.bilibili.com/video/BV1cR4y1t7M?p=2) | 天伝和楽 | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=137) | /

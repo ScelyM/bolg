@@ -60,7 +60,7 @@ MECHREVO F6
 - stream
   - https://live.bilibili.com/12447
 - [Discord channel](discord.gg/9mp6h6W)
-- [Twitter](https://twitter.com/ScelyM)
+- [Twitter](https://twitter.com/Scelytheboomer)
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[Weibo](https://weibo.com/2485089434/profile)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
