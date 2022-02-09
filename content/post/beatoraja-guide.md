@@ -348,6 +348,7 @@ BMS交流群：176763307
     Ramen
     Kaguya
     Mahua
+    rexcape
 
 by Scely 2021.1.30 update 2022.02.09
 
