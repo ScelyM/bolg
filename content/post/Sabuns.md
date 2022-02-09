@@ -6,10 +6,9 @@ draft: False
 
 <!--more-->
 
-- **please use "open on new tab" to click any link.**
 - Click _Song name_ to get preview,on Bilibili.
-- You can find all of the list on this link [*Onedrive*](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)
-- [donate](https://afdian.net/@Scely "target=_blank") via 爱发电 (chinese only)
+- You can find all of the list on this link **[Onedrive](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg?e=Xvkv4f)**
+- [donate](https://afdian.net/@Scely) via 爱发电 (chinese only)
 - Contact me [here](https://scelym.github.io/post/me/#how-to-find-me)
 
 ---
