@@ -32,6 +32,7 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.02.11 update: non-key: The Ashtray (Final Lap)
     22.02.04 update: new "level system"
     22.02.03 update: non-key: Flight
     22.01.31 update: sabun: ディスコをすこれ★☆ [Mrve]
@@ -40,7 +41,6 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
                      table tag has been removed.
     22.01.10 update: non-key: Revival On (Feat. Yisun)
     22.01.04 update: sabun: BASS KICK YAKUZA [Zethiwo v2]
-    22.01.03 update: sabun: Outernoid [Tier-K]
 
 ## 差分&同捆 （List by Level）
 
@@ -180,8 +180,9 @@ Level | Song Name | Composer | Feature | Source
 5 | [Flight](https://www.bilibili.com/video/BV16S4y1y7qb) | Warak | | Pop Stage
 5 | HERA | Luze |  | maimai
 5 | [Libertas](https://www.bilibili.com/video/av95196006/) | Zekk | | Arcaea
-5 | [swag](https://www.bilibili.com/video/BV14a411175N/) | lapix |  | 
 5 | Rebellion | NAOKI underground |  | Cross X Beat
+5 | [swag](https://www.bilibili.com/video/BV14a411175N/) | lapix |  | 
+5 | The Ashtray (Final Lap) | r300k |  | O2JAMU
 6 | [Blackout](https://www.bilibili.com/video/BV1kR4y1g7JT/) | r300k | 纵连打 | O2JAMU
 6 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
 6 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
