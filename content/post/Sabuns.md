@@ -32,6 +32,7 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.02.17 update: sabun: Pandora [Paradox]
     22.02.11 update: non-key: The Ashtray (Final Lap)
     22.02.04 update: new "level system"
     22.02.03 update: non-key: Flight
@@ -40,7 +41,6 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
     22.01.12 update: non-key: Blackout
                      table tag has been removed.
     22.01.10 update: non-key: Revival On (Feat. Yisun)
-    22.01.04 update: sabun: BASS KICK YAKUZA [Zethiwo v2]
 
 ## 差分&同捆 （List by Level）
 
@@ -120,6 +120,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 5 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 同捆 | 5 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | /
 差分 | 5 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05887)
+差分 | 5 | Pandora [Paradox] | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
 同捆 | 5 | [Regain [EGO DEATH]](https://www.bilibili.com/video/BV1RR4y177u7?p=3) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137) | /
 同捆 | 5 | [Solar Warspark [SP Another]](https://www.bilibili.com/video/BV1cR4y1t7My) | 天伝和楽 | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=137) | /
 差分 | 5 | [Trancing 'Tempo'rary [Trace]](https://www.bilibili.com/video/av86536101) | NASA | [BOFU2017](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03983)
