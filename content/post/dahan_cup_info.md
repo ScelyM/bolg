@@ -140,18 +140,18 @@ POODLE|2bxp.dll|133
 
 |参赛谱面|参赛人|得分
 |---|---|---
-|One Way Street|Scely|147
-|Dragonlady|Denjin|85
-|Two Phace|AZVW_2|132
-|End Time|Sonic0467|114
-|fushigichan|前頭葉|83
 |さよならコスモノート|koldc|160
-|Angel dust|fendou|114
-|夕焼け空中庭園|JoeT|127
-|Anokumene|Ennea|106
-|Lyrith -迷宮リリス-|liaoxingyao|144
 |Re/Im|FrozenFog|151
+|One Way Street|Scely|147
+|Lyrith -迷宮リリス-|liaoxingyao|144
+|Two Phace|AZVW_2|132
+|夕焼け空中庭園|JoeT|127
 |Shanoon's Theorem|ZGMZA|117
+|End Time|Sonic0467|114
+|Angel dust|fendou|114
+|Anokumene|Ennea|106
+|Dragonlady|Denjin|85
+|fushigichan|前頭葉|83
 
 ---
 
@@ -296,26 +296,25 @@ ENERGY SYNERGY MATRIX [KMMM Another] | 5.64
 
 ## season11 选曲不得在活动前30%
 
-参赛者 | 物量 | 参赛差分 | 平均分
----|---|---|---
-xz-st | 1082 | SCCCQ [Free] | 5.44 
-Mr.OhC | 1142 | before cold sleep[Andy's Hyper] | 6.47 
-古峠さん | 1220 | osmosis [Cell] | 6.88 
-Rosa1100 | 1321 | 地外桃源 [Other Side of World] | 4.44 
-SkyTenin | 1395 | faraway faraway [farewell] | 7.31 
-Air Condition | 1509 | 黄昏のメロディア [Fanta Sea] | 8.07 
-AZVW_2 | 1515 | Lonely Overnight [SP AZOTHER] | 7.65 
-Mr.OhC | 1604 | Restaurant ''Little Garden'' [Andy's Another] | 5.50 
-AZVW_2 | 1655 | CYNiCAL V!RTUE [SP AZOTHER] | 7.65 
-AFLeartLey | 1694 | Lunatic Rave [LRHBody.exe Stopped Working] | 5.44 
-ok man | 1745 | not 桜 [ok] | 5.93 
-Scely | 1793 | U-NI [Re-spect] | 8.43 
-udon | 1831 | Hypertext Transfer Protocol [=]  | 5.57 
-sb250 | 2198 | 音楽（なんでも吸い込むピンク色のための）[sbother] | 6.43 
-1999.12.15 | 2210 | Winter_Night_Fantom[Tears] | 5.29 
-26M2A | 2220 | ephemera [S-Another] | 6.92 
-tyrcs | 2222 | Schwerkraft [colo] | 5.29 
-
+参赛者 | 参赛差分 | 平均分
+---|---|---
+Scely | U-NI [Re-spect] | 8.43 
+Air Condition | 黄昏のメロディア [Fanta Sea] | 8.07 
+AZVW_2 | Lonely Overnight [SP AZOTHER] | 7.65 
+AZVW_2 | CYNiCAL V!RTUE [SP AZOTHER] | 7.65 
+SkyTenin | faraway faraway [farewell] | 7.31 
+26M2A | ephemera [S-Another] | 6.92 
+古峠さん | osmosis [Cell] | 6.88 
+Mr.OhC | before cold sleep[Andy's Hyper] | 6.47 
+sb250 | 音楽（なんでも吸い込むピンク色のための）[sbother] | 6.43 
+ok man | not 桜 [ok] | 5.93 
+udon | Hypertext Transfer Protocol [=]  | 5.57 
+Mr.OhC | Restaurant ''Little Garden'' [Andy's Another] | 5.50 
+xz-st | SCCCQ [Free] | 5.44 
+AFLeartLey | Lunatic Rave [LRHBody.exe Stopped Working] | 5.44 
+1999.12.15 | Winter_Night_Fantom[Tears] | 5.29 
+tyrcs | Schwerkraft [colo] | 5.29 
+Rosa1100 | 地外桃源 [Other Side of World] | 4.44 
 
 
 # 感谢各位对我的支持与帮助

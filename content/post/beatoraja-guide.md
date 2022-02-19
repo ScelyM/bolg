@@ -183,7 +183,7 @@ Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为
 
 - (0.8.3) beatoraja同捆了Zris的modernchic中文翻译版本。
 
-{{< admonition tip "Tips" false >}}【日文】[beatoraja皮肤集合](https://mirais-station.hatenablog.com/entry/2021/01/21/180000)。需要一定的日语阅读能力，不对此博客做详细介绍{{< /admonition >}}
+【日文】[beatoraja皮肤集合](https://mirais-station.hatenablog.com/entry/2021/01/21/180000)。需要一定的日语阅读能力，不对此博客做详细介绍
 
 - Score Graph是柱状图，实时显示与目标分数/自己最好成绩的差距。
 - Judge Detail中可以切换fast/slow显示或是偏差毫秒显示。
@@ -352,7 +352,7 @@ BMS交流群：176763307
 
 by Scely 2021.1.30 update 2022.02.09
 
-2021.10.15 我退出了所谓的“LR2群”，群内发生的事与我无关。
+2021.10.15 我退出了上面的“BMS交流群”，群内发生的事与我无关。
 
 如果你觉得教程对你有帮助的话，可以通过爱发电向我表示支持。
 

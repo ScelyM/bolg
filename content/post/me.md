@@ -33,8 +33,8 @@ HDD | Toshiba | HDWD130 3T
 SSD | ADATA | SX8200pro 1T
 HDD | Hitachi | HUS724030ALE641 3T
 Case | MSI | MPG GUNGNIR 110L
-Intake Fan | ThermalRight | B12 *2
-Output Fan | ThermalRight | C12pro
+Case Fan | ThermalRight | C12pro
+Case Fan | ThermalRight | B12
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
@@ -49,7 +49,7 @@ MECHREVO F6
 - Iris Xe 96EU
 - 16G 3200Mhz RAM
 - Zhitai PC005 1T
-- 2880*1800 120Hz
+- 2560*1600 120Hz
 
 
 ## how to find me
