@@ -102,7 +102,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 4 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 差分 | 4 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05886)
 同捆 | 4 | [epilogue [terrfiction]](https://www.bilibili.com/video/BV1yv411T7F2/) | VeetaCrush | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137) | /
-同捆 | 4 | FAKE LIFE [Kill] | ProjectG | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133) |  | /
+同捆 | 4 | [FAKE LIFE [Kill]](https://www.bilibili.com/video/BV1hu411D7nd/) | ProjectG | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133) |  | /
 差分 | 4 | [GLAZ [Where my bullet go?]](https://www.bilibili.com/video/av78799959) | Yunosuke | [G2R2018](https://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03470)
 同捆 | 4 | [kadai [awsl]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | 小鬼 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127) | /
 同捆 | 4 | [Mandragora [SP Hyper+]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | /
@@ -113,14 +113,14 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 4 | [ネコノテ・カリタガール [Virtual]](https://www.bilibili.com/video/BV1tZ4y1X7J2) | Ino(chronoize) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=137) | [stella](https://stellabms.xyz/upload/1481)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05885)
 差分 | 4 | [幻影 [Reflection]](https://www.bilibili.com/video/BV14r4y1e7Hx/) | Pica | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=137) | [stella](https://stellabms.xyz/upload/1508)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05911)
 差分 | 5 | [Atlantis Hawk [Falcon]](https://www.bilibili.com/video/av86386276) | kanone | [G2R2018](https://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=123) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03979)
-差分 | 5 | Booouncing!![IN] | 翡乃イスカ vs. Iriss | [BOFU2016](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
+差分 | 5 | [Booouncing!![IN]](https://www.bilibili.com/video/BV1EL4y1372m/) | 翡乃イスカ vs. Iriss | [BOFU2016](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=04267) | 
 同捆 | 5 | [Burn (Haocore Remix) [ahhh]](https://www.bilibili.com/video/av78799662) | NecS remix by Daliy | [BOFOONXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128) | /
 差分 | 5 | [Door Nock [G]](https://www.bilibili.com/video/av81409574) | BilliumMoto | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03900)
 差分 | 5 | [Exploration the Giotto [R]](https://www.bilibili.com/video/BV1gv411L7nX) | kunzite + BBBB | [Mutual Faith 3](https://venue.bmssearch.net/mutualfaith3/16) | [stella](https://stellabms.xyz/upload/889)
 差分 | 5 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 同捆 | 5 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | /
 差分 | 5 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05887)
-差分 | 5 | Pandora [Paradox] | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
+差分 | 5 | [Pandora [Paradox]](https://www.bilibili.com/video/BV1xL4y1G7p1) | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
 同捆 | 5 | [Regain [EGO DEATH]](https://www.bilibili.com/video/BV1RR4y177u7?p=3) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137) | /
 同捆 | 5 | [Solar Warspark [SP Another]](https://www.bilibili.com/video/BV1cR4y1t7My) | 天伝和楽 | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=137) | /
 差分 | 5 | [Trancing 'Tempo'rary [Trace]](https://www.bilibili.com/video/av86536101) | NASA | [BOFU2017](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03983)
@@ -167,7 +167,7 @@ Level | Song Name | Composer | Feature | Source
 3 | [Dope DrowN DoLL](https://www.bilibili.com/video/av58423461) | Dr.RcB |  | O2JAMU
 3 | [Hz](https://www.bilibili.com/video/BV1zg4y187iF/) | Zeryoone | | Tone Sphere
 3 | Milky Factory | Kobaryu |  |  
-3 | Misplaced Shadow | SENEZ |  | O2JAMU
+3 | [Misplaced Shadow](https://www.bilibili.com/video/BV1RY411V7WE/) | SENEZ |  | O2JAMU
 3 | [PANDORA PARADOXXX](https://www.bilibili.com/video/av56817620) | Sakuzyo |  | maimai
 3 | [Revival On (Feat. Yisun)](https://www.bilibili.com/video/BV1b34y1B7Qd/) | Warak |  | Pop Stage
 4 | [BeetleJuice](https://www.bilibili.com/video/BV15P4y1s7JD/) | TØm | | [Source](https://www.bilibili.com/video/BV1U64y117CP)
