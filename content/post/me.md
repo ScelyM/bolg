@@ -44,12 +44,12 @@ monitar | ZOWIE | XL2411P
 
 ## Laptop
 
-MECHREVO F6
-- I5 11320H
-- Iris Xe 96EU
+HP OMEN 7
+- R7 5800H
+- RX6600M
 - 16G 3200Mhz RAM
 - Zhitai PC005 1T
-- 2560*1600 120Hz
+- 1920*1080 144Hz
 
 
 ## how to find me
