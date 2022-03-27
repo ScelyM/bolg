@@ -95,7 +95,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 4 | [After ZABANIYA [SP Another]](https://www.bilibili.com/video/BV1hy4y1z7TQ) | Daily天利 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
 同捆 | 4 | [Aliens are BAD! [We Kick Ass!]](https://www.bilibili.com/video/BV1cA411n7x4?p=2) | ProjectG | [WorldWar](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) | /
 差分 | 4 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [stella](https://stellabms.xyz/upload/1478)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=04073)
-差分 | 4 | Brace for muddy terrain [SS] | Hyparpax | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
+差分 | 4 | [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1wu411q7TQ/) | Hyparpax | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
 同捆 | 4 | [Crush Alcohol [SP Another]](https://www.bilibili.com/video/BV1RR4y177Kq) | shadow_bling | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137) | /
 差分 | 4 | [crush BETA [final11123321]](https://www.bilibili.com/video/BV1VV411a7pY) | shadow_bling | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=133) | 
 差分 | 4 | [Dual Personality [Saki]](https://www.bilibili.com/video/BV1d64y1F7ST) | siqlo | [World War](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132) | [stella](https://stellabms.xyz/upload/287)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05886)
@@ -186,6 +186,7 @@ Level | Song Name | Composer | Feature | Source
 6 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
 6 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
 6 | [slav squat scratch test](https://www.bilibili.com/video/av56843601) | Ravine | 38s | 
+6 | [TECHNO BLINK](https://www.bilibili.com/video/BV1v44y1A7Me/) | Tatsh as DJ MURASAME |  | Polytone
 7 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
 7 | Panic holic | C-show |  | Sound Voltex
 7 | SIDONIA | LV.4 |  | 

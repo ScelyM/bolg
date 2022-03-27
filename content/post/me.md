@@ -24,7 +24,7 @@ type | Brand | Info
 ---|---|---
 CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 MotherBoard | MSI | B550 Unify
-RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.4v
+RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.38v
 GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
 PSU | ADATA | Core Reactor 750G
@@ -34,7 +34,7 @@ SSD | ADATA | SX8200pro 1T
 HDD | Hitachi | HUS724030ALE641 3T
 Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
-Case Fan | ThermalRight | B12
+Case Fan | Arctic | P12 Silent*3
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
@@ -49,6 +49,7 @@ HP OMEN 7
 - RX6600M
 - 16G 3200Mhz RAM
 - Zhitai PC005 1T
+- WD SN730 500G
 - 1920*1080 144Hz
 
 
