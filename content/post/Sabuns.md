@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.04.01 update: non-key: Nihilism (Another Ver.)
+    22.03.27 update: non-key: TECHNO BLINK
     22.03.16 update: non-key: Ghost Family Living In Graveyard
     22.02.17 update: sabun: Pandora [Paradox]
     22.02.11 update: non-key: The Ashtray (Final Lap)
-    22.02.04 update: new "level system"
     22.02.03 update: non-key: Flight
     22.01.31 update: sabun: ディスコをすこれ★☆ [Mrve]
-    22.01.24 update: sabun: 幻影 [Reflection]
 
 ## 差分&同捆 （List by Level）
 
@@ -142,7 +142,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 8 | [Crush Alcohol [Jar]](https://www.bilibili.com/video/BV1H3411k77i/) | shadow_bling | [BOFXVII](https://www.bilibili.com/video/BV1H3411k77i/) | [stella](https://stellabms.xyz/upload/1298)
 差分 | 8 | [Experience of Ecstasy [Ki]](https://www.bilibili.com/video/BV1oN41197ww/) | sukuramu42 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/106) | [stella](https://stellabms.xyz/upload/641)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=04989)
 差分 | 8 | [Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]](https://www.bilibili.com/video/BV1bi4y1G7hQ/) | Yosk! | [BMS衆議院選](https://venue.bmssearch.net/3/44) |  | 
-差分 | 9 | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | /
+差分 | 9 | 恋愛には奥手だが、そのぶん耳の穴を広げてしまう耳穴系男子 | 村下エレクトリッヴマッダシスイバー | ? | 
 差分 | 10 | [Amplifying Effect - SP Ryzen -](https://www.bilibili.com/video/BV1Xg41157Ti/) | Is-m | [BMS衆議院選2](https://venue.bmssearch.net/bmsshuin2/31) | [stella](https://stellabms.xyz/upload/1136)
 差分 | 10 | [reverieland [Mirage]](https://www.bilibili.com/video/av79411193) | void | [OLDSKOOL VS FUTURE](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03745)
 同捆 | 10 | [Subterranean Blastoff -Stellar Overhaul-](https://www.bilibili.com/video/BV1WJ411Q7YP?t=315) | SEPHID | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127) | /
@@ -181,7 +181,7 @@ Level | Song Name | Composer | Feature | Source
 5 | [Libertas](https://www.bilibili.com/video/av95196006/) | Zekk | | Arcaea
 5 | Rebellion | NAOKI underground |  | Cross X Beat
 5 | [swag](https://www.bilibili.com/video/BV14a411175N/) | lapix |  | 
-5 | The Ashtray (Final Lap) | r300k |  | O2JAMU
+5 | [The Ashtray (Final Lap)](https://www.bilibili.com/video/BV1mL4y137Pw) | r300k |  | O2JAMU
 6 | [Blackout](https://www.bilibili.com/video/BV1kR4y1g7JT/) | r300k | 纵连打 | O2JAMU
 6 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
 6 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
@@ -196,10 +196,11 @@ Level | Song Name | Composer | Feature | Source
 8 | [Conway's Child](https://www.bilibili.com/video/BV1PT4y1V7L3/) | sta |  | Tone Sphere
 8 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
 8 | [Ghost Family Living In Graveyard](https://www.bilibili.com/video/BV1sS4y1D7kW/) | RoughSketch |  | Sound Vortex
+8 | [Nihilism (Another Ver.)](https://www.bilibili.com/video/BV1VY4y1W7bM/) | nato | |
 9 | [cyanine](https://www.bilibili.com/video/av30178372) | jioyi |  | lanota
 9 | Midnight City Warfare | sky_delta |  | JUBEAT
 9 | [雷切-RAIKIRI-](https://www.bilibili.com/video/BV19Z4y1u7DM/) | kanone | | maimai
-10 | Caliburne ~Story of the Legendary sword~ | Team Grimoire |  | maimai
+10 | [Caliburne ~Story of the Legendary sword~](https://www.bilibili.com/video/BV1o44y1H7iq) | Team Grimoire |  | maimai
 10 | [INFINITY](https://www.bilibili.com/video/BV1pa41187oo) | Lunatic Sound |  | EZ2AC
 10 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
 10 | Rebellion | NAOKI underground |  | Cross X Beat
@@ -212,5 +213,5 @@ Level | Song Name | Composer | Feature | Source
 10 | [ピアノ練習曲第13番 "幻惑"](https://www.bilibili.com/video/BV1Lv411g7n5) | CYLTIE. | | Chainbeet
 ? | [ああああ's BMS Medley](https://www.bilibili.com/video/av59081516) | ああああ | 15min | 
 ? | [lost found melody](https://www.bilibili.com/video/av54978297) | 黑魔//百舌谷 | →→→→
-? | PLANET//SHAPER | Camellia | stop/speed | 
+? | [PLANET//SHAPER](https://www.bilibili.com/video/BV15S4y1m7xh) | Camellia | stop/speed | 
 ? | ultra b+k | nora2r | stop/speed/mine | 
