@@ -67,7 +67,6 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 2 | [Can't it be true [SP Another]](https://www.bilibili.com/video/BV1ki4y1L7ef) | Zris Feat.Kri | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133) | /
 同捆 | 2 | [Crush Alcohol [SP Hyper]](https://www.bilibili.com/video/BV1RR4y177Kq?p=2) | shadow_bling | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137) | /
 差分 | 2 | [Dove [chill.]](https://www.bilibili.com/video/BV1bK411c7Ff/) | Sound piercer & Puru feat.Emma J. | [BOFU2017](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116) | [stella](https://stellabms.xyz/upload/828)
-差分 | 2 | enchanted love [colors] | linear ring | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133) | [stella](https://stellabms.xyz/upload/542)
 同捆 | 2 | [Mandragora [SP Hyper]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | /
 同捆 | 2 | Metronome [SP Another]  | 女藏 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=127) | /
 同捆 | 2 | [Muspelheim [SP Hyper]](https://www.bilibili.com/video/BV1Pa411w7QT?p=2) | Columba(Daily vs. Roon_kun) | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=133) | /
@@ -77,6 +76,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 3 | [Always Feel the Same [Float]](https://www.bilibili.com/video/BV1g5411K7wj/) | Gsus x VJ PONDELION x Alnilam | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/17) | [stella](https://stellabms.xyz/upload/709)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05087)
 同捆 | 3 | [Angel Falls [SP Another]](https://www.bilibili.com/video/BV1aT4y1d7cm) | 816ThreeNumbers | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=137) | /
 同捆 | 3 | [Corona [SP Another]](https://www.bilibili.com/video/av56630404) | ProjectG | [無名戦16](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=126) | /
+差分 | 3 | [enchanted love [colors]](https://www.bilibili.com/video/BV1dL4y157di/) | linear ring | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133) | [stella](https://stellabms.xyz/upload/542)
 同捆 | 3 | [FAKE LIFE [SP Another]](https://www.bilibili.com/video/BV16a411c7nQ) | ProjectG | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133) | /
 差分 | 3 | [IMPULSE [Schizophrenia]](https://www.bilibili.com/video/BV1Bb4y1v7H7/) | Riya | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=137) | [stella](https://stellabms.xyz/upload/1479)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05882)
 同捆 | 3 | [kadai [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=145) | 小鬼 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127) | /
@@ -89,7 +89,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 3 | [The Public Parallel [SP Hyper]](https://www.bilibili.com/video/BV1Z5411V7sj?p=2) | Sephid Substream | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=133) | /
 差分 | 3 | [The Sundering [Yard]](https://www.bilibili.com/video/BV1iK4y1h7ye/) | ProjectG as _(八重蔵) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=127) | 
 差分 | 3 | [ディスコをすこれ★☆ [Mrve]](https://www.bilibili.com/video/BV1rq4y1h7H3/) | museo | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=385&event=137) | 
-差分 | 3 | プラネット [Satella] | あまつち探検隊 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/80) | [stella](https://stellabms.xyz/upload/891)
+差分 | 3 | [プラネット [Satella]](https://www.bilibili.com/video/BV14Y4y1h7w3/) | あまつち探検隊 | [BMS衆議院選3](https://venue.bmssearch.net/bmsshuin3/80) | [stella](https://stellabms.xyz/upload/891)
 差分 | 3 | [爆音峠岬 [Inst.]](https://www.bilibili.com/video/BV1pp4y1x72x/) | ユナイテッド・メルトダウン・オ嬢 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133) | 
 差分 | 4 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
 同捆 | 4 | [After ZABANIYA [SP Another]](https://www.bilibili.com/video/BV1hy4y1z7TQ) | Daily天利 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
@@ -128,9 +128,9 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 6 | [Mandragora [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | /
 同捆 | 6 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | /
 差分 | 6 | [Pandora [Paradox]](https://www.bilibili.com/video/BV1xL4y1G7p1) | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
-差分 | 6 | U-NI [Re-spect] | r | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=127) | [stella](https://stellabms.xyz/upload/1256)
+差分 | 6 | [U-NI [Re-spect]](https://www.bilibili.com/video/BV1BY4y1h764/) | r | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=127) | [stella](https://stellabms.xyz/upload/1256)
 差分 | 6 | [カリオストロの穿孔 [Key]](https://www.bilibili.com/video/av85014504) | 隣の庭は青い(庭師+Aoi) | [BOFU2017](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03957)
-差分 | 6 | 黄昏のメロディア [Fanta Sea] | 秋月アキラ feat. 保堂 京 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127) | [stella](https://stellabms.xyz/upload/1257)
+差分 | 6 | [黄昏のメロディア [Fanta Sea]](https://www.bilibili.com/video/BV1cS4y1A7AR/) | 秋月アキラ feat. 保堂 京 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127) | [stella](https://stellabms.xyz/upload/1257)
 差分 | 6 | [紅鏡アレセイア -The Last of Contract Stories- [Illuminar]](https://www.bilibili.com/video/BV11X4y157WV/) | kanoryo&Orphex | [OLDSKOOL VS FUTURE](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=120) | [stella](https://stellabms.xyz/upload/662)
 同捆 | 7 | [After ZABANIYA [SP Insane]](https://www.bilibili.com/video/BV1hy4y1z7TQ?p=3) | Daily天利 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
 差分 | 7 | Breaching [Ki] | uet | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03901)
