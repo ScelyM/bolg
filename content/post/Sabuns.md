@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.05.26 update: non-key: 電の花
     22.04.01 update: non-key: Nihilism (Another Ver.)
     22.03.27 update: non-key: TECHNO BLINK
     22.03.16 update: non-key: Ghost Family Living In Graveyard
     22.02.17 update: sabun: Pandora [Paradox]
     22.02.11 update: non-key: The Ashtray (Final Lap)
     22.02.03 update: non-key: Flight
-    22.01.31 update: sabun: ディスコをすこれ★☆ [Mrve]
 
 ## 差分&同捆 （List by Level）
 
@@ -168,11 +168,11 @@ Level | Song Name | Composer | Feature | Source
 3 | [Misplaced Shadow](https://www.bilibili.com/video/BV1RY411V7WE/) | SENEZ |  | O2JAMU
 3 | [PANDORA PARADOXXX](https://www.bilibili.com/video/av56817620) | Sakuzyo |  | maimai
 3 | [Revival On (Feat. Yisun)](https://www.bilibili.com/video/BV1b34y1B7Qd/) | Warak |  | Pop Stage
-4 | [BeetleJuice](https://www.bilibili.com/video/BV15P4y1s7JD/) | TØm | | [Source](https://www.bilibili.com/video/BV1U64y117CP)
+4 | [BeetleJuice](https://www.bilibili.com/video/BV15P4y1s7JD/) | TØm | | [Bilibili](https://www.bilibili.com/video/BV1U64y117CP)
 4 | [Death Scythe](https://www.bilibili.com/video/av9940269) | SHIKI |  | maimai
 4 | [dubai was lit](https://www.bilibili.com/video/av75598680) | Asher Postman | total117 |
 4 | [Lance](https://www.bilibili.com/video/av9902337) | Ras |  | maimai
-4 | NEXT LEVEL | lapix vs sky_delta |  | 
+4 | [NEXT LEVEL](https://www.bilibili.com/video/BV1DY4y1e75X/) | lapix vs sky_delta |  | 
 4 | Rumble In The Jungle | Zatox/Quarkdoge |  | Flex Air 3
 4 | [Song of Spirits](https://www.bilibili.com/video/BV1Kg4y187RH/) | sta | | 
 5 | [Apocalypse collapse](https://www.bilibili.com/video/BV1rQ4y1X7rF) | RhukiΛ vs kuro | | Chainbeet
@@ -182,6 +182,7 @@ Level | Song Name | Composer | Feature | Source
 5 | Rebellion | NAOKI underground |  | Cross X Beat
 5 | [swag](https://www.bilibili.com/video/BV14a411175N/) | lapix |  | 
 5 | [The Ashtray (Final Lap)](https://www.bilibili.com/video/BV1mL4y137Pw) | r300k |  | O2JAMU
+5 | [電の花](https://www.bilibili.com/video/BV1hS4y1z7Cb/) | iMoon |  | [Bilibili](https://www.bilibili.com/video/BV1UR4y1V7Yy)
 6 | [Blackout](https://www.bilibili.com/video/BV1kR4y1g7JT/) | r300k | 纵连打 | O2JAMU
 6 | [BLRINK](https://www.bilibili.com/video/BV1C7411U7DK) | sta | | Arcaea
 6 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
@@ -189,8 +190,8 @@ Level | Song Name | Composer | Feature | Source
 6 | [TECHNO BLINK](https://www.bilibili.com/video/BV1v44y1A7Me/) | Tatsh as DJ MURASAME |  | Polytone
 7 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
 7 | Panic holic | C-show |  | Sound Voltex
-7 | SIDONIA | LV.4 |  | 
-7 | Stage 5 | LV.4 |  | DYNAMIX
+7 | [SIDONIA](https://www.bilibili.com/video/BV1194y1d7XP/) | LV.4 |  | 
+7 | [Stage 5](https://www.bilibili.com/video/BV1BY4y1h7bB/) | LV.4 |  | DYNAMIX
 7 | [Star Stream](https://www.bilibili.com/video/av43398623) | r300k |  | O2JAMU
 7 | [炯眼の絶対零度](https://www.bilibili.com/video/BV1D3411E7hf/) | polysha |  | DYNAMIX
 8 | [Conway's Child](https://www.bilibili.com/video/BV1PT4y1V7L3/) | sta |  | Tone Sphere
@@ -198,7 +199,7 @@ Level | Song Name | Composer | Feature | Source
 8 | [Ghost Family Living In Graveyard](https://www.bilibili.com/video/BV1sS4y1D7kW/) | RoughSketch |  | Sound Vortex
 8 | [Nihilism (Another Ver.)](https://www.bilibili.com/video/BV1VY4y1W7bM/) | nato | |
 9 | [cyanine](https://www.bilibili.com/video/av30178372) | jioyi |  | lanota
-9 | Midnight City Warfare | sky_delta |  | JUBEAT
+9 | [Midnight City Warfare](https://www.bilibili.com/video/BV1LT4y1e711/) | sky_delta |  | JUBEAT
 9 | [雷切-RAIKIRI-](https://www.bilibili.com/video/BV19Z4y1u7DM/) | kanone | | maimai
 10 | [Caliburne ~Story of the Legendary sword~](https://www.bilibili.com/video/BV1o44y1H7iq) | Team Grimoire |  | maimai
 10 | [INFINITY](https://www.bilibili.com/video/BV1pa41187oo) | Lunatic Sound |  | EZ2AC

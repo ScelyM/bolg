@@ -44,13 +44,12 @@ monitar | ZOWIE | XL2411P
 
 ## Laptop
 
-HP OMEN 7
-- R7 5800H
-- RX6600M
+MSI Delta 15
+- R9 5900HX
+- RX6700M
 - 16G 3200Mhz RAM
 - Zhitai PC005 1T
-- WD SN730 500G
-- 1920*1080 144Hz
+- 1920*1080 240Hz
 
 
 ## how to find me
