@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.06.25 update: sabun: Anger Control [Nefelibata]
     22.05.26 update: non-key: 電の花
     22.04.01 update: non-key: Nihilism (Another Ver.)
     22.03.27 update: non-key: TECHNO BLINK
     22.03.16 update: non-key: Ghost Family Living In Graveyard
     22.02.17 update: sabun: Pandora [Paradox]
     22.02.11 update: non-key: The Ashtray (Final Lap)
-    22.02.03 update: non-key: Flight
 
 ## 差分&同捆 （List by Level）
 
@@ -94,6 +94,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 4 | [Abendo [Trioxide]](https://www.bilibili.com/video/BV19541137CJ/?p=1) | r | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133) | [stella](https://stellabms.xyz/upload/543)
 同捆 | 4 | [After ZABANIYA [SP Another]](https://www.bilibili.com/video/BV1hy4y1z7TQ) | Daily天利 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
 同捆 | 4 | [Aliens are BAD! [We Kick Ass!]](https://www.bilibili.com/video/BV1cA411n7x4?p=2) | ProjectG | [WorldWar](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=132) | /
+差分 | 4 | [Anger Control [Nefelibata]](https://www.bilibili.com/video/BV1hG411s7HZ/) | Lokan | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=133) | [stella](https://stellabms.xyz/upload/1808)
 差分 | 4 | [Blackorient [Step]](https://www.bilibili.com/video/av91497615) | Sound souler | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127) | [stella](https://stellabms.xyz/upload/1478)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=04073)
 差分 | 4 | [Brace for muddy terrain [SS]](https://www.bilibili.com/video/BV1wu411q7TQ/) | Hyparpax | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=127) | [stella](https://stellabms.xyz/upload/890)
 同捆 | 4 | [Crush Alcohol [SP Another]](https://www.bilibili.com/video/BV1RR4y177Kq) | shadow_bling | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137) | /
@@ -209,7 +210,7 @@ Level | Song Name | Composer | Feature | Source
 10 | [Haunted Dance](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Mr.Asyu |  | Tone Sphere
 10 | [HERA](https://www.bilibili.com/video/av23566591) | Luze |  | maimai
 10 | [Opium and Purple haze](https://www.bilibili.com/video/BV16t4y1D753) | D.Watt | 纵连打 | 
-10 | [MEGALOVANIA (Camellia Remix)](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | Camellia | 6min | Youtube
+10 | [MEGALOVANIA (Camellia Remix)](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | Camellia | 6min | [Youtube](https://www.youtube.com/watch?v=9X7I3bW49S8)
 10 | Seeker (Special Remix) | SouL | 4500notes |
 10 | [ピアノ練習曲第13番 "幻惑"](https://www.bilibili.com/video/BV1Lv411g7n5) | CYLTIE. | | Chainbeet
 ? | [ああああ's BMS Medley](https://www.bilibili.com/video/av59081516) | ああああ | 15min | 
