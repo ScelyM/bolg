@@ -126,6 +126,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 5 | [ΣθИ - θ∀θ -](https://www.bilibili.com/video/av35219027) | SEPHID | [G2R2018](https://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123) | /
 差分 | 6 | [BASS KICK YAKUZA [Zethiwo v2]](https://www.bilibili.com/video/BV1ob4y1e7ws/) | DARKSIDE APPROACH | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05884)
 差分 | 6 | [Burn [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03462)
+差分 | 6 | [Faurie [sink]](https://www.bilibili.com/video/BV1hd4y197XF) | 黒皇帝 | [World War](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132)
 同捆 | 6 | [Mandragora [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | /
 同捆 | 6 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | /
 差分 | 6 | [Pandora [Paradox]](https://www.bilibili.com/video/BV1xL4y1G7p1) | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
