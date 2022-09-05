@@ -32,13 +32,14 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.09.05 update: sabun: Rebirth of the MYTH [nocte]
+    22.09.05 update: non-key: Towards the TOWER
+    22.08.27 update: sabun: Faurie [sink]
     22.06.25 update: sabun: Anger Control [Nefelibata]
     22.05.26 update: non-key: 電の花
     22.04.01 update: non-key: Nihilism (Another Ver.)
     22.03.27 update: non-key: TECHNO BLINK
-    22.03.16 update: non-key: Ghost Family Living In Graveyard
-    22.02.17 update: sabun: Pandora [Paradox]
-    22.02.11 update: non-key: The Ashtray (Final Lap)
+
 
 ## 差分&同捆 （List by Level）
 
@@ -126,7 +127,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 5 | [ΣθИ - θ∀θ -](https://www.bilibili.com/video/av35219027) | SEPHID | [G2R2018](https://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=123) | /
 差分 | 6 | [BASS KICK YAKUZA [Zethiwo v2]](https://www.bilibili.com/video/BV1ob4y1e7ws/) | DARKSIDE APPROACH | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05884)
 差分 | 6 | [Burn [Beijing Burn Duck]](https://www.bilibili.com/video/av71032918) | NecS | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03462)
-差分 | 6 | [Faurie [sink]](https://www.bilibili.com/video/BV1hd4y197XF) | 黒皇帝 | [World War](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132)
+差分 | 6 | [Faurie [sink]](https://www.bilibili.com/video/BV1hd4y197XF) | 黒皇帝 | [World War](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132) | [stella](https://stellabms.xyz/upload/1949)
 同捆 | 6 | [Mandragora [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | /
 同捆 | 6 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | /
 差分 | 6 | [Pandora [Paradox]](https://www.bilibili.com/video/BV1xL4y1G7p1) | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
@@ -137,6 +138,7 @@ type | Level | Song Name | Composer | Event | Download
 同捆 | 7 | [After ZABANIYA [SP Insane]](https://www.bilibili.com/video/BV1hy4y1z7TQ?p=3) | Daily天利 | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133) | /
 差分 | 7 | Breaching [Ki] | uet | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03901)
 同捆 | 7 | [Poppy [SP Another]](https://www.bilibili.com/video/BV1Lq4y1V7YR) | Columba(Daily vs. Roon_kun) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137) | /
+差分 | 7 | [Rebirth of the MYTH [nocte]](https://www.bilibili.com/video/BV15e411u7mq/) | s-don・サム・さるきむ | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=137) | [stella](https://stellabms.xyz/upload/1950)
 差分 | 7 | Snow White [Summer] | Puru | [BOFU2015](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03963)
 同捆 | 7 | [The Public Parallel [It's A Trap!]](https://www.bilibili.com/video/BV1Z5411V7sj?p=3) | Sephid Substream | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=133) | /
 差分 | 7 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
@@ -160,6 +162,7 @@ type | Level | Song Name | Composer | Event | Download
 Level | Song Name | Composer | Feature | Source
 --- | --- | --- | --- | ---
 2 | [DEPARTED (2GPS REMIX)](https://www.bilibili.com/video/BV1rt41187iu?p=4) | MINIKOMA☆ |  | Tone sphere
+2 | [Towards the TOWER](https://www.bilibili.com/video/BV18d4y1X7sv/) | SHAMDEL |  | Jubeat
 2 | だれかの心臓になれたなら | GUMI,ユリイ・カノン | 4min | 
 3 | [7th Sense](https://www.bilibili.com/video/av9975073) | Sakuzyo |  | maimai
 3 | [AI[UE]OON](https://www.bilibili.com/video/av66636707) | MYUKKE. |  | Arcaea
