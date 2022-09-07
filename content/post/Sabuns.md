@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.09.08 update: non-key: Unwelcome School (takehirotei hardcore remix)
     22.09.05 update: sabun: Rebirth of the MYTH [nocte]
     22.09.05 update: non-key: Towards the TOWER
     22.08.27 update: sabun: Faurie [sink]
     22.06.25 update: sabun: Anger Control [Nefelibata]
     22.05.26 update: non-key: 電の花
     22.04.01 update: non-key: Nihilism (Another Ver.)
-    22.03.27 update: non-key: TECHNO BLINK
 
 
 ## 差分&同捆 （List by Level）
@@ -207,16 +207,17 @@ Level | Song Name | Composer | Feature | Source
 9 | [Midnight City Warfare](https://www.bilibili.com/video/BV1LT4y1e711/) | sky_delta |  | JUBEAT
 9 | [雷切-RAIKIRI-](https://www.bilibili.com/video/BV19Z4y1u7DM/) | kanone | | maimai
 10 | [Caliburne ~Story of the Legendary sword~](https://www.bilibili.com/video/BV1o44y1H7iq) | Team Grimoire |  | maimai
-10 | [INFINITY](https://www.bilibili.com/video/BV1pa41187oo) | Lunatic Sound |  | EZ2AC
-10 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
-10 | Rebellion | NAOKI underground |  | Cross X Beat
-10 | [Tetelestai](https://www.bilibili.com/video/av60274108) | Sibyle |  | 
 10 | [Haunted Dance](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Mr.Asyu |  | Tone Sphere
 10 | [HERA](https://www.bilibili.com/video/av23566591) | Luze |  | maimai
-10 | [Opium and Purple haze](https://www.bilibili.com/video/BV16t4y1D753) | D.Watt | 纵连打 | 
+10 | [INFINITY](https://www.bilibili.com/video/BV1pa41187oo) | Lunatic Sound |  | EZ2AC
+10 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
 10 | [MEGALOVANIA (Camellia Remix)](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | Camellia | 6min | [Youtube](https://www.youtube.com/watch?v=9X7I3bW49S8)
+10 | [Opium and Purple haze](https://www.bilibili.com/video/BV16t4y1D753) | D.Watt | 纵连打 | 
+10 | Rebellion | NAOKI underground |  | Cross X Beat
 10 | Seeker (Special Remix) | SouL | 4500notes |
-10 | [ピアノ練習曲第13番 "幻惑"](https://www.bilibili.com/video/BV1Lv411g7n5) | CYLTIE. | | Chainbeet
+10 | [Tetelestai](https://www.bilibili.com/video/av60274108) | Sibyle |  | 
+10 | [Unwelcome School (takehirotei hardcore remix)](https://www.bilibili.com/video/BV1gD4y1z7pP/) | Mitsukiyo |  | [Bilibili](https://www.bilibili.com/video/BV123411p7J8)
+10 | [ピアノ練習曲第13番 "幻惑"](https://www.bilibili.com/video/BV1Lv411g7n5) | CYLTIE. | | [Soundcloud](https://soundcloud.com/cyltie/genwaku)
 ? | [ああああ's BMS Medley](https://www.bilibili.com/video/av59081516) | ああああ | 15min | 
 ? | [lost found melody](https://www.bilibili.com/video/av54978297) | 黑魔//百舌谷 | →→→→
 ? | [PLANET//SHAPER](https://www.bilibili.com/video/BV15S4y1m7xh) | Camellia | stop/speed | 
