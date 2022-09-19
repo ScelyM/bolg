@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.09.19 update: sabun: Marion [Capital of crime]
+    22.09.19 update: sabun: Project DIARY [second sunrise]
     22.09.08 update: non-key: Unwelcome School (takehirotei hardcore remix)
     22.09.05 update: sabun: Rebirth of the MYTH [nocte]
     22.09.05 update: non-key: Towards the TOWER
     22.08.27 update: sabun: Faurie [sink]
     22.06.25 update: sabun: Anger Control [Nefelibata]
-    22.05.26 update: non-key: 電の花
-    22.04.01 update: non-key: Nihilism (Another Ver.)
 
 
 ## 差分&同捆 （List by Level）
@@ -119,6 +119,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 5 | [Exploration the Giotto [R]](https://www.bilibili.com/video/BV1gv411L7nX) | kunzite + BBBB | [Mutual Faith 3](https://venue.bmssearch.net/mutualfaith3/16) | [stella](https://stellabms.xyz/upload/889)
 差分 | 5 | [Gimme All The Cocaine [Weeb]](https://www.bilibili.com/video/BV1aN411X7SN/) | Futami | [無名戦17](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131) | [stella](https://stellabms.xyz/upload/774)
 差分 | 5 | [Neutrφn Reaper [Drop]](https://www.bilibili.com/video/BV19p4y1t7dp/) | kanone | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133) | [stella](https://stellabms.xyz/upload/827)/[gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=05887)
+差分 | 5 | [Project DIARY [second sunrise]](https://www.bilibili.com/video/BV1ZG4y1q7HG/) | Dr.ReB | [PABAT2014](http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=54) | 
 同捆 | 5 | [Regain [EGO DEATH]](https://www.bilibili.com/video/BV1RR4y177u7?p=3) | ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137) | /
 同捆 | 5 | [glacier's poetry [insane?]](https://www.bilibili.com/video/BV1Jq4y1k7Fk/) | VeetaCrush & ProjectG | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=137) | /
 同捆 | 5 | [Solar Warspark [SP Another]](https://www.bilibili.com/video/BV1cR4y1t7My) | 天伝和楽 | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=137) | /
@@ -139,6 +140,7 @@ type | Level | Song Name | Composer | Event | Download
 差分 | 7 | Breaching [Ki] | uet | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=127) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03901)
 同捆 | 7 | [Poppy [SP Another]](https://www.bilibili.com/video/BV1Lq4y1V7YR) | Columba(Daily vs. Roon_kun) | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137) | /
 差分 | 7 | [Rebirth of the MYTH [nocte]](https://www.bilibili.com/video/BV15e411u7mq/) | s-don・サム・さるきむ | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=137) | [stella](https://stellabms.xyz/upload/1950)
+差分 | 7 | [Marion [Capital of crime]](https://www.bilibili.com/video/BV15W4y1q7pc/) | kozato | [BOFU2016](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=326&event=110) | 
 差分 | 7 | Snow White [Summer] | Puru | [BOFU2015](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03963)
 同捆 | 7 | [The Public Parallel [It's A Trap!]](https://www.bilibili.com/video/BV1Z5411V7sj?p=3) | Sephid Substream | [BOFXVI](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=133) | /
 差分 | 7 | [YJC Ultrastyle [Rainbow Mask Man]](https://www.bilibili.com/video/BV18T4y1J7q4/) | SEPHID | [A-1 ClimaX 10th](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=131) | 
