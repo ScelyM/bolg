@@ -24,7 +24,7 @@ type | Brand | Info
 ---|---|---
 CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 MotherBoard | MSI | B550 Unify
-RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.38v
+RAM | TeamGroup | T-Create 8G*2 @3866 18-22-22-42 1.36v
 GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
 PSU | ADATA | Core Reactor 750G
@@ -44,12 +44,12 @@ monitar | ZOWIE | XL2411P
 
 ## Laptop
 
-MSI Delta 15
-- R9 5900HX
-- RX6700M
-- 16G 3200Mhz RAM
+Mechrevo Code01 Ver2.0
+- R7 6800H
+- 16G 4800Mhz DDR5 RAM
 - Zhitai PC005 1T
-- 1920*1080 240Hz
+- 京造 麒麟 1T
+- 2560*1600 120Hz
 
 
 ## how to find me
