@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.09.30 update: non-key: Plume
     22.09.27 update: non-key: The Trace (Mashup)
     22.09.19 update: sabun: Marion [Capital of crime]
     22.09.19 update: sabun: Project DIARY [second sunrise]
     22.09.08 update: non-key: Unwelcome School (takehirotei hardcore remix)
     22.09.05 update: sabun: Rebirth of the MYTH [nocte]
     22.09.05 update: non-key: Towards the TOWER
-    22.08.27 update: sabun: Faurie [sink]
 
 
 ## 差分&同捆 （List by Level）
@@ -164,6 +164,7 @@ type | Level | Song Name | Composer | Event | Download
 Level | Song Name | Composer | Feature | Source
 --- | --- | --- | --- | ---
 2 | [DEPARTED (2GPS REMIX)](https://www.bilibili.com/video/BV1rt41187iu?p=4) | MINIKOMA☆ |  | Tone sphere
+2 | [Plume](https://www.bilibili.com/video/BV14V4y1N7uh/) | Caravan Palace |  | 
 2 | [The Trace (Mashup)](https://www.bilibili.com/video/BV1ud4y1z75J/) | Warak |  | O2JAMU
 2 | [Towards the TOWER](https://www.bilibili.com/video/BV18d4y1X7sv/) | SHAMDEL |  | Jubeat
 2 | だれかの心臓になれたなら | GUMI,ユリイ・カノン | 4min | 
