@@ -65,7 +65,7 @@ CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 固态1 | 致钛 | PC005 512G
 固态2 | 威刚 | SX8200pro 1T
 机械盘 | 东芝 | HDWD130 3T
-机箱 | 微星 | MPG GUNGNIR 110L
+机箱 | 微星 | MPG GUNGNIR 110L/氪金枪air
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | Arctic | P12 Silent*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
