@@ -4,6 +4,8 @@ date: 2022-09-20
 draft: false
 ---
 
+:thinking:
+
 <!--more-->
 
 ## 一些想说的话//很繁琐的自我介绍
@@ -14,7 +16,7 @@ draft: false
   
   音乐游戏方面，出名的可能是以谱师身份参加了好几次BMS活动，商业相关的说了可能也不知道。
 
-  **我已声明不再参与BOF，理由见差分页面**
+  **我已声明不再参与BOF，理由见[差分页面](https://scelym.github.io/post/sabuns/)**
 
   FPS方面，平时以csgo为主，有时候会打打apex，对别的fps不是很感兴趣。
 
@@ -37,9 +39,8 @@ draft: false
 
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
-- EZ2ON Reboot : R
 - Counter-Strike : Global Offensive
-- 偶尔会玩一会Apex Legends，除此之外很少会玩别的游戏
+- 偶尔会玩一会Apex Legends和EZ2ON，除此之外很少会玩别的游戏
 
 ## 自我标签
 - 音乐游戏
@@ -51,6 +52,7 @@ draft: false
 ## 相关成就
 - BOFXVII 总分第三名 Regain 的SP谱面作者
 - 2020年秋CSGO完美城市赛哈尔滨站冠军
+- 因保密协议不得透露商业谱面相关。~~具体条款没仔细看~~
 
 ## 电脑配置
 
@@ -64,7 +66,7 @@ CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 电源 | 威刚 | Core Reactor 750G
 固态1 | 致钛 | PC005 512G
 固态2 | 威刚 | SX8200pro 1T
-机械盘 | 东芝 | HDWD130 3T
+机械盘 | 东芝 | P300 3T
 机箱 | 微星 | MPG GUNGNIR 110L/氪金枪air
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | Arctic | P12 Silent*3 前部进风

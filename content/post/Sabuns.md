@@ -199,23 +199,23 @@ Level | Song Name | Composer | Feature | Source
 6 | [slav squat scratch test](https://www.bilibili.com/video/av56843601) | Ravine | 38s | 
 6 | [TECHNO BLINK](https://www.bilibili.com/video/BV1v44y1A7Me/) | Tatsh as DJ MURASAME |  | Polytone
 7 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
-7 | Panic holic | C-show |  | Sound Voltex
+7 | Panic holic | C-show |  | Sound VolteX
 7 | [SIDONIA](https://www.bilibili.com/video/BV1194y1d7XP/) | LV.4 |  | 
 7 | [Stage 5](https://www.bilibili.com/video/BV1BY4y1h7bB/) | LV.4 |  | DYNAMIX
 7 | [Star Stream](https://www.bilibili.com/video/av43398623) | r300k |  | O2JAMU
 7 | [炯眼の絶対零度](https://www.bilibili.com/video/BV1D3411E7hf/) | polysha |  | DYNAMIX
 8 | [Conway's Child](https://www.bilibili.com/video/BV1PT4y1V7L3/) | sta |  | Tone Sphere
 8 | Grave Throbbing (2-2 Remix) | Remixed by Phonetic Hero |  | Crypt of the NecroDancer
-8 | [Ghost Family Living In Graveyard](https://www.bilibili.com/video/BV1sS4y1D7kW/) | RoughSketch |  | Sound Vortex
+8 | [Ghost Family Living In Graveyard](https://www.bilibili.com/video/BV1sS4y1D7kW/) | RoughSketch |  | Sound VorteX
 8 | [Nihilism (Another Ver.)](https://www.bilibili.com/video/BV1VY4y1W7bM/) | nato | |
 9 | [cyanine](https://www.bilibili.com/video/av30178372) | jioyi |  | lanota
+9 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
 9 | [Midnight City Warfare](https://www.bilibili.com/video/BV1LT4y1e711/) | sky_delta |  | JUBEAT
 9 | [雷切-RAIKIRI-](https://www.bilibili.com/video/BV19Z4y1u7DM/) | kanone | | maimai
 10 | [Caliburne ~Story of the Legendary sword~](https://www.bilibili.com/video/BV1o44y1H7iq) | Team Grimoire |  | maimai
 10 | [Haunted Dance](https://www.bilibili.com/video/BV1ya4y1a7CA/) | Mr.Asyu |  | Tone Sphere
 10 | [HERA](https://www.bilibili.com/video/av23566591) | Luze |  | maimai
 10 | [INFINITY](https://www.bilibili.com/video/BV1pa41187oo) | Lunatic Sound |  | EZ2AC
-10 | [larva](https://www.bilibili.com/video/av48859406) | ガリガリさむし |  | maimai
 10 | [MEGALOVANIA (Camellia Remix)](https://www.bilibili.com/video/BV1Zt4y1X7DQ) | Camellia | 6min | [Youtube](https://www.youtube.com/watch?v=9X7I3bW49S8)
 10 | [Opium and Purple haze](https://www.bilibili.com/video/BV16t4y1D753) | D.Watt | 纵连打 | 
 10 | Rebellion | NAOKI underground |  | Cross X Beat

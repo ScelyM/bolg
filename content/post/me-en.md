@@ -1,10 +1,12 @@
 ---
-title: "我是Scely，他们都叫我大汉"
+title: "Here's Scely"
 date: 2020-02-09
 draft: false
 ---
-<!--more-->
+
   I'm tring my best to use English
+
+<!--more-->
 
 ## Playing
 - BMS @ Beatoraja @ Genoside2018 SP★10
@@ -16,7 +18,7 @@ draft: false
 - BMS chart make
 - FPS
 - PC Hardware
-- ~~empty~~
+- ~~nah dude I will not write here~~
 
 ## Desktop
 
