@@ -40,7 +40,7 @@ Case Fan | Arctic | P12 Silent*3
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
-monitar | ZOWIE | XL2411P
+monitar | Acer | XV252Q F
 
 
 

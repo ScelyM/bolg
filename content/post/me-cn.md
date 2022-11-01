@@ -74,7 +74,7 @@ CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 鼠标 | 卓威 | EC1A
 鼠标垫 | 卓威 | GS-R
 耳机 | HyperX | Cloud II
-显示器 | 卓威 | XL2411P
+显示器 | 宏碁 | XV252Q F
 
 
 
