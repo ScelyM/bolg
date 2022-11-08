@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.11.08 update: non-key: 幻影舞踏師
     22.10.03 update: sabun: 天空の城ヴェリエル [nowhere]
     22.09.30 update: non-key: Plume
     22.09.27 update: non-key: The Trace (Mashup)
     22.09.19 update: sabun: Marion [Capital of crime]
     22.09.19 update: sabun: Project DIARY [second sunrise]
     22.09.08 update: non-key: Unwelcome School (takehirotei hardcore remix)
-    22.09.05 update: sabun: Rebirth of the MYTH [nocte]
 
 
 ## 差分&同捆 （List by Level）
@@ -198,6 +198,7 @@ Level | Song Name | Composer | Feature | Source
 6 | [Gargoyle (2009 version)](https://www.bilibili.com/video/BV1QS4y1X7EQ) | Sanxion7 |  | O2JAM
 6 | [slav squat scratch test](https://www.bilibili.com/video/av56843601) | Ravine | 38s | 
 6 | [TECHNO BLINK](https://www.bilibili.com/video/BV1v44y1A7Me/) | Tatsh as DJ MURASAME |  | Polytone
+6 | [幻影舞踏師](https://www.bilibili.com/video/BV1qd4y1r79B/) | 中岛岬
 7 | [CITRUS MONSTER](https://www.bilibili.com/video/av23566816) | D-Cee |  | maimai
 7 | Panic holic | C-show |  | Sound VolteX
 7 | [SIDONIA](https://www.bilibili.com/video/BV1194y1d7XP/) | LV.4 |  | 
