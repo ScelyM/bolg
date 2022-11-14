@@ -32,13 +32,13 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 ![level mark](https://s3.bmp.ovh/imgs/2022/02/ae480063f51065aa.png)
 
     only show 7 lastest updates
+    22.11.14 update: sabun: slic.hertz [Live]
     22.11.08 update: non-key: 幻影舞踏師
     22.10.03 update: sabun: 天空の城ヴェリエル [nowhere]
     22.09.30 update: non-key: Plume
     22.09.27 update: non-key: The Trace (Mashup)
     22.09.19 update: sabun: Marion [Capital of crime]
     22.09.19 update: sabun: Project DIARY [second sunrise]
-    22.09.08 update: non-key: Unwelcome School (takehirotei hardcore remix)
 
 
 ## 差分&同捆 （List by Level）
@@ -133,6 +133,7 @@ Level | Song Name | Composer | Event | Download
 6 | [Mandragora [SP Another]](https://www.bilibili.com/video/BV1WJ411Q7YP?t=445) | Columba (Daily vs Roon_kun) | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=127) | 同捆
 6 | [Midnight Flux](https://www.bilibili.com/video/BV1WJ411Q7YP?t=615)  | ProjectG | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127) | 同捆
 6 | [Pandora [Paradox]](https://www.bilibili.com/video/BV1xL4y1G7p1) | SOMON | [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=137) | [stella](https://stellabms.xyz/upload/1549)/[gnqg](http://gnqg.rosx.net/upload/upload.cgi?get=05953)
+6 | [slic.hertz [Live]](https://www.bilibili.com/video/BV1Kt4y1N7g8/) | Sobrem | [BOF:ET](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=140)
 6 | [U-NI [Re-spect]](https://www.bilibili.com/video/BV1BY4y1h764/) | r | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=127) | [stella](https://stellabms.xyz/upload/1256)
 6 | [カリオストロの穿孔 [Key]](https://www.bilibili.com/video/av85014504) | 隣の庭は青い(庭師+Aoi) | [BOFU2017](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116) | [gnqg](https://gnqg.rosx.net/upload/upload.cgi?get=03957)
 6 | [黄昏のメロディア [Fanta Sea]](https://www.bilibili.com/video/BV1cS4y1A7AR/) | 秋月アキラ feat. 保堂 京 | [BOFXV](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127) | [stella](https://stellabms.xyz/upload/1257)
