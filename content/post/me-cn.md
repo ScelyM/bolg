@@ -60,7 +60,7 @@ draft: false
 ---|---|---
 CPU | AMD | Ryzen 5 5600X @PBO +200MHz curve-18
 主板 | 微星 | B550 Unify
-内存 | 十铨 | T-Create 8G*2 @3866 18-22-22-42 1.36v
+内存 | 金百达 | 银爵 16G*2 @4000 18-22-22-42 1.45v
 显卡 | 憾讯 | RX6600XT Red Devil
 散热 | 利民 | PA120 Black @中置利民B12
 电源 | 威刚 | Core Reactor 750G
