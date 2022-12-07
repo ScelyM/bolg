@@ -29,6 +29,10 @@ draft: false
 
 每人可提交两份不同Genre曲子的谱面，例如一个Trance一个Breakcore。
 
+如包内不含有Preview文件，则主办方将手动在不对BMS文件及音频文件改动的前提下制作Preview文件。如不需要此项目请额外说明。
+
+  - 关于播放器的Preview规则，由于不对BMS文件改动所以不确定LR2是否能正常播放，Beatoraja理论上可正常读取。
+
 以下名单只允许提交一份谱面：
 
 - Scely
