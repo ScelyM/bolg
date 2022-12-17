@@ -58,15 +58,16 @@ draft: false
 
 ---|---|---
 ---|---|---
-CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-18
+CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 主板 | 微星 | B550 Unify
-内存 | 金百达 | 银爵 3600 16G*2 @3866 18-22-22-42 1.45v
+内存 | 金百达 | 银爵 3600 16G*2 @3866 18-22-22-42 1.4v
 显卡 | 憾讯 | RX6600XT Red Devil
 散热 | 利民 | PA120 Black @中置利民B12
 电源 | 威刚 | Core Reactor 750G
 固态1 | 致钛 | PC005 512G
-固态2 | 威刚 | SX8200pro 1T
-机械盘 | 东芝 | P300 3T
+固态2 | 金百达 | KP230Pro 2T
+固态3 | 金百达 | KP230Pro 2T
+固态4 | 威刚 | SX8200pro 1T
 机箱 | 微星 | MPG GUNGNIR 110L/氪金枪air
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | Arctic | P12 Silent*3 前部进风
@@ -84,7 +85,6 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-18
 - R7 6800H
 - 16G 4800Mhz DDR5
 - 致钛 PC005 1T
-- 京造 麒麟 1T
 - 2560*1600 120Hz
 
 

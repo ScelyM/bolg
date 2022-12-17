@@ -31,9 +31,9 @@ GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
 PSU | ADATA | Core Reactor 750G
 SSD | ZhiTai | PC005 512G
-HDD | Toshiba | HDWD130 3T
+SSD | KingBank | KP230Pro 2T
+SSD | KingBank | KP230Pro 2T
 SSD | ADATA | SX8200pro 1T
-HDD | Hitachi | HUS724030ALE641 3T
 Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
 Case Fan | Arctic | P12 Silent*3
@@ -50,7 +50,6 @@ Mechrevo Code01 Ver2.0
 - R7 6800H
 - 16G 4800Mhz DDR5 RAM
 - Zhitai PC005 1T
-- 京造 麒麟 1T
 - 2560*1600 120Hz
 
 
