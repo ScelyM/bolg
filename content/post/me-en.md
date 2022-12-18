@@ -11,7 +11,7 @@ draft: false
 ## Playing
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
-- Apex Legends
+- Battlefield 2042
 
 ## Tags
 - music games

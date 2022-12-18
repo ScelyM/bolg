@@ -40,7 +40,7 @@ draft: false
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
-- 偶尔会玩一会Apex Legends和EZ2ON，除此之外很少会玩别的游戏
+- 偶尔会玩一会战地2042和EZ2ON，除此之外很少会玩别的游戏
 
 ## 自我标签
 - 音乐游戏
