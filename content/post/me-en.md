@@ -24,9 +24,9 @@ draft: false
 
 type | Brand | Info
 ---|---|---
-CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-18
+CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 MotherBoard | MSI | B550 Unify
-RAM | Kingbank | 3600 16G*2 @3866 18-22-22-42 1.45v
+RAM | Kingbank | 3600 16G*2
 GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
 PSU | ADATA | Core Reactor 750G
@@ -36,7 +36,7 @@ SSD | KingBank | KP230Pro 2T
 SSD | ADATA | SX8200pro 1T
 Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
-Case Fan | Arctic | P12 Silent*3
+Case Fan | ThermalRight | C12C*3
 keyboard | Niz | 87key@35g
 mouse | ZOWIE | EC1A
 headset | HyperX | Cloud II
