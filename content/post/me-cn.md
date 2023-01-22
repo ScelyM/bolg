@@ -67,14 +67,13 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 固态1 | 致钛 | PC005 512G
 固态2 | 金百达 | KP230Pro 2T
 固态3 | 金百达 | KP230Pro 2T
-固态4 | 威刚 | SX8200pro 1T
 机箱 | 微星 | MPG GUNGNIR 110L/氪金枪air
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | 利民 | C12C*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 卓威 | EC1A
+鼠标 | 赛睿 | Prime无线
 鼠标垫 | 卓威 | GS-R
-耳机 | HyperX | Cloud II
+耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F
 
 

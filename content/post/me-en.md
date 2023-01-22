@@ -22,7 +22,7 @@ draft: false
 
 ## Desktop
 
-type | Brand | Info
+---|---|---
 ---|---|---
 CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 MotherBoard | MSI | B550 Unify
@@ -33,13 +33,12 @@ PSU | ADATA | Core Reactor 750G
 SSD | ZhiTai | PC005 512G
 SSD | KingBank | KP230Pro 2T
 SSD | KingBank | KP230Pro 2T
-SSD | ADATA | SX8200pro 1T
 Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
 Case Fan | ThermalRight | C12C*3
 keyboard | Niz | 87key@35g
-mouse | ZOWIE | EC1A
-headset | HyperX | Cloud II
+mouse | Steelseries | Prime Wireless
+headset | SENNHEISER | HD280Pro
 monitar | Acer | XV252Q F
 
 
