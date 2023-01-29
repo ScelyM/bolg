@@ -71,7 +71,7 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | 利民 | C12C*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 赛睿 | Prime无线
+鼠标 | 微软 | Pro IE
 鼠标垫 | 卓威 | GS-R
 耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F
@@ -80,10 +80,10 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 
 ## 笔记本电脑
 
-机械革命 Code01 Ver2.0
-- R7 6800H
-- 16G 4800Mhz DDR5
-- 致钛 PC005 1T
+微星 Summit E16 Flip
+- I5 1155G7
+- RTX3050
+- 16G 4266Mhz LPDDR4
 - 2560*1600 120Hz
 
 
@@ -92,8 +92,8 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 - QQ:1160638531
 - 群:836977344
 - 邮箱
-  - Scely694562@gmail.com
   - QQ邮箱见上方
+  - Scely694562@gmail.com(不常用)
 - 直播间
   - https://live.bilibili.com/12447
 - [Discord channel](discord.gg/9mp6h6W)

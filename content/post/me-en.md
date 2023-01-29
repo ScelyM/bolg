@@ -37,7 +37,7 @@ Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
 Case Fan | ThermalRight | C12C*3
 keyboard | Niz | 87key@35g
-mouse | Steelseries | Prime Wireless
+mouse | Microsoft | Intelligent Pro
 headset | SENNHEISER | HD280Pro
 monitar | Acer | XV252Q F
 
@@ -45,10 +45,10 @@ monitar | Acer | XV252Q F
 
 ## Laptop
 
-Mechrevo Code01 Ver2.0
-- R7 6800H
-- 16G 4800Mhz DDR5 RAM
-- Zhitai PC005 1T
+MSI Summit E16 Flip
+- I5 1155G7
+- RTX3050
+- 16G 4266Mhz LPDDR4 RAM
 - 2560*1600 120Hz
 
 
@@ -56,6 +56,7 @@ Mechrevo Code01 Ver2.0
 
 - Tencent QQ:1160638531
 - Email
+  - 1160638531@qq.com(mostly)
   - Scely694562@gmail.com
 - stream
   - https://live.bilibili.com/12447
