@@ -40,7 +40,7 @@ draft: false
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
-- 偶尔会玩一会战地2042和EZ2ON，除此之外很少会玩别的游戏
+- 随便玩玩
 
 ## 自我标签
 - 音乐游戏
@@ -71,7 +71,7 @@ CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
 机箱风扇 | 利民 | C12pro 背部出风
 机箱风扇 | 利民 | C12C*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 微软 | Pro IE
+鼠标 | 卓威 | EC1-A
 鼠标垫 | 卓威 | GS-R
 耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F

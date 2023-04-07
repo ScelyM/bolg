@@ -11,7 +11,7 @@ draft: false
 ## Playing
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
-- Battlefield 2042
+- Anything without *RPG(JRPG,MMORPG,etc.)
 
 ## Tags
 - music games
@@ -37,7 +37,7 @@ Case | MSI | MPG GUNGNIR 110L
 Case Fan | ThermalRight | C12pro
 Case Fan | ThermalRight | C12C*3
 keyboard | Niz | 87key@35g
-mouse | Microsoft | Intelligent Pro
+mouse | Zowie | EC1-A
 headset | SENNHEISER | HD280Pro
 monitar | Acer | XV252Q F
 
