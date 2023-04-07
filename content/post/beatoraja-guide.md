@@ -1,6 +1,6 @@
 ---
 title: "Beatoraja Guide"
-date: 2022-02-08
+date: 2023-04-01
 draft: false
 ---
 

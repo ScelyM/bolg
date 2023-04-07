@@ -20,6 +20,19 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 
 ---
 
+**通知：**
+
+我将不会作为队员在接下来的BOF类活动中出现，但我会对会场中的曲目写差分。
+
+原因是这条评语未被删除。
+
+![](https://s3.bmp.ovh/imgs/2022/02/582d99db6412fb63.png)
+
+from BOFXVII, Regain.
+
+此通知有效至BOF采取了更合理的投票方式，或是删除了此条评语为止。
+
+
 ## chart list
 
 from 23.4.1, I switch chart list to OneDrive Documents.
