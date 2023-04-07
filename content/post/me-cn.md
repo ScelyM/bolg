@@ -40,7 +40,7 @@ draft: false
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
-- 随便玩玩
+- Battlefield 2042
 
 ## 自我标签
 - 音乐游戏
@@ -58,20 +58,20 @@ draft: false
 
 ---|---|---
 ---|---|---
-CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
-主板 | 微星 | B550 Unify
-内存 | 金百达 | 银爵 3600 16G*2
+CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
+主板 | ROG | Strix B650-A
+内存 | 金百达 | 银爵 6000 C30 16G*2
 显卡 | 憾讯 | RX6600XT Red Devil
 散热 | 利民 | PA120 Black @中置利民B12
 电源 | 威刚 | Core Reactor 750G
 固态1 | 致钛 | PC005 512G
 固态2 | 金百达 | KP230Pro 2T
 固态3 | 金百达 | KP230Pro 2T
-机箱 | 微星 | MPG GUNGNIR 110L/氪金枪air
-机箱风扇 | 利民 | C12pro 背部出风
-机箱风扇 | 利民 | C12C*3 前部进风
+机箱 | 九州风神 | 幻城白/CK500W
+机箱风扇 | 利民 | B14E 背部出风
+机箱风扇 | 利民 | B12*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 卓威 | EC1-A
+鼠标 | 达摩鲨 | M3
 鼠标垫 | 卓威 | GS-R
 耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F

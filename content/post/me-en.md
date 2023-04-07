@@ -11,6 +11,7 @@ draft: false
 ## Playing
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive
+- Battlefield 2042
 - Anything without *RPG(JRPG,MMORPG,etc.)
 
 ## Tags
@@ -24,8 +25,8 @@ draft: false
 
 ---|---|---
 ---|---|---
-CPU | AMD | Ryzen 5 5900X @PBO +200MHz curve-15
-MotherBoard | MSI | B550 Unify
+CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
+MotherBoard | ROG | Strix B650-A
 RAM | Kingbank | 3600 16G*2
 GPU  | Powercolor | RX6600XT Red Devil
 Cooler | ThermalRight | PA120 Black @Mid ThermalRight B12 
@@ -33,11 +34,11 @@ PSU | ADATA | Core Reactor 750G
 SSD | ZhiTai | PC005 512G
 SSD | KingBank | KP230Pro 2T
 SSD | KingBank | KP230Pro 2T
-Case | MSI | MPG GUNGNIR 110L
-Case Fan | ThermalRight | C12pro
-Case Fan | ThermalRight | C12C*3
+Case | Deepcool | CK500
+Case Fan | ThermalRight | B14E
+Case Fan | ThermalRight | B12*3
 keyboard | Niz | 87key@35g
-mouse | Zowie | EC1-A
+mouse | Darmoshark | M3
 headset | SENNHEISER | HD280Pro
 monitar | Acer | XV252Q F
 
