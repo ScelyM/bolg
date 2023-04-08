@@ -1,5 +1,5 @@
 ---
-title: "Sabuns"
+title: "谱面列表"
 date: 2022-02-04
 draft: False
 ---

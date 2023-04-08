@@ -7,6 +7,7 @@ draft: false
 # Beatoraja使用教程
 
     我也不知道我为什么要写这个。
+    最近更新：23.4.8 删除了bat版本的相关教程。
 
 <!--more-->
 
@@ -52,7 +53,7 @@ Beatoraja强制需要64位系统。如果你不清楚如何查看64/32位系统�
 
 我根据之前了解的情况，列出了推荐配置一个表格供大家参考。
 
-~~2021年了，正常的电脑都能用好吗。~~
+~~2023年了，正常的电脑都能用好吗。~~
 
 / | 最低配置 | 推荐配置(720p)
 ---|---|---
@@ -61,7 +62,7 @@ CPU性能 | 酷睿初代以后的Intel | 酷睿4代以后的Intel/锐龙以后�
 内存 | 2G*2 双通道 | 4G*2 双通道
 硬盘空间 | 20G可用空间 | 150G以上可用空间
 
-以上配置仅代表可以流畅游玩Beatoraja以及**考虑到噪音**的大部分情况，特殊情况如4K分辨率/特殊谱面不包含在内。
+以上配置仅代表可以流畅游玩Beatoraja的大部分情况，特殊情况如4K分辨率/特殊谱面不包含在内。
 
 也就是说，目前大部分的电脑都可以流畅运行Beatoraja。极少数的配置不足玩家建议游玩需求配置更低的Lunatic Rave 2。[LR2教程](https://hakula.xyz/tutorial/lr2.html)by Hakula。
 
@@ -69,18 +70,17 @@ CPU性能 | 酷睿初代以后的Intel | 酷睿4代以后的Intel/锐龙以后�
 
 ### 1.2 软件配置
 
-Beatoraja需要有Java8以上环境才可以运行。
+Beatoraja需要有Java8以上环境才可以运行。由于Jre版本内置了Java，不需要额外下载，但页面依旧提供下载方式。
 
-[Java8 64位官方下载地址](https://www.java.com/en/download/manual.jsp)
+[Java8 64位官方下载地址](https://www.java.com/en/download/manual.jsp) （教程内不需要）
 
 [Beatoraja官方地址](https://mocha-repository.info/download.php) (日文)
 
-- (0.8.1)Beatoraja下载页面中有个 __-jre-win64__ 版本，这个版本可以免去安装Java的过程，缺点是没有命令提示符窗口用来查看状态。在接下来的篇幅中简称exe版。
-- 通常版在接下来的篇幅中简称bat版。
+- (0.8.5)点击**beatoraja-*最新版本号*-jre-win64**下载。
 
-[国内镜像地址](https://bms.cosmiccat.top/bms/BMS%20Player/) (感谢anshi和Hakula！)
+[OneDrive分流地址](https://1drv.ms/u/s!AtWwFFP6WrppmMo3Y3zKBVU9OsmATw?e=8kkhgY) 
 
-- (0.8.1)文件夹内两个压缩包对应官方地址内两个包。
+- (0.8.5)暂不提供其他镜像地址。
 
 ---
 
@@ -88,12 +88,7 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 {{< admonition tip "Tips" false >}}此处游戏内演示用的皮肤为Type-M，不提供下载方式。{{< /admonition >}}
 
-- exe版打开Beatoraja.exe文件
-
-- bat版打开Beatoraja-config.bat文件，首先弹出的是命令提示符窗口，这个窗口会自动跑一些指令，稍等片刻。
-
-    - 可能会出现的情况1：窗口闪了一下，消失了。解决办法：卸载已安装的32位Java，去上面Java下载页面中下载 __Windows Offline (64-bit)__ 文件
-    - 情况2：窗口卡了很久没有反应。解决方法：查看命令提示符窗口的标题栏中是否在前面有 __“选择”__ 两字，如果有的话鼠标点击窗口并回车即可。
+- 打开Beatoraja.exe文件
 
 没什么意外情况的话，来到了标题为 “Beatoraja *版本号* configuration” 的窗口。
 
@@ -103,9 +98,9 @@ Beatoraja需要有Java8以上环境才可以运行。
 
 ### 2.1 用户名
 
-在界面的最上面一行，Player ID后面有个输入框，输入你的名字。
+在界面的最上面一行，Player ID后面有个输入框，输入你的名字。（也可以不输入，没什么意义）
 
-- 有些皮肤会读取你的这个名字显示在某些界面上，比如选歌界面。
+- 有些皮肤会读取你的这个名字显示在某些界面上，比如选歌界面，或decide界面会显示一行player：xxx。
 - 此选项和Internet ranking无关。
 
 ---
@@ -120,17 +115,27 @@ Display Mode中有三个选项：FullScreen/Borderless/Window，分别对应全�
 
 Resolution意为分辨率，我个人的设置是720p窗口化，对于大部分针对1080p所作的皮肤来说会产生不对等缩放的问题。
 
-Vsync开关是垂直同步开关，不建议打开。
+Vsync开关是垂直同步开关，**不建议打开**。
 
 MAX FPS**建议**设置为500。
 
 下面是BGA开关/miss层显示时间/BGA大小。不建议在此处调整miss层显示时间以外的设置。
 
+{{< admonition tip "新增必须调整项目" false >}}调整输入采样率{{< /admonition >}}
+
+- (0.8.5)之前的教程中并未注意此项目，并非新增功能。
+
+Input选项卡中将MODE切换至7keys
+
+下一行的Minimum input duration(ms)调至1
+
+切换至其他你所游玩的MODE，同样检查此项是否为1
+
 ---
 
 ### 2.3 导入曲包及难度表
 
-**曲包可以在[https://bms.cosmiccat.top/](https://bms.cosmiccat.top/)下载。** 推荐下载“Satellite+通常难易度+发狂难易度”曲包，注意更新日期。
+**曲包可以在[https://bms.cosmiccat.top/](https://bms.cosmiccat.top/)下载。** 
 
 选项卡切到Resource栏。
 
@@ -145,13 +150,12 @@ BMS Path为曲包目录，Table URL为难度表链接。
 - 确定[*.bms]文件都在同一个层级下。如 __['选定文件夹'/'分类'/'曲名'/'BMx文件']__。
 
     - BMS读取的方式是按层级，以上面的格式为例子，如果出现了一个 __['选定文件夹'/'曲名'/'BMx文件']__ 的文件，则下一级的所有文件夹都不会被读取。
+    - 不要选择 __['选定文件夹'/'BMx文件']__ 的文件夹。
 
         - 此处BMx文件包括:BMS/BME/BML/PMS等支持格式。
         - 此条规则适用于LR2。
 
-    - bat版可以通过命令提示符的窗口来确认进度。
-
-        - 警告信息和你会玩到的大部分谱面无关，不用在意，可以通过文件夹名字判断导入程度。
+    - 曲目较多时会导入很久，程序体现为卡死，但实际并未卡死。
 
 删除方法为点击目录所在行，高亮后点击右方减号。~~真的要写这句吗~~
 
@@ -193,7 +197,7 @@ Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为
 
 其他界面的皮肤切换思路相同，对应名字为Select-选歌界面/Decide-点击谱面后的过渡界面/Result-结算界面。
 
-{{< admonition info warning success "Tips" false >}}设置完毕后点击右上角update按钮才会更新。在游戏中对皮肤做出的更改切换场景后才会显示。{{< /admonition >}}
+{{< admonition tip "Tips" false >}}设置完毕后点击右上角update按钮才会更新。在游戏中对皮肤做出的更改切换场景后才会显示。{{< /admonition >}}
 
 ---
 
@@ -219,9 +223,9 @@ IR选项卡可以连接Internet Ranking。一般来说有两个网可以连：Mo
 
 按play进入游戏后，确保输入法关闭的情况下点击主键盘6键(不要使用小键盘)，进入按键设置界面。
 
-默认的界面是5keys设置，需要按键盘的方向键右切到7keys。
+默认的界面是5keys设置，需要按键盘的右方向键切到7keys。
 
-![按键设置](https://ftp.bmp.ovh/imgs/2021/01/cf47aea314596fb8.png)
+![按键设置](https://s1.ax1x.com/2023/04/08/pp7o06e.png)
 
 设置方法为回车高亮对应光标后点击对应按键。
 
@@ -298,10 +302,6 @@ A|S|D|F|J|[Space]|K|L|;
 
 ## 3. 疑难解答
 
-Q：双击bat文件，cmd窗口闪退该如何处理？
-
-A：检查本机安装的Java版本。近期出现了不止一位的安装了Java15并忘记的用户，通过检查卸载Java8以外版本即可解决。另一种解决办法是挂载javafx包，不在此做解答。
-
 Q：点击play弹出如下界面该如何处理？
 
 ![you are busted!](https://ftp.bmp.ovh/imgs/2021/01/bf114ce93778956d.png)
@@ -310,7 +310,7 @@ A：制作方并不想让Beatoraja成为IIDX或者DJMAX等商业游戏的模拟�
 
 Q：点击谱面后游戏闪退，仅剩Configuration界面和命令提示符界面。
 
-A：查看CMD窗口中信息，如果有“音源读取失败”字样则尝试使用管理员权限运行程序。
+A：尝试使用管理员权限运行程序。
 
 - BGA问题在beatoraja中几乎不会出现，如果确定为BGA问题则可以尝试下载K-lite视频解码包，[官方下载地址](https://www.codecguide.com/download_kl.htm)，一般来说Standard以上的包即可解决。如果还是不能解决的话可以尝试关闭BGA。
 
@@ -327,6 +327,8 @@ A：联网需要一点时间，一般是1分钟左右。如果长时间卡死或
 Q：打开程序后无响应。
 
 A：麻烦说的详细一点，谢谢。或者可以找我详细询问。
+
+![详细一点.jpg](https://s1.ax1x.com/2023/04/08/pp7Ioi6.jpg)
 
 ---
 
@@ -350,7 +352,9 @@ BMS交流群：176763307
     Mahua
     rexcape
 
-by Scely 2021.1.30 update 2022.02.09
+by Scely 2021.1.30 
+
+last update 2023.04.08
 
 2021.10.15 我退出了上面的“BMS交流群”，群内发生的事与我无关。
 
