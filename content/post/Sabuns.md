@@ -35,6 +35,8 @@ from BOFXVII, Regain.
 
 ## chart list
 
+自23.4.1起，谱面列表切换至OneDrive在线文档功能，请点击下方按钮跳转。
+
 from 23.4.1, I switch chart list to OneDrive Documents.
 
 last update:
@@ -46,4 +48,4 @@ link:
 - [chart list](https://1drv.ms/x/s!AtWwFFP6WrppltpqFHQ3s_5iuojGbg?e=eBihM3)
 - [Download link](https://1drv.ms/u/s!AtWwFFP6WrppkIsURS6a5_I8jWkeeg)
 - [donate](https://afdian.net/@Scely) via 爱发电 (website was chinese only)
-- Contact me [here[EN ver]](https://scelym.github.io/post/me/#how-to-find-me) or [here[CN ver]](https://scelym.github.io/post/me-cn/#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
+- Contact me [here](https://scelym.github.io/post/me/#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)

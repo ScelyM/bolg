@@ -18,11 +18,11 @@ draft: false
 
   **我已声明不再参与BOF，理由见[差分页面](https://scelym.github.io/post/sabuns/)**
 
-  FPS方面，平时以csgo为主，有时候会打打apex，对别的fps不是很感兴趣。
+  FPS方面，平时以csgo为主，有时候会打打2042，对别的fps不是很感兴趣。
 
   其他类型的游戏基本不会碰，拒绝在游戏里上班。
 
-  硬件方面，一年换20次硬件，别的不说了。
+  硬件方面，一年换20次硬件，欢迎询问硬件方面的问题。
 
   开通了爱发电，建了一个小群，写了一份beatoraja的教程，做了一点微小的工作。
 
@@ -91,12 +91,12 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
 
 - QQ:1160638531
 - 群:836977344
-- 邮箱
+- 邮箱/Email
   - QQ邮箱见上方
   - Scely694562@gmail.com(不常用)
-- 直播间
+- 直播间/Stream
   - https://live.bilibili.com/12447
-- [Discord channel](discord.gg/9mp6h6W)
+- [Discord channel](discord.gg/9mp6h6W)(不常用)
 - [Twitter](https://twitter.com/Scelytheboomer)
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[不使用的微博](https://weibo.com/2485089434/profile)~~
