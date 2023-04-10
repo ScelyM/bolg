@@ -92,7 +92,7 @@ Beatoraja需要有Java8以上环境才可以运行。由于Jre版本内置了Jav
 
 没什么意外情况的话，来到了标题为 “Beatoraja *版本号* configuration” 的窗口。
 
-![configuration界面](https://s3.bmp.ovh/imgs/2022/02/ca99354c22acdee0.png)
+![configuration界面](https://s1.ax1x.com/2023/04/08/ppH36Qs.png)
 
 ---
 
@@ -304,7 +304,7 @@ A|S|D|F|J|[Space]|K|L|;
 
 Q：点击play弹出如下界面该如何处理？
 
-![you are busted!](https://ftp.bmp.ovh/imgs/2021/01/bf114ce93778956d.png)
+![you are busted!](https://s1.ax1x.com/2023/04/08/ppH3cyn.png)
 
 A：制作方并不想让Beatoraja成为IIDX或者DJMAX等商业游戏的模拟器，一旦检测到有商业解析BMS的导入就会强制不能运行。解决办法为窗口中所说：移除含有商业解析BMS的目录并点击Rebulid BMS Database。
 
