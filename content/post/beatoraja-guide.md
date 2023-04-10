@@ -275,7 +275,7 @@ A|S|D|F|J|[Space]|K|L|;
 
 ![start+select](https://s3.bmp.ovh/imgs/2022/02/ce49732e6eb105b8.png)
 
-在此解释一下对best clear功能，开了这个选项后游戏中会同步跑所有血条：EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。演示皮肤中可以调整最低下到哪个血条。
+在此解释一下best clear功能，开了这个选项后游戏中会同步跑所有血条：Full-Combo/EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。演示皮肤中可以调整最低下到哪个血条。
 
 - 本人并不使用IR功能，所以打开best clear会对某个网上传成绩的影响并不知情。
 
@@ -294,7 +294,7 @@ A|S|D|F|J|[Space]|K|L|;
 
 ### 2.8 游玩
 
-游戏中的谱面标级并无依据可循，做谱人想写什么就写什么。所以请参照难度表游戏。
+游戏中的谱面标级并无依据可循，做谱人想写什么就写什么。所以如果想找到适合自己水平的谱面，请参照难度表游戏。
 
 {{< admonition info warning success "Tips" false >}}无意义的寻找认同感并不会对你的水平有实际改善。{{< /admonition >}}
 
@@ -304,7 +304,7 @@ A|S|D|F|J|[Space]|K|L|;
 
 Q：点击play弹出如下界面该如何处理？
 
-![you are busted!](https://s1.ax1x.com/2023/04/08/ppH3cyn.png)
+![you are busted!](https://s1.ax1x.com/2023/04/08/ppHGpNT.png)
 
 A：制作方并不想让Beatoraja成为IIDX或者DJMAX等商业游戏的模拟器，一旦检测到有商业解析BMS的导入就会强制不能运行。解决办法为窗口中所说：移除含有商业解析BMS的目录并点击Rebulid BMS Database。
 
