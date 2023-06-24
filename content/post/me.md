@@ -26,21 +26,13 @@ draft: false
 
   开通了爱发电，建了一个小群，写了一份beatoraja的教程，做了一点微小的工作。
 
-## 关于BMS盘的声明
-
-一开始是几个人问我能不能把硬盘寄过来我给他传大包，下载费劲，我这边正好有闲置的硬盘打算出售，这项服务就这么产生了。后来定了一下基本规范：
-
-- 买家需要一块硬盘
-- 买家在需要硬盘的同时需要BMS曲包
-- 由买家来选硬盘，选好后我来购买，到货后我来向硬盘里传数据
-- 报价固定为硬盘购买价格+25，顺丰包邮
-
-本人仅在硬盘购买时期对买家的选择产生影响，偶尔会出现的现货为手边闲置硬盘。
-
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
-- Counter-Strike : Global Offensive
-- Battlefield 2042
+- Counter-Strike : Global Offensive @ Global Elite 2023.5.20
+- Subs
+  - Battlefield 2042
+  - EZ2ON REBOOT:R
+  - Crypt of the NecroDancer
 
 ## 自我标签
 - 音乐游戏
@@ -59,17 +51,17 @@ draft: false
 ---|---|---
 ---|---|---
 CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
-主板 | ROG | Strix B650-A
-内存 | 金百达 | 银爵 6000 C30 16G*2
+主板 | 微星 | B650 DIY-APE
+内存 | 宏碁 | 掠夺者 6000 C30 16G*2
 显卡 | 憾讯 | RX6600XT Red Devil
-散热 | 利民 | PA120 Black @中置利民B12
-电源 | 威刚 | Core Reactor 750G
+散热 | 利民 | PS120 @中置利民B12
+电源 | 振华 | Leadex G 550W
 固态1 | 致钛 | PC005 512G
 固态2 | 金百达 | KP230Pro 2T
 固态3 | 金百达 | KP230Pro 2T
-机箱 | 九州风神 | 幻城白/CK500W
-机箱风扇 | 利民 | B14E 背部出风
-机箱风扇 | 利民 | B12*3 前部进风
+机箱 | 先马 | 易大师进化版
+机箱风扇 | 利民 | B12 背部出风
+机箱风扇 | 利民 | S12-S*3 前部进风
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
 鼠标 | 达摩鲨 | M3
 鼠标垫 | 卓威 | GS-R
@@ -77,15 +69,12 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
 显示器 | 宏碁 | XV252Q F
 
 
-
 ## 笔记本电脑
 
-微星 Summit E16 Flip
-- I5 1155G7
-- RTX3050
-- 16G 4266Mhz LPDDR4
-- 2560*1600 120Hz
-
+GPD WIN 4
+- R7 6800U
+- 16G LPDDR5 6400
+- 1T SSD
 
 ## 联系方式
 

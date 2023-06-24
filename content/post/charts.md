@@ -40,10 +40,10 @@ from BOFXVII, Regain.
 from 23.4.1, I switch chart list to OneDrive Documents.
 
 last update:
-- 23.4.11 4㎓ s-don vs. 翡乃イスカ - Trrricksters!!
-- 23.3.24 12㎓ かたぎり - STRONG 280
-- 23.1.31 2㎓ reveL [witness]
-- 22 11.14 3㎓ slic.hertz [Live]
+- 23.4.11 7G s-don vs. 翡乃イスカ - Trrricksters!!
+- 23.3.24 12G かたぎり - STRONG 280
+- 23.1.31 2G reveL [witness]
+- 22 11.14 3G slic.hertz [Live]
 
 link:
 - [chart list](https://1drv.ms/x/s!AtWwFFP6WrppltpqFHQ3s_5iuojGbg?e=eBihM3)
