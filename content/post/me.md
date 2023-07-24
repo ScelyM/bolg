@@ -50,15 +50,15 @@ draft: false
 
 ---|---|---
 ---|---|---
-CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
+CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 主板 | 微星 | B650 DIY-APE
 内存 | 宏碁 | 掠夺者 6000 C30 16G*2
-显卡 | 憾讯 | RX6600XT Red Devil
+显卡 | 讯景 | RX6700XL
 散热 | 利民 | PS120 @中置利民B12
 电源 | 振华 | Leadex G 550W
-固态1 | 致钛 | PC005 512G
+固态1 | 宏碁 | GM7 1T
 固态2 | 金百达 | KP230Pro 2T
-固态3 | 金百达 | KP230Pro 2T
+固态3 | 金百达 | KP230Pro 2T @PCIe x1 转接卡
 机箱 | 先马 | 易大师进化版
 机箱风扇 | 利民 | B12 背部出风
 机箱风扇 | 利民 | S12-S*3 前部进风
@@ -71,10 +71,11 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~21
 
 ## 笔记本电脑
 
-GPD WIN 4
-- R7 6800U
+机械革命 无界14+
+- R7 7840HS
 - 16G LPDDR5 6400
 - 1T SSD
+- 2560*1600 120Hz
 
 ## 联系方式
 
