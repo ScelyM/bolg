@@ -22,7 +22,7 @@ Unless we can get rid of such ridiculous vote comment by upgrading or remaking o
 
 **通知：**
 
-我将不会作为队员在接下来的BOF类活动中出现，但我会对会场中的曲目写差分。
+我将不会作为队员在接下来的BOF系列活动中出现，但不影响我对会场中的曲目写差分。
 
 原因是这条评语未被删除。
 
@@ -37,13 +37,14 @@ from BOFXVII, Regain.
 
 自23.4.1起，谱面列表切换至OneDrive在线文档功能，请点击下方按钮跳转。
 
-from 23.4.1, I switch chart list to OneDrive Documents.
+from 23.4.1, I switch chart list to OneDrive Documents. Please check "chart list" link below.
 
 last update:
-- 23.4.11 7G s-don vs. 翡乃イスカ - Trrricksters!!
-- 23.3.24 12G かたぎり - STRONG 280
-- 23.1.31 2G reveL [witness]
-- 22 11.14 3G slic.hertz [Live]
+- 23.8.25   M2U - Mare Maris
+- 23.4.11   s-don vs. 翡乃イスカ - Trrricksters!!
+- 23.3.24   かたぎり - STRONG 280
+- 23.1.31   reveL [witness]
+- 22 11.14  slic.hertz [Live]
 
 link:
 - [chart list](https://1drv.ms/x/s!AtWwFFP6WrppltpqFHQ3s_5iuojGbg?e=eBihM3)
