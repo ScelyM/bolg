@@ -29,10 +29,7 @@ draft: false
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
 - Counter-Strike : Global Offensive @ Global Elite 2023.5.20
-- Subs
-  - Battlefield 2042
-  - EZ2ON REBOOT:R
-  - Crypt of the NecroDancer
+  - Counter-Strike 2
 
 ## 自我标签
 - 音乐游戏
@@ -53,7 +50,7 @@ draft: false
 CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 主板 | 微星 | B650 DIY-APE
 内存 | 宏碁 | 掠夺者 6000 C30 16G*2
-显卡 | 讯景 | RX6700XL
+显卡 | 讯景 | RX5700XT THICC 3
 散热 | 利民 | PS120 @中置利民B12
 电源 | 振华 | Leadex G 550W
 固态1 | 宏碁 | GM7 1T
