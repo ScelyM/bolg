@@ -51,13 +51,13 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 主板 | 微星 | MAG B650 TOMAHAWK
 内存 | 宏碁 | 掠夺者 6000 C30 16G*2
 显卡 | 讯景 | RX6700XL
-散热 | 利民 | PS120 @中置利民B12
+散热 | 利民 | PS120 @Arctic P12 MAX
 电源 | 振华 | Leadex G 550W
 固态1 | 宏碁 | GM7 1T
 固态2 | 宏碁 | GM7 4T
-固态3 | 金百达 | KP230Pro 2T @PCIe x1 转接卡
+固态3 | 金百达 | KP230Pro 2T
 机箱 | 微星 | Creator400M
-机箱风扇 | 利民 | B14E
+机箱风扇 | Arctic | P14 Silent *3
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
 鼠标 | 赛睿 | Prime无线 3D打印版
 鼠标垫 | 卓威 | GS-R
