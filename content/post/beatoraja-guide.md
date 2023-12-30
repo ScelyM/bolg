@@ -101,7 +101,7 @@ Beatoraja需要有Java8以上环境才可以运行。由于Jre版本内置了Jav
 在界面的最上面一行，Player ID后面有个输入框，输入你的名字。（也可以不输入，没什么意义）
 
 - 有些皮肤会读取你的这个名字显示在某些界面上，比如选歌界面，或decide界面会显示一行player：xxx。
-- 此选项和Internet ranking无关。
+- 此选项和Internet ranking（网络相关功能）无关。
 
 ---
 
@@ -135,7 +135,7 @@ Input选项卡中将MODE切换至7keys
 
 ### 2.3 导入曲包及难度表
 
-**曲包可以在[https://bms.cosmiccat.top/](https://bms.cosmiccat.top/)下载。** 
+**曲包可以在[https://bms.iidx.ca/（感谢anshi）](https://bms.iidx.ca/)下载。** 
 
 选项卡切到Resource栏。
 
