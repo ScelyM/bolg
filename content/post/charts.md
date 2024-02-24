@@ -40,15 +40,7 @@ from BOFXVII, Regain.
 from 23.4.1, I switch chart list to OneDrive Documents. Please check "chart list" link below.
 
 last update:
-- 23.12.30  Was ist dein Lieblingsfah
-- 23.11.21  Re:PR0DUCT1ON [DECADES]
-- 23.11.18  〇、[IC]
-- 23.11.18  Demon's Roar [†]
-- 23.10.24  Miracletale [mirage]
-- 23.10.14  Fractal(i)xis [differential]
-- 23.8.25   M2U - Mare Maris
-- 23.4.11   s-don vs. 翡乃イスカ - Trrricksters!!
-- 23.3.24   かたぎり - STRONG 280
+- 24.2.24   Mirror [Lair]
 
 link:
 - [chart list](https://1drv.ms/x/s!AtWwFFP6WrppltpqFHQ3s_5iuojGbg?e=eBihM3)
