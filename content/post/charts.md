@@ -40,6 +40,8 @@ from BOFXVII, Regain.
 from 23.4.1, I switch chart list to OneDrive Documents. Please check "chart list" link below.
 
 last update:
+- 24.4.18   かゆき - Blazing：Storm
+- 24.4.1    ESTi - HELIX
 - 24.2.24   Mirror [Lair]
 
 link:
