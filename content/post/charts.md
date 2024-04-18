@@ -41,6 +41,7 @@ from 23.4.1, I switch chart list to OneDrive Documents. Please check "chart list
 
 last update:
 - 24.4.18   かゆき - Blazing：Storm
+- 24.4.14   takehirotei vs Finite Limit - Towards the 300
 - 24.4.1    ESTi - HELIX
 - 24.2.24   Mirror [Lair]
 
