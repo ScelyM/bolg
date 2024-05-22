@@ -83,7 +83,7 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 - 直播间/Stream
   - https://live.bilibili.com/12447
 - [Discord channel](discord.gg/9mp6h6W)(不常用)
-- [Twitter](https://twitter.com/Scelytheboomer)
+- [Twitter](https://twitter.com/ScelyL)
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[不使用的微博](https://weibo.com/2485089434/profile)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
