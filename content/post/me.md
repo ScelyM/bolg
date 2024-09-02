@@ -16,8 +16,6 @@ draft: false
   
   音乐游戏方面，出名的可能是以谱师身份参加了好几次BMS活动，商业相关的说了可能也不知道。
 
-  **我已声明不再参与BOF，理由见[差分页面](https://scelym.github.io/post/sabuns/)**
-
   FPS方面，平时以csgo为主，有时候会打打2042，对别的fps不是很感兴趣。
 
   其他类型的游戏基本不会碰，拒绝在游戏里上班。
@@ -28,8 +26,10 @@ draft: false
 
 ## 玩什么
 - BMS @ Beatoraja @ Genoside2018 SP★10
+  - BOFXVII 总分第三名 Regain 的SP谱面作者
 - Counter-Strike : Global Offensive @ Global Elite 2023.5.20
-  - Counter-Strike 2
+  - 2020年秋完美城市赛哈尔滨站冠军
+- Counter-Strike 2 @ 21700ELO 2024.1.18
 
 ## 自我标签
 - 音乐游戏
@@ -37,11 +37,6 @@ draft: false
 - 硬件
 - 音乐游戏谱面制作
 - ~~我不想说~~
-
-## 相关成就
-- BOFXVII 总分第三名 Regain 的SP谱面作者
-- 2020年秋CSGO完美城市赛哈尔滨站冠军
-- 因保密协议不得透露商业谱面相关。~~具体条款没仔细看~~
 
 ## 电脑配置
 
@@ -51,15 +46,15 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 主板 | 微星 | MAG B650 TOMAHAWK
 内存 | 宏碁 | 掠夺者 6000 C30 16G*2
 显卡 | 讯景 | RX6700XL
-散热 | 利民 | PS120 @Arctic P12 MAX
+散热 | 利民 | PS120 @银欣 SF120B
 电源 | 振华 | Leadex G 550W
 固态1 | 宏碁 | GM7 1T
 固态2 | 宏碁 | GM7 4T
 固态3 | 金百达 | KP230Pro 2T
 机箱 | 微星 | Creator400M
-机箱风扇 | Arctic | P14 Silent *3
+机箱风扇 | 银欣 | SF140B *3
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 赛睿 | Prime无线 3D打印版
+鼠标 | 卓威 | EC1无线 3D打印版
 鼠标垫 | 卓威 | GS-R
 耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F
@@ -67,9 +62,9 @@ CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
 
 ## 笔记本电脑
 
-机械革命 无界14+
-- R7 7840HS
-- 16G LPDDR5 6400
+HP ENVY X360 14 2024
+- R7 8840HS
+- 32G LPDDR5 6400
 - 1T SSD
 - 2560*1600 120Hz
 
