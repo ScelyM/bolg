@@ -13,6 +13,7 @@ draft: False
 from 23.4.1, I switch chart list to OneDrive Documents. Please check "chart list" link below.
 
 last update:
+- 24.10.31  [BOF:TT] Χάρων
 - 24.9.5    Ring feat.SLSMusic - 《投影》 ～ Oh My Baby Doll
 - 24.6.29   Blacklolita - [CRYSTAL_ACCESS]
 - 24.4.20   Feryquitous feat.藍月なくる - 月詠に鳴る

@@ -82,5 +82,5 @@ HP ENVY X360 14 2024
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[不使用的微博](https://weibo.com/2485089434/profile)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
-- [爱发电](https://afdian.net/@Scely)
+- [爱发电](https://afdian.com/@Scely)
 
