@@ -42,29 +42,29 @@ draft: false
 
 ---|---|---
 ---|---|---
-CPU | AMD | Ryzen 5 7600 @PBO +200MHz curve-13~18
+CPU | AMD | Ryzen 5 9700X @PBO +200MHz curve-13
 主板 | 微星 | MAG B650 TOMAHAWK
 内存 | 宏碁 | 掠夺者 6000 C30 16G*2
-显卡 | 讯景 | RX6700XL
-散热 | 利民 | PS120 @银欣 SF120B
-电源 | 振华 | Leadex G 550W
+显卡 | AMD | RX6800 公版
+散热 | 九州风神 | AK400
+电源 | 九州风神 | PQ650G
 固态1 | 宏碁 | GM7 1T
 固态2 | 宏碁 | GM7 4T
 固态3 | 金百达 | KP230Pro 2T
 机箱 | 微星 | Creator400M
 机箱风扇 | 银欣 | SF140B *3
 键盘 | 宁芝 | 87key@35g 加菲电竞特别版
-鼠标 | 卓威 | EC1无线 3D打印版
-鼠标垫 | 卓威 | GS-R
+鼠标 | 卓威 | EC1DW
+鼠标垫 | 卓威 | GS-R II
 耳机 | 森海塞尔 | HD280Pro
 显示器 | 宏碁 | XV252Q F
 
 
 ## 笔记本电脑
 
-HP ENVY X360 14 2024
-- R7 8840HS
-- 32G LPDDR5 6400
+机械革命 无界14proX
+- R7 365 H
+- 32G DDR5 5600
 - 1T SSD
 - 2560*1600 120Hz
 
