@@ -29,7 +29,9 @@ draft: false
   - BOFXVII 总分第三名 Regain 的SP谱面作者
 - Counter-Strike : Global Offensive @ Global Elite 2023.5.20
   - 2020年秋 完美城市赛 哈尔滨站 冠军
-- Counter-Strike 2 @ 21999 Season3
+- Counter-Strike 2
+  - 21700 season1
+  - 21999 Season3
 
 ## 自我标签
 - 音乐游戏
