@@ -33,7 +33,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 0.63.2
+          hugo-version: ${{ env.HUGO_VERSION }}
           extended: true # 大多数现代主题需要 extended 版本
 
       - name: Build with Hugo
