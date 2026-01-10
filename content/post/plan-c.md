@@ -1,5 +1,5 @@
 ---
-title: "比赛"
+title: "Plan-C season1"
 date: 2026-01-10
 draft: false
 ---
