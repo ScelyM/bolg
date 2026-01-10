@@ -25,11 +25,11 @@ draft: false
   建了一个小群，写了一份beatoraja的教程，做了一点微小的工作。
 
 ## 玩什么
-- BMS @ Beatoraja @ Genoside2018 SP★10
+- BMS @ Beatoraja Genoside2018 SP★10
   - BOFXVII 总分第三名 Regain 的SP谱面作者
 - Counter-Strike : Global Offensive @ Global Elite 2023.5.20
   - 2020年秋 完美城市赛 哈尔滨站 冠军
-- Counter-Strike 2 @ 21700ELO 2024.1.18
+- Counter-Strike 2 @ 21999 Season3
 
 ## 自我标签
 - 音乐游戏
@@ -44,7 +44,7 @@ draft: false
 ---|---|---
 CPU | AMD | Ryzen 5 9700X @PBO +200MHz curve-13
 主板 | 微星 | MAG B650 TOMAHAWK
-内存 | 宏碁 | 掠夺者 6000 C30 16G*2
+内存 | 威刚 | D500 6000 C36 16G*2
 显卡 | AMD | RX6800 公版
 散热 | 九州风神 | AK400
 电源 | 九州风神 | PQ650G
@@ -62,9 +62,9 @@ CPU | AMD | Ryzen 5 9700X @PBO +200MHz curve-13
 
 ## 笔记本电脑
 
-机械革命 无界14proX
-- R7 365 H
-- 32G DDR5 5600
+OneXPlayer 游侠X1 10"95 tablet
+- R7 8840U
+- 32G LPDDR5 6400
 - 1T SSD
 - 2560*1600 120Hz
 
@@ -82,5 +82,5 @@ CPU | AMD | Ryzen 5 9700X @PBO +200MHz curve-13
 - [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
 - ~~[不使用的微博](https://weibo.com/2485089434/profile)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
-- [爱发电](https://afdian.com/@Scely)
+- ~~[爱发电](https://afdian.com/@Scely)~~
 
