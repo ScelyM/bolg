@@ -7,7 +7,7 @@ draft: false
 # Beatoraja使用教程
 
     我也不知道我为什么要写这个。
-    最近更新：23.4.8 删除了bat版本的相关教程。
+    最近更新：26.1.12 更新至0.8.8相关信息并替换图片。
 
 <!--more-->
 
@@ -94,7 +94,7 @@ Beatoraja需要有Java环境才可以运行。由于Jre版本内置了Java，不
 
 没什么意外情况的话，来到了标题为 “Beatoraja *版本号* configuration” 的窗口。
 
-![configuration界面](http://i0.hdslb.com/bfs/new_dyn/9b37d0747280149b4531bd2635ff6760550673.png)
+![configuration界面](https://s3.bmp.ovh/imgs/2026/01/12/2f23a4118826e9a0.png)
 
 ---
 
@@ -133,7 +133,7 @@ Input选项卡中将MODE切换至7keys
 
 切换至其他你所游玩的MODE，同样检查此项是否为1
 
-![input界面](http://i0.hdslb.com/bfs/new_dyn/9a88702536fec4f93a9c5a41fc14acc7550673.png)
+![input界面](https://s3.bmp.ovh/imgs/2026/01/12/70f40c5555ac7fca.png)
 
 ---
 
@@ -143,7 +143,7 @@ Input选项卡中将MODE切换至7keys
 
 选项卡切到Resource栏。
 
-![resource](http://i0.hdslb.com/bfs/new_dyn/e9d073b70320fad326490c7d5f0a8475550673.png)
+![resource](https://s3.bmp.ovh/imgs/2026/01/12/21176c3403230e5b.png)
 
 BMS Path为曲包目录，Table URL为难度表链接。
 
@@ -179,7 +179,7 @@ Beatoraja的难度表链接是默认内置的，点击下方的**Load Difficulty
 
 选项卡切到Skin栏。
 
-![skin](http://i0.hdslb.com/bfs/new_dyn/525f99eddb53f62fd247362340227a49550673.png)
+![skin](https://s3.bmp.ovh/imgs/2026/01/12/f34828a79af8ad58.png)
 
 Category栏切换游戏模式，搓盘不算在key数内，也就是7+1模式为7keys。
 
@@ -229,7 +229,7 @@ IR选项卡可以连接Internet Ranking。一般来说有两个网可以连：Mo
 
 默认的界面是5keys设置，需要按键盘的右方向键切到7keys。
 
-![按键设置](http://i0.hdslb.com/bfs/new_dyn/8a31a9b39aec7df63c684ac5447ea2b9550673.png)
+![按键设置](https://s3.bmp.ovh/imgs/2026/01/12/6e850c896c7c78b5.png)
 
 设置方法为回车高亮对应光标后点击对应按键。
 
@@ -264,20 +264,20 @@ A|S|D|F|J|[Space]|K|L|;
 
 按住start键菜单中可以调整目标分数/随机选项/血条选项。
 
-![start](http://i0.hdslb.com/bfs/new_dyn/a6ae39373b2fc1c6aebe2f3add315229550673.png)
+![start](https://s3.bmp.ovh/imgs/2026/01/12/1c2e42aff91241b7.png)
 
 - 不在此对随机选项/血条选项做说明。
 - 此菜单中通常会有一个Main BPM选项，建议打开。绝大多数的谱面中此选项有效。
 
 按住select键菜单中不建议调整任何选项。
 
-![select](http://i0.hdslb.com/bfs/new_dyn/409f7f714b075fdfdc3a259991246a0b550673.png)
+![select](https://s3.bmp.ovh/imgs/2026/01/12/e2b01446ed24249a.png)
 
 - 此菜单中的选项会对游戏有较大影响，建议进阶使用。
 
 同时按住start和select键菜单中可以调整延迟/下落速度/BGA开关/同步切换血条功能。
 
-![start+select](http://i0.hdslb.com/bfs/new_dyn/254cb122006773d2eeba2c935c762ae0550673.png)
+![start+select](https://s3.bmp.ovh/imgs/2026/01/12/47bd0589a58700af.png)
 
 在此解释一下best clear功能，开了这个选项后游戏中会同步跑所有血条：Full-Combo/EX-Hard/Hard/Normal/Easy/assist-Easy。在通过的前提下优先显示最高的血条。演示皮肤中可以调整最低下到哪个血条。
 
@@ -308,7 +308,7 @@ A|S|D|F|J|[Space]|K|L|;
 
 Q：点击play弹出如下界面该如何处理？
 
-![you are busted!](http://i0.hdslb.com/bfs/new_dyn/9e82c1e4c1691b97fde0c3d3f79dcc52550673.png)
+![you are busted!](https://s3.bmp.ovh/imgs/2026/01/12/6cbc836d057b1996.png)
 
 A：制作方并不想让Beatoraja成为IIDX或者DJMAX等商业游戏的模拟器，一旦检测到有商业解析BMS的导入就会强制不能运行。解决办法为窗口中所说：移除含有商业解析BMS的目录并点击Rebulid BMS Database。
 
