@@ -31,7 +31,7 @@ draft: false
   - 2020年秋 完美城市赛 哈尔滨站 冠军
 - Counter-Strike 2
   - 21700 season1
-  - 21999 Season3
+  - 21999 season3
 
 ## 自我标签
 - 音乐游戏
@@ -80,9 +80,7 @@ OneXPlayer 游侠X1 10"95 tablet
 - 直播间/Stream
   - https://live.bilibili.com/12447
 - [Discord channel](discord.gg/9mp6h6W)(不常用)
-- [Twitter](https://twitter.com/ScelyL)
-- [Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)
-- ~~[不使用的微博](https://weibo.com/2485089434/profile)~~
+- [Twitter/X](https://x.com/ScelyL)
+- ~~[Youtube](https://www.youtube.com/channel/UCEuWgIRKyeApO6dxfca5xOg)~~
 - [steam](https://steamcommunity.com/id/ScelyM/)
-- ~~[爱发电](https://afdian.com/@Scely)~~
 
