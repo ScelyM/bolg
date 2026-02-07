@@ -8,48 +8,59 @@ draft: false
 
 ## 写在前面
 
-    确实是忍不住想搞点活动，但是算了算近期BMS这东西的热度，感觉不会有什么好结果。
+确实是忍不住想搞点活动，但是算了算近期BMS这东西的热度，感觉不会有什么好结果。
     
-    这次就当试水了，看看这东西还有多少人感兴趣。
+这次就当试水了，看看这东西还有多少人感兴趣。
 
-    这届的规则比较复杂，希望大家多读读。
+这届的规则比较复杂，希望大家多读读。
 
 
 ## 谱面预览及下载
 
-[点此进入谱面预览视频(bilibili)](https://www.bilibili.com/video/BV1hVFxzzEzx/)
+本届谱面下载使用城通网盘+OneDrive双源。
 
-    本届谱面下载使用城通网盘+OneDrive双源。
+未对提交时的文件夹名称做修改，也不提供快捷大包，防止网盘限速导致的文件损坏。
 
-    未对提交时的文件夹名称做修改，也不提供快捷大包，防止网盘限速导致的文件损坏。
+- [点此进入谱面预览视频(bilibili)](https://www.bilibili.com/video/BV1hVFxzzEzx/)
 
-[城通网盘点此进入](https://url65.ctfile.com/s/98b382662c8931d3a2efb6bad7a149a1?p=2356)
+- [点此进入城通网盘](https://url65.ctfile.com/s/98b382662c8931d3a2efb6bad7a149a1?p=2356)
 
-[OneDrive点此进入](https://1drv.ms/f/c/69ba5afa5314b0d5/IgBfJqfXboRrRqyUiLRxuzxPAfMv_fRbJdK2tYr7EY4u3qs?e=lDQlsx)
+- [点此进入OneDrive](https://1drv.ms/f/c/69ba5afa5314b0d5/IgBfJqfXboRrRqyUiLRxuzxPAfMv_fRbJdK2tYr7EY4u3qs?e=lDQlsx)
 
-    参赛作品列表
-    Sudden Rain [SP AZOTHER]   by AZVW_2
-    臨終 [±21g]   by Scely
-    待機BGM1 [R-TECHNIQUE]  by R054
-    DAYBREAK [Solas]   by Scely
-    doleful rain, downcast autumn [rain-night]   by CalendarV
-    Celestial Axes -ST-   by LED
-    4-loop [7k Sequence Factory]   by Constellation
-    Nocturne [Night]   by kimi
-    T -CHAGEE-   by 小亚
-    雪願 [SP FROZEN]   by R054
-    Silent Sky [ExT]   by A1ice
+- 参赛作品列表
+
+    - Sudden Rain [SP AZOTHER]   by AZVW_2
+
+    - 臨終 [±21g]   by Scely
+
+    - 待機BGM1 [R-TECHNIQUE]  by R054
+
+    - DAYBREAK [Solas]   by Scely
+
+    - doleful rain, downcast autumn [rain-night]   by CalendarV
+
+    - Celestial Axes -ST-   by LED
+
+    - 4-loop [7k Sequence Factory]   by Constellation
+
+    - Nocturne [Night]   by kimi
+
+    - T -CHAGEE-   by 小亚
+
+    - 雪願 [SP FROZEN]   by R054
+
+    - Silent Sky [ExT]   by A1ice
 
 
 ## 投票规则
 
 [投票链接(问卷星)](https://tp.wjx.top/vm/mLDoRq1.aspx)
     
-    1-10分制，每张票需包含5个或以上不同分值，不对实际投票个数做要求，但如果未对某个作品投票则视为6分。
+- 1-10分制，每张票需包含5个或以上不同分值，不对实际投票个数做要求，但如果未对某个作品投票则视为6分。
 
-    由于投票服务方功能限制只能手动筛选有效票。
+- 由于投票服务方功能限制只能手动筛选有效票。
 
-    投票分为两个部分，选曲和谱面本身，最终统计时谱面部分将x2后与选曲部分相加获得总分。
+- 投票分为两个部分，选曲和谱面本身，最终统计时谱面部分将x2后与选曲部分相加获得总分。
 
 
 ## 参赛规则
