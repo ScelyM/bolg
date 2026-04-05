@@ -30,8 +30,9 @@ draft: false
 - Counter-Strike : Global Offensive @ Global Elite 2023.5.20
   - 2020年秋 完美城市赛 哈尔滨站 冠军
 - Counter-Strike 2
-  - 21700 season1
-  - 21999 season3
+  - 21700 S1
+  - 21999 S3
+  - 22864 S4
 
 ## 自我标签
 - 音乐游戏
